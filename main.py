@@ -8,6 +8,7 @@ import os
 from datetime import datetime
 
 from scraper.github_trending import fetch_trending
+from scraper.hacker_news import fetch_new_repos
 
 
 def save_to_json(data, filename):
@@ -23,30 +24,43 @@ def main():
     print("  DevPulse - AI 技术趋势分析器")
     print("=" * 50)
 
+    today = datetime.now().strftime("%Y-%m-%d")
+
     # 1. 抓取 GitHub Trending
     print("\n[步骤1] 抓取 GitHub 热门项目...")
     projects = fetch_trending(language="", since="daily")
 
-    if not projects:
-        print("没有抓取到数据，请检查网络连接")
-        return
+    # 2. 通过 GitHub API 搜索近期热门新项目
+    print("\n[步骤2] 搜索近 7 天热门新项目...")
+    new_repos = fetch_new_repos(language="", days=7, limit=20)
 
-    # 2. 显示结果
-    print(f"\n[步骤2] 共获取 {len(projects)} 个热门项目:")
-    print("-" * 50)
+    # 3. 合并数据
+    all_data = {
+        "date": today,
+        "github_trending": projects,
+        "github_new_repos": new_repos,
+    }
 
-    for i, p in enumerate(projects[:10], 1):
-        print(f"  {i:2d}. {p['name']:30s} {p['stars_today']:>15s}")
-        print(f"      {p['description'][:60]}")
-        print()
+    # 4. 显示摘要
+    print("\n" + "=" * 50)
+    print("  今日数据摘要")
+    print("=" * 50)
+    print(f"  GitHub Trending 项目: {len(projects)} 个")
+    print(f"  近 7 天热门新项目: {len(new_repos)} 个")
 
-    # 3. 保存数据
-    print("[步骤3] 保存数据...")
-    today = datetime.now().strftime("%Y-%m-%d")
-    filename = f"github_trending_{today}.json"
-    save_to_json(projects, filename)
+    if projects:
+        print(f"\n  Trending 第一名: {projects[0]['name']}")
+        print(f"  今日 Star: {projects[0]['stars_today']}")
 
-    print("\n完成！数据已保存。")
+    if new_repos:
+        print(f"\n  新项目第一名: {new_repos[0]['name']}")
+        print(f"  总 Star: {new_repos[0]['stars']}")
+
+    # 5. 保存
+    filename = f"devpulse_{today}.json"
+    save_to_json(all_data, filename)
+
+    print("\n完成！")
 
 
 if __name__ == "__main__":
