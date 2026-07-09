@@ -9,16 +9,30 @@ import glob
 from datetime import datetime
 from flask import Flask, render_template
 
+from scraper.github_trending import fetch_trending
+from scraper.hacker_news import fetch_new_repos
+from dotenv import load_dotenv
+
+load_dotenv()
+
 app = Flask(__name__)
+
+DATA_DIR = "data"
+
+
+def ensure_data_dir():
+    """确保 data 目录存在"""
+    if not os.path.exists(DATA_DIR):
+        os.makedirs(DATA_DIR)
 
 
 def load_latest_data():
     """加载最新的数据文件"""
-    data_files = glob.glob(os.path.join("data", "devpulse_*.json"))
+    ensure_data_dir()
+    data_files = glob.glob(os.path.join(DATA_DIR, "devpulse_*.json"))
     if not data_files:
         return None
 
-    # 按文件名排序，取最新的
     data_files.sort(reverse=True)
     latest_file = data_files[0]
 
@@ -26,13 +40,45 @@ def load_latest_data():
         return json.load(f)
 
 
+def collect_and_save():
+    """采集数据并保存"""
+    ensure_data_dir()
+    today = datetime.now().strftime("%Y-%m-%d")
+    filepath = os.path.join(DATA_DIR, f"devpulse_{today}.json")
+
+    # 如果今天已经有数据了，就不再采集
+    if os.path.exists(filepath):
+        print(f"今天的数据已存在: {filepath}")
+        return
+
+    print("开始采集数据...")
+    projects = fetch_trending(language="", since="daily")
+    new_repos = fetch_new_repos(language="", days=7, limit=20)
+
+    all_data = {
+        "date": today,
+        "github_trending": projects,
+        "github_new_repos": new_repos,
+        "daily_summary": "AI 趋势日报需要在本地运行 python main.py 生成，部署版暂不支持 AI 分析（节省 API 费用）。",
+    }
+
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(all_data, f, ensure_ascii=False, indent=2)
+    print(f"数据已保存到: {filepath}")
+
+
 @app.route("/")
 def index():
-    """首页 - 看板"""
+    """首页"""
     data = load_latest_data()
 
     if not data:
-        return "<h1>暂无数据，请先运行 python main.py 采集数据</h1>"
+        # 没有数据时，先采集一次
+        collect_and_save()
+        data = load_latest_data()
+
+    if not data:
+        return "<h1>数据采集失败，请稍后刷新重试</h1>"
 
     return render_template(
         "index.html",
