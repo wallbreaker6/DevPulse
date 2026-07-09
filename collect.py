@@ -1,0 +1,52 @@
+"""
+定时采集脚本
+由 PythonAnywhere 的定时任务每天自动调用
+只采集数据，不调用 AI（节省费用）
+"""
+
+import json
+import os
+from datetime import datetime
+
+from scraper.github_trending import fetch_trending
+from scraper.hacker_news import fetch_new_repos
+
+
+DATA_DIR = "data"
+
+
+def collect_and_save():
+    """采集数据并保存"""
+    if not os.path.exists(DATA_DIR):
+        os.makedirs(DATA_DIR)
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    filepath = os.path.join(DATA_DIR, f"devpulse_{today}.json")
+
+    # 如果今天已经有数据，跳过
+    if os.path.exists(filepath):
+        print(f"[{datetime.now()}] 今天的数据已存在，跳过")
+        return
+
+    print(f"[{datetime.now()}] 开始采集数据...")
+
+    projects = fetch_trending(language="", since="daily")
+    new_repos = fetch_new_repos(language="", days=7, limit=20)
+
+    all_data = {
+        "date": today,
+        "github_trending": projects,
+        "github_new_repos": new_repos,
+        "daily_summary": "AI 趋势日报需要在本地运行 python main.py 生成。",
+    }
+
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(all_data, f, ensure_ascii=False, indent=2)
+
+    print(f"[{datetime.now()}] 数据已保存到: {filepath}")
+    print(f"  GitHub Trending: {len(projects)} 个项目")
+    print(f"  近 7 天新项目: {len(new_repos)} 个")
+
+
+if __name__ == "__main__":
+    collect_and_save()

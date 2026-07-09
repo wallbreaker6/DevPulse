@@ -84,6 +84,14 @@
             padding: 8px 16px;
             border-radius: 8px;
         }
+        .nav-links { display: flex; gap: 16px; }
+        .nav-link {
+            font-size: 14px; color: var(--text-secondary);
+            text-decoration: none; padding: 8px 16px;
+            border: 1px solid var(--border); border-radius: 8px;
+            transition: all 0.2s;
+        }
+        .nav-link:hover, .nav-link.active { border-color: var(--accent); color: var(--accent); }
 
         /* Search Bar */
         .search-bar {
@@ -376,6 +384,10 @@
                 <div class="logo">
                     <div class="logo-icon">D</div>
                     <h1>Dev<span>Pulse</span></h1>
+                </div>
+                <div class="nav-links">
+                    <a href="/" class="nav-link active">首页</a>
+                    <a href="/trends" class="nav-link">趋势</a>
                 </div>
                 <div class="date-badge">{{ date }} · AI 技术趋势日报</div>
             </div>

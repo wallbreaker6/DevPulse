@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevPulse - 历史趋势</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+SC:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+    <style>
+        :root {
+            --bg: #08090d;
+            --surface: #10131a;
+            --border: #1e2433;
+            --accent: #00e5a0;
+            --accent-dim: #00e5a020;
+            --text: #e4e8ef;
+            --text-secondary: #7c8499;
+            --text-muted: #4a5167;
+            --blue: #5b9cf6;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Noto Sans SC', 'Space Grotesk', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: -50%; left: -50%;
+            width: 200%; height: 200%;
+            background:
+                radial-gradient(ellipse at 20% 20%, #00e5a008 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, #5b9cf608 0%, transparent 50%);
+            pointer-events: none;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+            position: relative;
+            z-index: 1;
+        }
+
+        header { padding: 48px 0 32px; border-bottom: 1px solid var(--border); margin-bottom: 40px; }
+
+        .header-top {
+            display: flex; align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap; gap: 16px;
+        }
+
+        .logo { display: flex; align-items: center; gap: 14px; }
+        .logo-icon {
+            width: 44px; height: 44px;
+            background: linear-gradient(135deg, var(--accent), #00b8d4);
+            border-radius: 12px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 22px; font-weight: 700; color: var(--bg);
+            font-family: 'JetBrains Mono', monospace;
+        }
+        .logo h1 { font-family: 'Space Grotesk', sans-serif; font-size: 28px; font-weight: 700; }
+        .logo h1 span { color: var(--accent); }
+
+        .nav-links { display: flex; gap: 16px; }
+        .nav-link {
+            font-size: 14px; color: var(--text-secondary);
+            text-decoration: none; padding: 8px 16px;
+            border: 1px solid var(--border); border-radius: 8px;
+            transition: all 0.2s;
+        }
+        .nav-link:hover, .nav-link.active { border-color: var(--accent); color: var(--accent); }
+
+        .chart-section {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 32px;
+            margin-bottom: 32px;
+            animation: fadeUp 0.6s ease forwards;
+            opacity: 0;
+        }
+
+        .chart-section:nth-child(2) { animation-delay: 0.1s; }
+        .chart-section:nth-child(3) { animation-delay: 0.2s; }
+        .chart-section:nth-child(4) { animation-delay: 0.3s; }
+
+        .chart-title {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 18px; font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .chart-desc {
+            font-size: 13px; color: var(--text-muted);
+            margin-bottom: 24px;
+        }
+
+        .chart-box { width: 100%; height: 400px; }
+
+        .no-data {
+            text-align: center; padding: 80px 20px;
+            color: var(--text-muted); font-size: 16px;
+        }
+
+        .no-data p { margin: 8px 0; }
+        .no-data .tip { font-size: 13px; color: var(--text-muted); margin-top: 16px; }
+
+        footer {
+            text-align: center; padding: 40px 0;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted); font-size: 13px;
+        }
+        footer a { color: var(--accent); text-decoration: none; }
+
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @media (max-width: 768px) {
+            .container { padding: 0 16px; }
+            .chart-box { height: 300px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-top">
+                <div class="logo">
+                    <div class="logo-icon">D</div>
+                    <h1>Dev<span>Pulse</span></h1>
+                </div>
+                <div class="nav-links">
+                    <a href="/" class="nav-link">首页</a>
+                    <a href="/trends" class="nav-link active">趋势</a>
+                </div>
+            </div>
+        </header>
+
+        {% if dates|length < 2 %}
+        <div class="no-data">
+            <p>需要至少 2 天的数据才能显示趋势图表</p>
+            <p>当前已有 {{ dates|length }} 天的数据</p>
+            <p class="tip">定时采集任务每天会自动采集数据，数据积累越多，图表越丰富</p>
+        </div>
+        {% else %}
+
+        <!-- Star 趋势图 -->
+        <div class="chart-section">
+            <div class="chart-title">项目 Star 增长趋势</div>
+            <div class="chart-desc">追踪热门项目每日获得的 Star 数</div>
+            <div id="starChart" class="chart-box"></div>
+        </div>
+
+        <!-- 每日项目数量 -->
+        <div class="chart-section">
+            <div class="chart-title">每日采集项目数量</div>
+            <div class="chart-desc">每天采集到的 Trending 和新项目数量变化</div>
+            <div id="countChart" class="chart-box"></div>
+        </div>
+
+        <!-- 语言分布饼图 -->
+        <div class="chart-section">
+            <div class="chart-title">编程语言分布</div>
+            <div class="chart-desc">热门项目中各编程语言的出现频率</div>
+            <div id="langChart" class="chart-box"></div>
+        </div>
+
+        {% endif %}
+
+        <footer>
+            <p>DevPulse · Built with Python · Powered by DeepSeek AI</p>
+        </footer>
+    </div>
+
+    {% if dates|length >= 2 %}
+    <script>
+        // 颜色方案
+        const colors = ['#00e5a0', '#5b9cf6', '#f0c946', '#f65b5b', '#ff8c42',
+                        '#a78bfa', '#38bdf8', '#fb7185', '#34d399', '#fbbf24'];
+
+        // Star 趋势图
+        const starChart = echarts.init(document.getElementById('starChart'));
+        const starOption = {
+            backgroundColor: 'transparent',
+            tooltip: { trigger: 'axis' },
+            legend: {
+                data: {{ star_names | tojson }},
+                textStyle: { color: '#7c8499', fontSize: 11 },
+                top: 0
+            },
+            grid: { left: '3%', right: '4%', bottom: '3%', top: '40px', containLabel: true },
+            xAxis: {
+                type: 'category',
+                data: {{ dates | tojson }},
+                axisLine: { lineStyle: { color: '#1e2433' } },
+                axisLabel: { color: '#7c8499', fontSize: 11 }
+            },
+            yAxis: {
+                type: 'value',
+                name: 'Stars',
+                axisLine: { lineStyle: { color: '#1e2433' } },
+                axisLabel: { color: '#7c8499' },
+                splitLine: { lineStyle: { color: '#1e243320' } }
+            },
+            series: {{ star_series | tojson }}
+        };
+        starChart.setOption(starOption);
+
+        // 项目数量趋势图
+        const countChart = echarts.init(document.getElementById('countChart'));
+        const countOption = {
+            backgroundColor: 'transparent',
+            tooltip: { trigger: 'axis' },
+            legend: {
+                data: ['Trending 项目', '新项目'],
+                textStyle: { color: '#7c8499', fontSize: 11 },
+                top: 0
+            },
+            grid: { left: '3%', right: '4%', bottom: '3%', top: '40px', containLabel: true },
+            xAxis: {
+                type: 'category',
+                data: {{ dates | tojson }},
+                axisLine: { lineStyle: { color: '#1e2433' } },
+                axisLabel: { color: '#7c8499', fontSize: 11 }
+            },
+            yAxis: {
+                type: 'value',
+                axisLine: { lineStyle: { color: '#1e2433' } },
+                axisLabel: { color: '#7c8499' },
+                splitLine: { lineStyle: { color: '#1e243320' } }
+            },
+            series: [
+                {
+                    name: 'Trending 项目',
+                    type: 'bar',
+                    data: {{ trending_counts | tojson }},
+                    itemStyle: { color: '#00e5a0', borderRadius: [4, 4, 0, 0] }
+                },
+                {
+                    name: '新项目',
+                    type: 'bar',
+                    data: {{ new_counts | tojson }},
+                    itemStyle: { color: '#5b9cf6', borderRadius: [4, 4, 0, 0] }
+                }
+            ]
+        };
+        countChart.setOption(countOption);
+
+        // 语言分布饼图
+        const langChart = echarts.init(document.getElementById('langChart'));
+        const langOption = {
+            backgroundColor: 'transparent',
+            tooltip: { trigger: 'item', formatter: '{b}: {c} ({d}%)' },
+            series: [{
+                type: 'pie',
+                radius: ['40%', '70%'],
+                center: ['50%', '50%'],
+                data: {{ lang_data | tojson }},
+                label: { color: '#7c8499', fontSize: 12 },
+                labelLine: { lineStyle: { color: '#4a5167' } },
+                itemStyle: {
+                    borderRadius: 6,
+                    borderColor: '#08090d',
+                    borderWidth: 2
+                }
+            }],
+            color: colors
+        };
+        langChart.setOption(langOption);
+
+        // 自适应窗口大小
+        window.addEventListener('resize', function() {
+            starChart.resize();
+            countChart.resize();
+            langChart.resize();
+        });
+    </script>
+    {% endif %}
+</body>
+</html>
