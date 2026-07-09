@@ -14,42 +14,31 @@
             --border: #1e2433;
             --accent: #00e5a0;
             --accent-dim: #00e5a020;
-            --accent-glow: #00e5a040;
             --text: #e4e8ef;
             --text-secondary: #7c8499;
             --text-muted: #4a5167;
-            --orange: #ff8c42;
             --blue: #5b9cf6;
-            --red: #f65b5b;
             --yellow: #f0c946;
         }
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
             font-family: 'Noto Sans SC', 'Space Grotesk', sans-serif;
             background: var(--bg);
             color: var(--text);
             min-height: 100vh;
-            overflow-x: hidden;
         }
 
         body::before {
             content: '';
             position: fixed;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
+            top: -50%; left: -50%;
+            width: 200%; height: 200%;
             background:
                 radial-gradient(ellipse at 20% 20%, #00e5a008 0%, transparent 50%),
                 radial-gradient(ellipse at 80% 80%, #5b9cf608 0%, transparent 50%);
             pointer-events: none;
-            z-index: 0;
         }
 
         .container {
@@ -61,11 +50,7 @@
         }
 
         /* Header */
-        header {
-            padding: 48px 0 32px;
-            border-bottom: 1px solid var(--border);
-            margin-bottom: 40px;
-        }
+        header { padding: 48px 0 32px; border-bottom: 1px solid var(--border); margin-bottom: 32px; }
 
         .header-top {
             display: flex;
@@ -75,36 +60,20 @@
             gap: 16px;
         }
 
-        .logo {
-            display: flex;
-            align-items: center;
-            gap: 14px;
-        }
+        .logo { display: flex; align-items: center; gap: 14px; }
 
         .logo-icon {
-            width: 44px;
-            height: 44px;
+            width: 44px; height: 44px;
             background: linear-gradient(135deg, var(--accent), #00b8d4);
             border-radius: 12px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 22px;
-            font-weight: 700;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 22px; font-weight: 700;
             color: var(--bg);
             font-family: 'JetBrains Mono', monospace;
         }
 
-        .logo h1 {
-            font-family: 'Space Grotesk', sans-serif;
-            font-size: 28px;
-            font-weight: 700;
-            letter-spacing: -0.5px;
-        }
-
-        .logo h1 span {
-            color: var(--accent);
-        }
+        .logo h1 { font-family: 'Space Grotesk', sans-serif; font-size: 28px; font-weight: 700; }
+        .logo h1 span { color: var(--accent); }
 
         .date-badge {
             font-family: 'JetBrains Mono', monospace;
@@ -114,6 +83,105 @@
             border: 1px solid var(--border);
             padding: 8px 16px;
             border-radius: 8px;
+        }
+
+        /* Search Bar */
+        .search-bar {
+            display: flex;
+            gap: 12px;
+            margin: 32px 0;
+            flex-wrap: wrap;
+        }
+
+        .search-bar form {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+
+        .search-input {
+            flex: 1;
+            min-width: 200px;
+            padding: 12px 16px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            color: var(--text);
+            font-size: 14px;
+            font-family: 'Noto Sans SC', sans-serif;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .search-input:focus { border-color: var(--accent); }
+
+        .search-input::placeholder { color: var(--text-muted); }
+
+        .filter-select {
+            padding: 12px 16px;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            color: var(--text);
+            font-size: 14px;
+            font-family: 'Noto Sans SC', sans-serif;
+            outline: none;
+            cursor: pointer;
+            min-width: 150px;
+            transition: border-color 0.2s;
+        }
+
+        .filter-select:focus { border-color: var(--accent); }
+
+        .filter-select option { background: var(--surface); color: var(--text); }
+
+        .search-btn {
+            padding: 12px 24px;
+            background: var(--accent);
+            color: var(--bg);
+            border: none;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-family: 'Noto Sans SC', sans-serif;
+        }
+
+        .search-btn:hover { opacity: 0.9; transform: translateY(-1px); }
+
+        .reset-btn {
+            padding: 12px 20px;
+            background: transparent;
+            color: var(--text-secondary);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-decoration: none;
+            font-family: 'Noto Sans SC', sans-serif;
+        }
+
+        .reset-btn:hover { border-color: var(--text-secondary); color: var(--text); }
+
+        .active-filters {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+        }
+
+        .filter-tag {
+            font-size: 12px;
+            padding: 6px 12px;
+            background: var(--accent-dim);
+            color: var(--accent);
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
         }
 
         /* Summary Card */
@@ -131,16 +199,13 @@
         .summary-card::before {
             content: '';
             position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
+            top: 0; left: 0; right: 0;
             height: 3px;
-            background: linear-gradient(90deg, var(--accent), var(--blue), var(--orange));
+            background: linear-gradient(90deg, var(--accent), var(--blue), var(--yellow));
         }
 
         .summary-label {
-            font-size: 11px;
-            font-weight: 600;
+            font-size: 11px; font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 2px;
             color: var(--accent);
@@ -148,17 +213,12 @@
             font-family: 'JetBrains Mono', monospace;
         }
 
-        .summary-text {
-            font-size: 16px;
-            line-height: 1.8;
-            color: var(--text-secondary);
-            white-space: pre-line;
-        }
+        .summary-text { font-size: 16px; line-height: 1.8; color: var(--text-secondary); white-space: pre-line; }
 
-        /* Stats Row */
+        /* Stats */
         .stats-row {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
             gap: 16px;
             margin-bottom: 40px;
         }
@@ -176,54 +236,37 @@
         .stat-card:nth-child(1) { animation-delay: 0.1s; }
         .stat-card:nth-child(2) { animation-delay: 0.2s; }
         .stat-card:nth-child(3) { animation-delay: 0.3s; }
+        .stat-card:nth-child(4) { animation-delay: 0.4s; }
 
         .stat-number {
             font-family: 'Space Grotesk', sans-serif;
-            font-size: 36px;
-            font-weight: 700;
+            font-size: 36px; font-weight: 700;
             color: var(--accent);
             line-height: 1;
         }
 
-        .stat-label {
-            font-size: 13px;
-            color: var(--text-muted);
-            margin-top: 8px;
-        }
+        .stat-label { font-size: 13px; color: var(--text-muted); margin-top: 8px; }
 
         /* Section */
-        .section {
-            margin-bottom: 48px;
-        }
+        .section { margin-bottom: 48px; }
 
         .section-header {
-            display: flex;
-            align-items: center;
-            gap: 12px;
+            display: flex; align-items: center; gap: 12px;
             margin-bottom: 24px;
         }
 
-        .section-title {
-            font-family: 'Space Grotesk', sans-serif;
-            font-size: 22px;
-            font-weight: 600;
-            letter-spacing: -0.3px;
-        }
+        .section-title { font-family: 'Space Grotesk', sans-serif; font-size: 22px; font-weight: 600; }
 
         .section-count {
             font-family: 'JetBrains Mono', monospace;
-            font-size: 12px;
-            color: var(--accent);
+            font-size: 12px; color: var(--accent);
             background: var(--accent-dim);
             padding: 4px 10px;
             border-radius: 6px;
         }
 
-        /* Project Cards */
-        .project-grid {
-            display: grid;
-            gap: 16px;
-        }
+        /* Cards */
+        .project-grid { display: grid; gap: 16px; }
 
         .project-card {
             background: var(--surface);
@@ -248,37 +291,24 @@
         .project-card:nth-child(4) { animation-delay: 0.2s; }
         .project-card:nth-child(5) { animation-delay: 0.25s; }
         .project-card:nth-child(6) { animation-delay: 0.3s; }
-        .project-card:nth-child(7) { animation-delay: 0.35s; }
-        .project-card:nth-child(8) { animation-delay: 0.4s; }
-        .project-card:nth-child(9) { animation-delay: 0.45s; }
-        .project-card:nth-child(10) { animation-delay: 0.5s; }
 
         .project-top {
-            display: flex;
-            align-items: flex-start;
+            display: flex; align-items: flex-start;
             justify-content: space-between;
-            gap: 16px;
-            margin-bottom: 12px;
+            gap: 16px; margin-bottom: 12px;
         }
 
         .project-name {
             font-family: 'JetBrains Mono', monospace;
-            font-size: 15px;
-            font-weight: 500;
+            font-size: 15px; font-weight: 500;
             color: var(--blue);
             text-decoration: none;
             transition: color 0.2s;
         }
 
-        .project-name:hover {
-            color: var(--accent);
-        }
+        .project-name:hover { color: var(--accent); }
 
-        .project-meta {
-            display: flex;
-            gap: 12px;
-            flex-shrink: 0;
-        }
+        .project-meta { display: flex; gap: 12px; flex-shrink: 0; }
 
         .tag {
             font-family: 'JetBrains Mono', monospace;
@@ -288,44 +318,30 @@
             white-space: nowrap;
         }
 
-        .tag-lang {
-            background: #5b9cf618;
-            color: var(--blue);
-            border: 1px solid #5b9cf630;
-        }
+        .tag-lang { background: #5b9cf618; color: var(--blue); border: 1px solid #5b9cf630; }
+        .tag-stars { background: #f0c94618; color: var(--yellow); border: 1px solid #f0c94630; }
 
-        .tag-stars {
-            background: #f0c94618;
-            color: var(--yellow);
-            border: 1px solid #f0c94630;
-        }
-
-        .project-desc {
-            font-size: 14px;
-            color: var(--text-secondary);
-            line-height: 1.6;
-            margin-bottom: 12px;
-        }
+        .project-desc { font-size: 14px; color: var(--text-secondary); line-height: 1.6; margin-bottom: 12px; }
 
         .project-analysis {
-            font-size: 13px;
-            color: var(--text-muted);
-            line-height: 1.7;
-            padding: 16px;
-            background: #0a0c12;
-            border-radius: 8px;
-            border-left: 3px solid var(--accent);
+            font-size: 13px; color: var(--text-muted); line-height: 1.7;
+            padding: 16px; background: #0a0c12;
+            border-radius: 8px; border-left: 3px solid var(--accent);
             margin-top: 12px;
         }
 
         .analysis-label {
-            font-size: 10px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 1.5px;
-            color: var(--accent);
-            margin-bottom: 8px;
+            font-size: 10px; font-weight: 600;
+            text-transform: uppercase; letter-spacing: 1.5px;
+            color: var(--accent); margin-bottom: 8px;
             font-family: 'JetBrains Mono', monospace;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-muted);
+            font-size: 16px;
         }
 
         /* Footer */
@@ -337,50 +353,24 @@
             font-size: 13px;
         }
 
-        footer a {
-            color: var(--accent);
-            text-decoration: none;
-        }
+        footer a { color: var(--accent); text-decoration: none; }
 
-        /* Animations */
         @keyframes fadeUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
-        /* Responsive */
         @media (max-width: 768px) {
-            .container {
-                padding: 0 16px;
-            }
-
-            header {
-                padding: 32px 0 24px;
-            }
-
-            .logo h1 {
-                font-size: 22px;
-            }
-
-            .summary-card {
-                padding: 24px;
-            }
-
-            .project-top {
-                flex-direction: column;
-            }
+            .container { padding: 0 16px; }
+            header { padding: 32px 0 24px; }
+            .logo h1 { font-size: 22px; }
+            .summary-card { padding: 24px; }
+            .project-top { flex-direction: column; }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <!-- Header -->
         <header>
             <div class="header-top">
                 <div class="logo">
@@ -391,83 +381,121 @@
             </div>
         </header>
 
-        <!-- Stats -->
+        <!-- 搜索栏 -->
+        <div class="search-bar">
+            <form action="/" method="get">
+                <input type="text" name="q" class="search-input"
+                       placeholder="搜索项目名称或关键词..."
+                       value="{{ keyword }}">
+                <select name="lang" class="filter-select">
+                    <option value="">全部语言</option>
+                    {% for lang in languages %}
+                    <option value="{{ lang }}" {% if lang == lang_filter %}selected{% endif %}>{{ lang }}</option>
+                    {% endfor %}
+                </select>
+                <button type="submit" class="search-btn">搜索</button>
+                {% if keyword or lang_filter %}
+                <a href="/" class="reset-btn">重置</a>
+                {% endif %}
+            </form>
+        </div>
+
+        <!-- 当前筛选条件 -->
+        {% if keyword or lang_filter %}
+        <div class="active-filters">
+            {% if keyword %}
+            <span class="filter-tag">关键词: {{ keyword }}</span>
+            {% endif %}
+            {% if lang_filter %}
+            <span class="filter-tag">语言: {{ lang_filter }}</span>
+            {% endif %}
+        </div>
+        {% endif %}
+
+        <!-- 数据统计 -->
         <div class="stats-row">
             <div class="stat-card">
                 <div class="stat-number">{{ trending | length }}</div>
-                <div class="stat-label">GitHub Trending 项目</div>
+                <div class="stat-label">GitHub Trending</div>
             </div>
             <div class="stat-card">
                 <div class="stat-number">{{ new_repos | length }}</div>
-                <div class="stat-label">近 7 天热门新项目</div>
+                <div class="stat-label">近 7 天新项目</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">{{ languages | length }}</div>
+                <div class="stat-label">编程语言</div>
             </div>
             <div class="stat-card">
                 <div class="stat-number">{{ trending[:3] | selectattr('ai_analysis') | list | length }}</div>
-                <div class="stat-label">AI 深度分析</div>
+                <div class="stat-label">AI 分析</div>
             </div>
         </div>
 
-        <!-- AI Summary -->
+        <!-- AI 日报 -->
         <div class="summary-card">
             <div class="summary-label">AI 趋势日报</div>
             <div class="summary-text">{{ summary }}</div>
         </div>
 
-        <!-- Trending Section -->
+        <!-- Trending -->
         <div class="section">
             <div class="section-header">
                 <h2 class="section-title">GitHub Trending</h2>
                 <span class="section-count">{{ trending | length }} projects</span>
             </div>
             <div class="project-grid">
-                {% for project in trending %}
-                <div class="project-card">
-                    <div class="project-top">
-                        <a href="{{ project.link }}" class="project-name" target="_blank">
-                            {{ project.name }}
-                        </a>
-                        <div class="project-meta">
-                            <span class="tag tag-lang">{{ project.language }}</span>
-                            <span class="tag tag-stars">{{ project.stars_today }}</span>
+                {% if trending %}
+                    {% for project in trending %}
+                    <div class="project-card">
+                        <div class="project-top">
+                            <a href="{{ project.link }}" class="project-name" target="_blank">{{ project.name }}</a>
+                            <div class="project-meta">
+                                <span class="tag tag-lang">{{ project.language }}</span>
+                                <span class="tag tag-stars">{{ project.stars_today }}</span>
+                            </div>
                         </div>
+                        <div class="project-desc">{{ project.description }}</div>
+                        {% if project.ai_analysis %}
+                        <div class="project-analysis">
+                            <div class="analysis-label">AI 分析</div>
+                            {{ project.ai_analysis }}
+                        </div>
+                        {% endif %}
                     </div>
-                    <div class="project-desc">{{ project.description }}</div>
-                    {% if project.ai_analysis %}
-                    <div class="project-analysis">
-                        <div class="analysis-label">AI 分析</div>
-                        {{ project.ai_analysis }}
-                    </div>
-                    {% endif %}
-                </div>
-                {% endfor %}
+                    {% endfor %}
+                {% else %}
+                    <div class="no-results">没有匹配的 Trending 项目</div>
+                {% endif %}
             </div>
         </div>
 
-        <!-- New Repos Section -->
+        <!-- 新项目 -->
         <div class="section">
             <div class="section-header">
                 <h2 class="section-title">近 7 天热门新项目</h2>
                 <span class="section-count">{{ new_repos | length }} projects</span>
             </div>
             <div class="project-grid">
-                {% for repo in new_repos %}
-                <div class="project-card">
-                    <div class="project-top">
-                        <a href="{{ repo.link }}" class="project-name" target="_blank">
-                            {{ repo.name }}
-                        </a>
-                        <div class="project-meta">
-                            <span class="tag tag-lang">{{ repo.language }}</span>
-                            <span class="tag tag-stars">{{ repo.stars }} stars</span>
+                {% if new_repos %}
+                    {% for repo in new_repos %}
+                    <div class="project-card">
+                        <div class="project-top">
+                            <a href="{{ repo.link }}" class="project-name" target="_blank">{{ repo.name }}</a>
+                            <div class="project-meta">
+                                <span class="tag tag-lang">{{ repo.language }}</span>
+                                <span class="tag tag-stars">{{ repo.stars }} stars</span>
+                            </div>
                         </div>
+                        <div class="project-desc">{{ repo.description or '暂无描述' }}</div>
                     </div>
-                    <div class="project-desc">{{ repo.description or '暂无描述' }}</div>
-                </div>
-                {% endfor %}
+                    {% endfor %}
+                {% else %}
+                    <div class="no-results">没有匹配的新项目</div>
+                {% endif %}
             </div>
         </div>
 
-        <!-- Footer -->
         <footer>
             <p>DevPulse · Built with Python · Powered by DeepSeek AI</p>
         </footer>
