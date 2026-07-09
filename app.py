@@ -11,6 +11,7 @@ from flask import Flask, render_template
 
 from scraper.github_trending import fetch_trending
 from scraper.hacker_news import fetch_new_repos
+from scraper.ai_analyzer import analyze_github_project, generate_daily_summary
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -41,12 +42,11 @@ def load_latest_data():
 
 
 def collect_and_save():
-    """采集数据并保存"""
+    """采集数据并保存（含 AI 分析）"""
     ensure_data_dir()
     today = datetime.now().strftime("%Y-%m-%d")
     filepath = os.path.join(DATA_DIR, f"devpulse_{today}.json")
 
-    # 如果今天已经有数据了，就不再采集
     if os.path.exists(filepath):
         print(f"今天的数据已存在: {filepath}")
         return
@@ -55,11 +55,28 @@ def collect_and_save():
     projects = fetch_trending(language="", since="daily")
     new_repos = fetch_new_repos(language="", days=7, limit=20)
 
+    # AI 分析 Top 3
+    print("开始 AI 分析...")
+    for i, project in enumerate(projects[:3], 1):
+        print(f"分析第 {i} 名: {project['name']}...")
+        try:
+            analysis = analyze_github_project(project)
+            project["ai_analysis"] = analysis
+        except Exception as e:
+            project["ai_analysis"] = f"分析失败: {str(e)}"
+
+    # AI 生成趋势日报
+    print("生成趋势日报...")
+    try:
+        daily_summary = generate_daily_summary(projects, new_repos)
+    except Exception as e:
+        daily_summary = f"日报生成失败: {str(e)}"
+
     all_data = {
         "date": today,
         "github_trending": projects,
         "github_new_repos": new_repos,
-        "daily_summary": "AI 趋势日报需要在本地运行 python main.py 生成，部署版暂不支持 AI 分析（节省 API 费用）。",
+        "daily_summary": daily_summary,
     }
 
     with open(filepath, "w", encoding="utf-8") as f:
@@ -73,7 +90,6 @@ def index():
     data = load_latest_data()
 
     if not data:
-        # 没有数据时，先采集一次
         collect_and_save()
         data = load_latest_data()
 
