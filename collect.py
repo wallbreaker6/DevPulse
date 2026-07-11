@@ -16,16 +16,12 @@ DATA_DIR = "data"
 
 
 def collect_and_save():
-    """采集数据并保存"""
+    """采集数据并保存（每次都重新采集并生成 AI 日报）"""
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR)
 
     today = datetime.now().strftime("%Y-%m-%d")
     filepath = os.path.join(DATA_DIR, f"devpulse_{today}.json")
-
-    if os.path.exists(filepath):
-        print(f"[{datetime.now()}] 今天的数据已存在，跳过")
-        return
 
     print(f"[{datetime.now()}] 开始采集数据...")
 
@@ -33,7 +29,7 @@ def collect_and_save():
     new_repos = fetch_new_repos(language="", days=7, limit=20)
 
     # 尝试调用 AI 生成日报
-    daily_summary = "AI 趋势日报生成失败，将在下次访问时重试。"
+    daily_summary = "AI 趋势日报生成失败，请检查 DEEPSEEK_API_KEY 是否正确配置。"
     try:
         from scraper.ai_analyzer import generate_daily_summary
         daily_summary = generate_daily_summary(projects, new_repos)

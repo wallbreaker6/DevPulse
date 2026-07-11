@@ -1,0 +1,8 @@
+{"yaml.customTags": [
+  "!And",
+  "!If",
+  "!Not",
+  "!Equals",
+  "!Or"
+]
+}
