@@ -1,7 +1,7 @@
 """
 定时采集脚本
-由 PythonAnywhere 的定时任务每天自动调用
-只采集数据，不调用 AI（节省费用）
+由 GitHub Actions 每天自动调用
+采集数据 + 调用 AI 生成日报
 """
 
 import json
@@ -23,7 +23,6 @@ def collect_and_save():
     today = datetime.now().strftime("%Y-%m-%d")
     filepath = os.path.join(DATA_DIR, f"devpulse_{today}.json")
 
-    # 如果今天已经有数据，跳过
     if os.path.exists(filepath):
         print(f"[{datetime.now()}] 今天的数据已存在，跳过")
         return
@@ -33,11 +32,20 @@ def collect_and_save():
     projects = fetch_trending(language="", since="daily")
     new_repos = fetch_new_repos(language="", days=7, limit=20)
 
+    # 尝试调用 AI 生成日报
+    daily_summary = "AI 趋势日报生成失败，将在下次访问时重试。"
+    try:
+        from scraper.ai_analyzer import generate_daily_summary
+        daily_summary = generate_daily_summary(projects, new_repos)
+        print(f"AI 日报生成成功")
+    except Exception as e:
+        print(f"AI 日报生成失败: {e}")
+
     all_data = {
         "date": today,
         "github_trending": projects,
         "github_new_repos": new_repos,
-        "daily_summary": "AI 趋势日报需要在本地运行 python main.py 生成。",
+        "daily_summary": daily_summary,
     }
 
     with open(filepath, "w", encoding="utf-8") as f:
