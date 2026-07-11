@@ -1,0 +1,311 @@
+{
+  "date": "2026-07-09",
+  "github_trending": [
+    {
+      "name": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "1,297 stars today",
+      "total_stars": "74,714",
+      "ai_analysis": "addyosmani/agent-skills 是一个为AI编码智能体提供生产级工程技能的JavaScript库。它最近火了，因为作者是Chrome团队知名工程师，项目精准抓住了AI辅助编程从“玩具”迈向“工业级”的痛点，提供可复用的工程化技能模板。对开发者的价值在于能快速将AI编码智能体升级为懂代码规范、测试和性能优化的“高级工程师”，显著提升代码质量和开发效率。"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "799 stars today",
+      "total_stars": "79,312",
+      "ai_analysis": "RuView 用普通 WiFi 信号实现实时空间感知、生命体征监测和存在检测，无需摄像头。它最近火了是因为隐私优先的传感方案契合当下数据安全需求，且 Rust 实现性能优秀。对开发者而言，这是学习无线感知、信号处理与 Rust 系统编程结合的极佳实战项目，可拓展智能家居、医疗监控等应用。"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "language": "TypeScript",
+      "stars_today": "318 stars today",
+      "total_stars": "7,807",
+      "ai_analysis": "腾讯云开源的AI Agent长期记忆框架，通过四层渐进式流水线实现完全本地化记忆管理，无需外部API。最近火爆因契合AI Agent对持久化记忆的刚需，且零外部依赖特性解决了数据隐私和延迟痛点，加上腾讯云背书增强可信度。开发者可快速为智能体添加记忆能力，降低云端调用成本，尤其适合隐私敏感型应用和边缘计算场景。"
+    },
+    {
+      "name": "prisma/prisma",
+      "link": "https://github.com/prisma/prisma",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars_today": "46 stars today",
+      "total_stars": "46,643"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "352 stars today",
+      "total_stars": "50,932"
+    },
+    {
+      "name": "argoproj/argo-cd",
+      "link": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars_today": "29 stars today",
+      "total_stars": "23,468"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "link": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_today": "1,717 stars today",
+      "total_stars": "12,374"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_today": "1,218 stars today",
+      "total_stars": "54,464"
+    },
+    {
+      "name": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,116 stars today",
+      "total_stars": "250,118"
+    },
+    {
+      "name": "alibaba/zvec",
+      "link": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars_today": "395 stars today",
+      "total_stars": "14,522"
+    },
+    {
+      "name": "Diolinux/PhotoGIMP",
+      "link": "https://github.com/Diolinux/PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "language": "CSS",
+      "stars_today": "1,125 stars today",
+      "total_stars": "15,157"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars_today": "28 stars today",
+      "total_stars": "6,424"
+    },
+    {
+      "name": "huxingyi/autoremesher",
+      "link": "https://github.com/huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars_today": "296 stars today",
+      "total_stars": "2,095"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "link": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars_today": "951 stars today",
+      "total_stars": "6,213"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "link": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars_today": "564 stars today",
+      "total_stars": "9,055"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "x4gKing/X4G",
+      "link": "https://github.com/x4gKing/X4G",
+      "description": null,
+      "language": "Python",
+      "stars": 2555,
+      "forks": 4958,
+      "created_at": "2026-07-04T06:43:51Z"
+    },
+    {
+      "name": "synthetic-sciences/openscience",
+      "link": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "language": "TypeScript",
+      "stars": 1814,
+      "forks": 259,
+      "created_at": "2026-07-03T15:06:45Z"
+    },
+    {
+      "name": "Shpigford/knockoff",
+      "link": "https://github.com/Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stars": 1434,
+      "forks": 44,
+      "created_at": "2026-07-06T15:06:06Z"
+    },
+    {
+      "name": "xuchonglang/investing-for-beginners",
+      "link": "https://github.com/xuchonglang/investing-for-beginners",
+      "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "language": null,
+      "stars": 1403,
+      "forks": 91,
+      "created_at": "2026-07-03T03:56:00Z"
+    },
+    {
+      "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+      "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+      "language": "C++",
+      "stars": 1372,
+      "forks": 111,
+      "created_at": "2026-07-04T02:59:39Z"
+    },
+    {
+      "name": "jamesob/local-llm",
+      "link": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "language": "Shell",
+      "stars": 1280,
+      "forks": 79,
+      "created_at": "2026-07-03T13:06:03Z"
+    },
+    {
+      "name": "MaximeRivest/riddle",
+      "link": "https://github.com/MaximeRivest/riddle",
+      "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "language": "Rust",
+      "stars": 1222,
+      "forks": 93,
+      "created_at": "2026-07-05T15:48:08Z"
+    },
+    {
+      "name": "514-labs/dnsglobe",
+      "link": "https://github.com/514-labs/dnsglobe",
+      "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "language": "Rust",
+      "stars": 744,
+      "forks": 18,
+      "created_at": "2026-07-05T01:03:37Z"
+    },
+    {
+      "name": "withmarbleapp/os-taxonomy",
+      "link": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 662,
+      "forks": 121,
+      "created_at": "2026-07-08T09:27:48Z"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "link": "https://github.com/yynxxxxx/Codex-X",
+      "description": "Codex Switch & Instruct desktop manager",
+      "language": "Rust",
+      "stars": 628,
+      "forks": 103,
+      "created_at": "2026-07-04T03:28:35Z"
+    },
+    {
+      "name": "wouterdebie/davit",
+      "link": "https://github.com/wouterdebie/davit",
+      "description": "A native macOS UI for Apple's platform",
+      "language": "Swift",
+      "stars": 595,
+      "forks": 8,
+      "created_at": "2026-07-04T16:50:17Z"
+    },
+    {
+      "name": "Kulaxyz/token-diet",
+      "link": "https://github.com/Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "language": "Shell",
+      "stars": 566,
+      "forks": 3,
+      "created_at": "2026-07-03T15:20:04Z"
+    },
+    {
+      "name": "simonlin1212/Vibe-Research",
+      "link": "https://github.com/simonlin1212/Vibe-Research",
+      "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "language": "TypeScript",
+      "stars": 561,
+      "forks": 110,
+      "created_at": "2026-07-05T06:30:55Z"
+    },
+    {
+      "name": "Robbyant/lingbot-vision",
+      "link": "https://github.com/Robbyant/lingbot-vision",
+      "description": "Self-supervised learning for spatial perception",
+      "language": "Python",
+      "stars": 523,
+      "forks": 16,
+      "created_at": "2026-07-06T14:09:42Z"
+    },
+    {
+      "name": "nagisanzenin/engram",
+      "link": "https://github.com/nagisanzenin/engram",
+      "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "language": "Python",
+      "stars": 445,
+      "forks": 54,
+      "created_at": "2026-07-05T09:53:10Z"
+    },
+    {
+      "name": "pocket-stack/pocketjs",
+      "link": "https://github.com/pocket-stack/pocketjs",
+      "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
+      "language": "TypeScript",
+      "stars": 437,
+      "forks": 16,
+      "created_at": "2026-07-03T07:28:28Z"
+    },
+    {
+      "name": "V4bel/Januscape",
+      "link": "https://github.com/V4bel/Januscape",
+      "description": null,
+      "language": "C",
+      "stars": 413,
+      "forks": 55,
+      "created_at": "2026-07-06T15:35:00Z"
+    },
+    {
+      "name": "ai4s-research/open-science",
+      "link": "https://github.com/ai4s-research/open-science",
+      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "language": "TypeScript",
+      "stars": 408,
+      "forks": 45,
+      "created_at": "2026-07-03T09:22:31Z"
+    },
+    {
+      "name": "Pluviobyte/rnskill",
+      "link": "https://github.com/Pluviobyte/rnskill",
+      "description": "雪踏乌云的 AI Agent Skills 集合",
+      "language": "Python",
+      "stars": 383,
+      "forks": 37,
+      "created_at": "2026-07-04T18:43:42Z"
+    },
+    {
+      "name": "op7418/guizang-material-illustration",
+      "link": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "language": null,
+      "stars": 380,
+      "forks": 33,
+      "created_at": "2026-07-07T13:57:13Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI Agent工具链与基础设施的爆发式增长，同时数据库、DevOps与安全领域也有显著突破。最火方向无疑是AI，尤其是围绕AI编码技能、Agent长期记忆与本地化推理的项目占据主导。推荐关注：1. **addyosmani/agent-skills**，提供生产级工程技能给AI编码，直接提升代码生成质量；2. **TencentCloud/TencentDB-Agent-Memory**，实现完全本地化的长期记忆存储，是构建持久化Agent的关键组件；3. **asgeirtj/system_prompts_leaks**，曝光主流模型系统提示词，对理解AI行为边界与安全研究极具价值。"
+}
