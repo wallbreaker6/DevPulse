@@ -504,7 +504,7 @@
         <div class="stats-row">
             <div class="stat-card">
                 <div class="stat-number">{{ trending | length }}</div>
-                <div class="stat-label">GitHub Trending</div>
+                <div class="stat-label">GitHub 热门项目</div>
             </div>
             <div class="stat-card">
                 <div class="stat-number">{{ new_repos | length }}</div>
@@ -529,8 +529,8 @@
         <!-- Trending -->
         <div class="section">
             <div class="section-header">
-                <h2 class="section-title">GitHub Trending</h2>
-                <span class="section-count">{{ trending | length }} projects</span>
+                <h2 class="section-title">GitHub 热门项目</h2>
+                <span class="section-count">{{ trending | length }} 个项目</span>
             </div>
             <div class="project-grid">
                 {% if trending %}
@@ -540,7 +540,7 @@
                             <a href="{{ project.link }}" class="project-name" target="_blank">{{ project.name }}</a>
                             <div class="project-meta">
                                 <span class="tag tag-lang">{{ project.language }}</span>
-                                <span class="tag tag-stars">{{ project.stars_today }}</span>
+                                <span class="tag tag-stars">⭐ 今日 +{{ project.stars_today | replace(" stars today", "") | replace("star", "") }}</span>
                             </div>
                         </div>
                         <div class="project-desc">{{ project.description }}</div>
@@ -553,7 +553,7 @@
                     </div>
                     {% endfor %}
                 {% else %}
-                    <div class="no-results">没有匹配的 Trending 项目</div>
+                    <div class="no-results">没有匹配的热门项目</div>
                 {% endif %}
             </div>
         </div>
@@ -562,7 +562,7 @@
         <div class="section">
             <div class="section-header">
                 <h2 class="section-title">近 7 天热门新项目</h2>
-                <span class="section-count">{{ new_repos | length }} projects</span>
+                <span class="section-count">{{ new_repos | length }} 个项目</span>
             </div>
             <div class="project-grid">
                 {% if new_repos %}
@@ -572,7 +572,7 @@
                             <a href="{{ repo.link }}" class="project-name" target="_blank">{{ repo.name }}</a>
                             <div class="project-meta">
                                 <span class="tag tag-lang">{{ repo.language }}</span>
-                                <span class="tag tag-stars">{{ repo.stars }} stars</span>
+                                <span class="tag tag-stars">{{ repo.stars }} 星标</span>
                             </div>
                         </div>
                         <div class="project-desc">{{ repo.description or '暂无描述' }}</div>
