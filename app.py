@@ -31,17 +31,35 @@ def ensure_data_dir():
         os.makedirs(DATA_DIR)
 
 
-def load_latest_data():
+def get_available_dates():
+    """获取所有可用的日期列表"""
     ensure_data_dir()
     data_files = glob.glob(os.path.join(DATA_DIR, "devpulse_*.json"))
-    if not data_files:
+    dates = []
+    for f in data_files:
+        filename = os.path.basename(f)
+        # devpulse_2026-07-11.json -> 2026-07-11
+        date_str = filename.replace("devpulse_", "").replace(".json", "")
+        dates.append(date_str)
+    dates.sort(reverse=True)
+    return dates
+
+
+def load_data_by_date(date_str):
+    """按日期加载数据"""
+    filepath = os.path.join(DATA_DIR, f"devpulse_{date_str}.json")
+    if os.path.exists(filepath):
+        with open(filepath, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return None
+
+
+def load_latest_data():
+    """加载最新的数据文件"""
+    dates = get_available_dates()
+    if not dates:
         return None
-
-    data_files.sort(reverse=True)
-    latest_file = data_files[0]
-
-    with open(latest_file, "r", encoding="utf-8") as f:
-        return json.load(f)
+    return load_data_by_date(dates[0])
 
 
 def collect_and_save():
@@ -55,7 +73,6 @@ def collect_and_save():
         hours_old = (datetime.now().timestamp() - mtime) / 3600
         if hours_old < 6:
             return
-        print(f"数据超过 6 小时，更新中...")
 
     print("开始采集数据...")
     projects = fetch_trending(language="", since="daily")
@@ -90,11 +107,25 @@ def get_all_languages(data):
 def index():
     """首页 - 看板"""
     collect_and_save()
-    data = load_latest_data()
+
+    # 获取所有可用日期
+    available_dates = get_available_dates()
+
+    # 获取当前选择的日期
+    selected_date = request.args.get("date", "")
+
+    # 加载数据
+    if selected_date:
+        data = load_data_by_date(selected_date)
+    else:
+        data = load_latest_data()
+        if data:
+            selected_date = data.get("date", "")
 
     if not data:
-        return "<h1>数据采集失败，请稍后刷新重试</h1>"
+        return "<h1>暂无数据，请稍后刷新重试</h1>"
 
+    # 搜索和筛选
     keyword = request.args.get("q", "").strip().lower()
     lang_filter = request.args.get("lang", "").strip()
 
@@ -115,7 +146,8 @@ def index():
 
     return render_template(
         "index.html",
-        date=data.get("date", ""),
+        date=selected_date,
+        available_dates=available_dates,
         trending=trending,
         new_repos=new_repos,
         summary=data.get("daily_summary", "暂无总结"),
@@ -138,7 +170,6 @@ def trends():
     lang_stats = get_language_stats(all_data)
     dates_count, trending_counts, new_counts = get_daily_project_count(all_data)
 
-    # 构建 ECharts 需要的数据格式
     star_names = list(star_trends.keys())
     star_series = []
     chart_colors = ['#00e5a0', '#5b9cf6', '#f0c946', '#f65b5b', '#ff8c42',
@@ -166,6 +197,28 @@ def trends():
         new_counts=new_counts,
         lang_data=lang_data,
     )
+
+
+@app.route("/api/data")
+def api_data():
+    """数据 API 接口"""
+    data = load_latest_data()
+    if not data:
+        from flask import jsonify
+        return jsonify({"error": "暂无数据"}), 404
+    from flask import jsonify
+    return jsonify(data)
+
+
+@app.route("/api/trending")
+def api_trending():
+    """只返回 Trending 项目"""
+    data = load_latest_data()
+    if not data:
+        from flask import jsonify
+        return jsonify({"error": "暂无数据"}), 404
+    from flask import jsonify
+    return jsonify(data.get("github_trending", []))
 
 
 if __name__ == "__main__":
