@@ -2,63 +2,13 @@
   "date": "2026-07-12",
   "github_trending": [
     {
-      "name": "catchorg/Catch2",
-      "link": "https://github.com/catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "C++",
-      "stars_today": "113 stars today",
-      "total_stars": "21,062",
-      "ai_analysis": "Catch2 是一个现代 C++ 单元测试框架，支持 TDD 和 BDD 风格，兼容 C++14/17/20。今日获 113 星，可能因新版本发布修复关键缺陷或增强与 CMake 的集成兼容性，以及 C++ 社区对轻量级、无外部依赖测试工具的需求持续升温。对开发者而言，它提供极简的宏定义和头文件集成，能快速编写测试并生成清晰报告，尤其适合跨平台项目或需兼顾旧标准（C++11/03）的遗留代码维护。"
-    },
-    {
-      "name": "abseil/abseil-cpp",
-      "link": "https://github.com/abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "language": "C++",
-      "stars_today": "118 stars today",
-      "total_stars": "17,810",
-      "ai_analysis": "Abseil 是 Google 内部 C++ 标准库的开源扩展，提供基础工具类（如字符串、容器、时间等）。最近因 C++23/26 标准演进中借鉴其设计，以及大型项目（如 TensorFlow、gRPC）持续依赖而受关注。对开发者而言，它填补了标准库的空白，提高代码可移植性与性能，是构建高质量 C++ 项目的必备基础设施。"
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "link": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars_today": "232 stars today",
-      "total_stars": "29,033",
-      "ai_analysis": "这是一个用于配置和监控 Claude Code 的 CLI 工具，通过模板化操作简化 AI 编码流程。它最近爆火，主要因为 Claude Code 作为 Anthropic 的 AI 编码助手正处风口，而该工具填补了官方缺乏便捷配置与监控界面的空白，满足了开发者对高效管理 AI 工作流的迫切需求。对开发者而言，它能大幅提升与 Claude 协作的效率和透明度，快速切换提示模板、监控 token 消耗和运行状态，是优化 AI 辅助编程体验的实用利器。"
-    },
-    {
-      "name": "google-labs-code/stitch-skills",
-      "link": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "language": "TypeScript",
-      "stars_today": "340 stars today",
-      "total_stars": "7,079"
-    },
-    {
-      "name": "hashicorp/terraform",
-      "link": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "stars_today": "229 stars today",
-      "total_stars": "49,375"
-    },
-    {
-      "name": "zeux/meshoptimizer",
-      "link": "https://github.com/zeux/meshoptimizer",
-      "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "language": "C++",
-      "stars_today": "110 stars today",
-      "total_stars": "8,142"
-    },
-    {
-      "name": "openai/plugins",
-      "link": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "29 stars today",
-      "total_stars": "4,427"
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars_today": "444 stars today",
+      "total_stars": "2,274",
+      "ai_analysis": "这是一个用Rust编写的安全工具，专门拦截AI代理或脚本误执行的危险git和shell命令。最近爆火是因为AI编程Agent频繁引发用户环境被意外删除或git强制推送等事故，开发者急需这种轻量级“保险丝”。对开发者而言，它能在不改变工作流的前提下，为自动化脚本或LLM生成的代码执行提供一层关键保护，尤其适合CI/CD和本地开发环境。"
     },
     {
       "name": "wonderwhy-er/DesktopCommanderMCP",
@@ -66,95 +16,33 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
       "stars_today": "909 stars today",
-      "total_stars": "7,786"
+      "total_stars": "7,853",
+      "ai_analysis": "这是一个为Claude提供终端控制、文件搜索和差异编辑能力的MCP服务器。它最近爆火是因为开发者渴望让AI直接操作本地系统，实现自动化编码和文件管理，而DesktopCommanderMCP恰好填补了Claude在桌面端执行复杂命令的缺口。对开发者而言，它能极大提升AI辅助编程的效率，减少手动切换终端和编辑器的重复劳动。"
     },
     {
-      "name": "chriskohlhoff/asio",
-      "link": "https://github.com/chriskohlhoff/asio",
-      "description": "Asio C++ Library",
-      "language": "C++",
-      "stars_today": "76 stars today",
-      "total_stars": "6,139"
-    },
-    {
-      "name": "oven-sh/bun",
-      "link": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "stars_today": "658 stars today",
-      "total_stars": "94,573"
-    },
-    {
-      "name": "actions/checkout",
-      "link": "https://github.com/actions/checkout",
-      "description": "Action for checking out a repo",
-      "language": "TypeScript",
-      "stars_today": "8 stars today",
-      "total_stars": "8,469"
-    },
-    {
-      "name": "home-assistant/core",
-      "link": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "name": "HKUDS/Vibe-Trading",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "80 stars today",
-      "total_stars": "88,710"
+      "stars_today": "776 stars today",
+      "total_stars": "20,000",
+      "ai_analysis": "这是一个基于Python的个人交易代理项目，通过“氛围交易”理念辅助用户执行策略。它近期的爆火可能得益于市场对AI辅助交易工具的高需求，以及项目简洁易用、今日斩获776星所反映的社区共鸣。对开发者而言，该项目提供了学习量化交易、API集成和智能代理设计的实战范例，能快速上手构建个性化交易系统。"
     },
     {
-      "name": "microsoft/PowerToys",
-      "link": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "C",
-      "stars_today": "39 stars today",
-      "total_stars": "136,442"
+      "name": "PrefectHQ/prefect",
+      "link": "https://github.com/PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars_today": "55 stars today",
+      "total_stars": "22,994"
     },
     {
-      "name": "cypress-io/cypress",
-      "link": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "TypeScript",
-      "stars_today": "19 stars today",
-      "total_stars": "50,629"
-    },
-    {
-      "name": "vercel/next.js",
-      "link": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "stars_today": "334 stars today",
-      "total_stars": "140,964"
-    },
-    {
-      "name": "DayuanJiang/next-ai-draw-io",
-      "link": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-      "language": "TypeScript",
-      "stars_today": "81 stars today",
-      "total_stars": "33,303"
-    },
-    {
-      "name": "malisper/pgrust",
-      "link": "https://github.com/malisper/pgrust",
-      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "language": "Rust",
-      "stars_today": "774 stars today",
-      "total_stars": "2,091"
-    },
-    {
-      "name": "dotnet/aspnetcore",
-      "link": "https://github.com/dotnet/aspnetcore",
-      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-      "language": "C#",
-      "stars_today": "4 stars today",
-      "total_stars": "38,308"
-    },
-    {
-      "name": "prisma/prisma",
-      "link": "https://github.com/prisma/prisma",
-      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "language": "TypeScript",
-      "stars_today": "37 stars today",
-      "total_stars": "47,264"
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars_today": "549 stars today",
+      "total_stars": "118,183"
     },
     {
       "name": "anthropics/claude-cookbooks",
@@ -162,39 +50,95 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "stars_today": "219 stars today",
-      "total_stars": "47,958"
+      "total_stars": "48,110"
     },
     {
-      "name": "obra/superpowers",
-      "link": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "740 stars today",
-      "total_stars": "252,484"
-    },
-    {
-      "name": "nasa/fprime",
-      "link": "https://github.com/nasa/fprime",
-      "description": "F´ - A flight software and embedded systems framework",
-      "language": "C++",
-      "stars_today": "22 stars today",
-      "total_stars": "11,492"
-    },
-    {
-      "name": "ansible/ansible",
-      "link": "https://github.com/ansible/ansible",
-      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+      "name": "home-assistant/core",
+      "link": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
-      "stars_today": "24 stars today",
-      "total_stars": "69,597"
+      "stars_today": "80 stars today",
+      "total_stars": "88,835"
     },
     {
-      "name": "nuxt/nuxt",
-      "link": "https://github.com/nuxt/nuxt",
-      "description": "the full-stack Vue framework",
+      "name": "Crosstalk-Solutions/project-nomad",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars_today": "16 stars today",
-      "total_stars": "60,735"
+      "stars_today": "122 stars today",
+      "total_stars": "33,589"
+    },
+    {
+      "name": "ColeMurray/background-agents",
+      "link": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars_today": "9 stars today",
+      "total_stars": "2,144"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "link": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars_today": "661 stars today",
+      "total_stars": "6,516"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "description": "暂无描述",
+      "language": "TypeScript",
+      "stars_today": "79 stars today",
+      "total_stars": "13,630"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "link": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars_today": "109 stars today",
+      "total_stars": "61,213"
+    },
+    {
+      "name": "chen08209/FlClash",
+      "link": "https://github.com/chen08209/FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "stars_today": "151 stars today",
+      "total_stars": "45,098"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": "232 stars today",
+      "total_stars": "29,129"
+    },
+    {
+      "name": "par274/sharpemu",
+      "link": "https://github.com/par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars_today": "436 stars today",
+      "total_stars": "962"
+    },
+    {
+      "name": "malisper/pgrust",
+      "link": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars_today": "774 stars today",
+      "total_stars": "2,238"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "210 stars today",
+      "total_stars": "3,906"
     }
   ],
   "github_new_repos": [
@@ -203,8 +147,8 @@
       "link": "https://github.com/withmarbleapp/os-taxonomy",
       "description": null,
       "language": "JavaScript",
-      "stars": 2415,
-      "forks": 451,
+      "stars": 2550,
+      "forks": 471,
       "created_at": "2026-07-08T09:27:48Z"
     },
     {
@@ -212,8 +156,8 @@
       "link": "https://github.com/Shpigford/knockoff",
       "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "language": "JavaScript",
-      "stars": 1773,
-      "forks": 58,
+      "stars": 1791,
+      "forks": 59,
       "created_at": "2026-07-06T15:06:06Z"
     },
     {
@@ -221,35 +165,35 @@
       "link": "https://github.com/oso95/scroll-world",
       "description": "A skill that turn any brand into a scrollable 3D world",
       "language": "JavaScript",
-      "stars": 895,
-      "forks": 94,
+      "stars": 1007,
+      "forks": 121,
       "created_at": "2026-07-06T21:28:58Z"
-    },
-    {
-      "name": "x4gKing/3x-ui-Upgrade",
-      "link": "https://github.com/x4gKing/3x-ui-Upgrade",
-      "description": null,
-      "language": "HTML",
-      "stars": 800,
-      "forks": 1636,
-      "created_at": "2026-07-08T06:13:23Z"
     },
     {
       "name": "Robbyant/lingbot-world-v2",
       "link": "https://github.com/Robbyant/lingbot-world-v2",
       "description": "Infinite Worlds with Versatile Interactions",
       "language": "Python",
-      "stars": 797,
-      "forks": 31,
+      "stars": 864,
+      "forks": 42,
       "created_at": "2026-07-08T09:24:50Z"
+    },
+    {
+      "name": "x4gKing/3x-ui-Upgrade",
+      "link": "https://github.com/x4gKing/3x-ui-Upgrade",
+      "description": null,
+      "language": "HTML",
+      "stars": 825,
+      "forks": 1714,
+      "created_at": "2026-07-08T06:13:23Z"
     },
     {
       "name": "Robbyant/lingbot-video",
       "link": "https://github.com/Robbyant/lingbot-video",
       "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
       "language": "Python",
-      "stars": 680,
-      "forks": 24,
+      "stars": 703,
+      "forks": 25,
       "created_at": "2026-07-08T13:52:08Z"
     },
     {
@@ -257,8 +201,8 @@
       "link": "https://github.com/Robbyant/lingbot-vision",
       "description": "Self-supervised learning for spatial perception",
       "language": "Python",
-      "stars": 635,
-      "forks": 20,
+      "stars": 651,
+      "forks": 22,
       "created_at": "2026-07-06T14:09:42Z"
     },
     {
@@ -266,8 +210,8 @@
       "link": "https://github.com/op7418/guizang-material-illustration",
       "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
       "language": null,
-      "stars": 560,
-      "forks": 59,
+      "stars": 574,
+      "forks": 61,
       "created_at": "2026-07-07T13:57:13Z"
     },
     {
@@ -275,7 +219,7 @@
       "link": "https://github.com/V4bel/Januscape",
       "description": null,
       "language": "C",
-      "stars": 472,
+      "stars": 474,
       "forks": 62,
       "created_at": "2026-07-06T15:35:00Z"
     },
@@ -284,35 +228,35 @@
       "link": "https://github.com/xiaotianfotos/homerail",
       "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
       "language": "TypeScript",
-      "stars": 450,
-      "forks": 107,
+      "stars": 463,
+      "forks": 110,
       "created_at": "2026-07-07T12:11:18Z"
-    },
-    {
-      "name": "Robbyant/lingbot-vla-v2",
-      "link": "https://github.com/Robbyant/lingbot-vla-v2",
-      "description": "From Foundation to Application",
-      "language": "Python",
-      "stars": 450,
-      "forks": 23,
-      "created_at": "2026-07-07T16:48:56Z"
     },
     {
       "name": "x4gKing/PasarGuard-Node",
       "link": "https://github.com/x4gKing/PasarGuard-Node",
       "description": null,
       "language": "Dockerfile",
-      "stars": 449,
-      "forks": 973,
+      "stars": 462,
+      "forks": 1005,
       "created_at": "2026-07-06T07:02:26Z"
+    },
+    {
+      "name": "Robbyant/lingbot-vla-v2",
+      "link": "https://github.com/Robbyant/lingbot-vla-v2",
+      "description": "From Foundation to Application",
+      "language": "Python",
+      "stars": 460,
+      "forks": 25,
+      "created_at": "2026-07-07T16:48:56Z"
     },
     {
       "name": "nexu-io/motion-anything",
       "link": "https://github.com/nexu-io/motion-anything",
       "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
       "language": "JavaScript",
-      "stars": 393,
-      "forks": 34,
+      "stars": 404,
+      "forks": 35,
       "created_at": "2026-07-06T14:56:20Z"
     },
     {
@@ -320,44 +264,53 @@
       "link": "https://github.com/jiguang132/storyai-3d-director-desk",
       "description": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
       "language": "TypeScript",
-      "stars": 388,
-      "forks": 94,
+      "stars": 393,
+      "forks": 96,
       "created_at": "2026-07-06T01:52:14Z"
-    },
-    {
-      "name": "Nanako0129/pilotfish",
-      "link": "https://github.com/Nanako0129/pilotfish",
-      "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-      "language": null,
-      "stars": 357,
-      "forks": 26,
-      "created_at": "2026-07-08T10:53:34Z"
-    },
-    {
-      "name": "Doriandarko/texts-to-transformer",
-      "link": "https://github.com/Doriandarko/texts-to-transformer",
-      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-      "language": "Python",
-      "stars": 352,
-      "forks": 31,
-      "created_at": "2026-07-08T08:12:17Z"
     },
     {
       "name": "gostonx/uninstally",
       "link": "https://github.com/gostonx/uninstally",
       "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
       "language": "Swift",
-      "stars": 341,
+      "stars": 377,
       "forks": 14,
       "created_at": "2026-07-08T17:08:34Z"
+    },
+    {
+      "name": "Nanako0129/pilotfish",
+      "link": "https://github.com/Nanako0129/pilotfish",
+      "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+      "language": null,
+      "stars": 370,
+      "forks": 27,
+      "created_at": "2026-07-08T10:53:34Z"
+    },
+    {
+      "name": "yusukebe/ax",
+      "link": "https://github.com/yusukebe/ax",
+      "description": "The AI-era curl",
+      "language": "TypeScript",
+      "stars": 366,
+      "forks": 6,
+      "created_at": "2026-07-06T09:39:01Z"
+    },
+    {
+      "name": "Doriandarko/texts-to-transformer",
+      "link": "https://github.com/Doriandarko/texts-to-transformer",
+      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "language": "Python",
+      "stars": 357,
+      "forks": 32,
+      "created_at": "2026-07-08T08:12:17Z"
     },
     {
       "name": "SmtimesIWndr/gdid-reversal",
       "link": "https://github.com/SmtimesIWndr/gdid-reversal",
       "description": null,
       "language": null,
-      "stars": 340,
-      "forks": 21,
+      "stars": 350,
+      "forks": 23,
       "created_at": "2026-07-06T04:42:54Z"
     },
     {
@@ -365,19 +318,10 @@
       "link": "https://github.com/ronak-create/FableCut",
       "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
       "language": "JavaScript",
-      "stars": 339,
-      "forks": 22,
+      "stars": 347,
+      "forks": 24,
       "created_at": "2026-07-06T16:18:57Z"
-    },
-    {
-      "name": "yusukebe/ax",
-      "link": "https://github.com/yusukebe/ax",
-      "description": "The AI-era curl",
-      "language": "TypeScript",
-      "stars": 332,
-      "forks": 5,
-      "created_at": "2026-07-06T09:39:01Z"
     }
   ],
-  "daily_summary": "今天的技术热点集中在AI开发工具链、C++基础设施库和前端创新应用。AI方向最火，尤其是围绕Claude和OpenAI的插件、MCP服务器及Agent技能库项目密集涌现，显示AI代理与工具集成正在加速。后端方面，Terraform和Bun持续活跃，DevOps与运行时优化仍是重点。推荐关注：**davila7/claude-code-templates**，它简化了Claude的配置与监控，是AI开发效率提升的实用工具；**wonderwhy-er/DesktopCommanderMCP**，为Claude提供终端控制能力，代表MCP协议在本地代理中的落地趋势；**oven-sh/bun**，作为高性能JavaScript运行时，其Rust实现正挑战Node.js地位，值得关注其生态发展。"
+  "daily_summary": "今天的技术热点集中在AI Agent应用、本地化智能工具与自动化工作流。最火的方向是AI，具体表现为AI Agent开发与模型微调工具链的爆发，同时Rust在安全工具领域的应用也值得关注。\n\n推荐关注：1. **PrefectHQ/prefect**（Python），作为成熟的工作流编排框架，适合构建复杂AI流水线，是企业级AI落地的实用选择。2. **wonderwhy-er/DesktopCommanderMCP**（TypeScript），为Claude提供终端控制能力的MCP服务器，直接打通AI与本地系统，代表Agent工具化趋势。3. **Shubhamsaboo/awesome-llm-apps**（Python），汇集100+可直接运行的AI Agent应用，是快速学习与原型开发的宝贵资源。"
 }
