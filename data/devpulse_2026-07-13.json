@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-13",
+  "github_trending": [
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars_today": "444 stars today",
+      "total_stars": "2,979",
+      "ai_analysis": "这是一个用 Rust 编写的命令行防护工具，专门拦截 AI 代理或用户误执行的危险 git 与 shell 命令。近期爆火主要因为 AI 编程助手（如 Cursor、Copilot）频繁误删代码或执行破坏性操作，引发社区对安全防护的强烈需求。对开发者而言，它提供了一个轻量、可配置的“安全护栏”，尤其适合在 CI/CD 或自动化工作流中保护生产环境，显著降低误操作风险。"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "link": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars_today": "210 stars today",
+      "total_stars": "8,008",
+      "ai_analysis": "该项目为Claude AI提供MCP服务器，使其获得终端控制、文件系统搜索及差异编辑能力。近期爆火源于Claude桌面端用户对AI直接操控开发环境的需求激增，填补了官方缺乏原生文件系统交互的空白。对开发者而言，可快速实现AI辅助的自动化编码、文件对比修改及终端命令执行，显著提升本地开发调试效率。"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_today": "768 stars today",
+      "total_stars": "20,622",
+      "ai_analysis": "这是一个基于Python的个人交易代理项目，旨在利用AI技术辅助用户进行自动化或半自动化交易。它最近在GitHub上爆火，主要因为加密货币和股票市场的波动性吸引了大量散户，而“Vibe-Trading”这类低门槛、自带情绪分析或趋势判断的工具正切中用户追求“轻松赚钱”的心理，加上今日768颗星的病毒式传播。对开发者而言，该项目展示了如何用大模型或强化学习构建交易策略，是学习金融AI应用、量化接口封装及回测框架的实用范例。"
+    },
+    {
+      "name": "PrefectHQ/prefect",
+      "link": "https://github.com/PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars_today": "66 stars today",
+      "total_stars": "23,166"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars_today": "408 stars today",
+      "total_stars": "118,622"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "link": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars_today": "459 stars today",
+      "total_stars": "48,451"
+    },
+    {
+      "name": "home-assistant/core",
+      "link": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars_today": "400 stars today",
+      "total_stars": "89,091"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars_today": "125 stars today",
+      "total_stars": "33,824"
+    },
+    {
+      "name": "ColeMurray/background-agents",
+      "link": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars_today": "16 stars today",
+      "total_stars": "2,271"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "link": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars_today": "609 stars today",
+      "total_stars": "6,979"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "description": "暂无描述",
+      "language": "TypeScript",
+      "stars_today": "75 stars today",
+      "total_stars": "13,759"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "link": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars_today": "115 stars today",
+      "total_stars": "61,425"
+    },
+    {
+      "name": "chen08209/FlClash",
+      "link": "https://github.com/chen08209/FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "stars_today": "154 stars today",
+      "total_stars": "45,244"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "link": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": "274 stars today",
+      "total_stars": "29,254"
+    },
+    {
+      "name": "par274/sharpemu",
+      "link": "https://github.com/par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars_today": "314 stars today",
+      "total_stars": "1,293"
+    },
+    {
+      "name": "malisper/pgrust",
+      "link": "https://github.com/malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars_today": "518 stars today",
+      "total_stars": "2,496"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "155 stars today",
+      "total_stars": "4,320"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "withmarbleapp/os-taxonomy",
+      "link": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 2720,
+      "forks": 494,
+      "created_at": "2026-07-08T09:27:48Z"
+    },
+    {
+      "name": "Robbyant/lingbot-world-v2",
+      "link": "https://github.com/Robbyant/lingbot-world-v2",
+      "description": "Infinite Worlds with Versatile Interactions",
+      "language": "Python",
+      "stars": 932,
+      "forks": 48,
+      "created_at": "2026-07-08T09:24:50Z"
+    },
+    {
+      "name": "x4gKing/3x-ui-Upgrade",
+      "link": "https://github.com/x4gKing/3x-ui-Upgrade",
+      "description": null,
+      "language": "HTML",
+      "stars": 890,
+      "forks": 1851,
+      "created_at": "2026-07-08T06:13:23Z"
+    },
+    {
+      "name": "Robbyant/lingbot-video",
+      "link": "https://github.com/Robbyant/lingbot-video",
+      "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "language": "Python",
+      "stars": 712,
+      "forks": 26,
+      "created_at": "2026-07-08T13:52:08Z"
+    },
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "link": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "language": "TypeScript",
+      "stars": 641,
+      "forks": 136,
+      "created_at": "2026-07-12T10:35:44Z"
+    },
+    {
+      "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "link": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "language": "Python",
+      "stars": 622,
+      "forks": 80,
+      "created_at": "2026-07-09T16:23:29Z"
+    },
+    {
+      "name": "op7418/guizang-material-illustration",
+      "link": "https://github.com/op7418/guizang-material-illustration",
+      "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "language": null,
+      "stars": 590,
+      "forks": 63,
+      "created_at": "2026-07-07T13:57:13Z"
+    },
+    {
+      "name": "xiaotianfotos/homerail",
+      "link": "https://github.com/xiaotianfotos/homerail",
+      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+      "language": "TypeScript",
+      "stars": 487,
+      "forks": 111,
+      "created_at": "2026-07-07T12:11:18Z"
+    },
+    {
+      "name": "Robbyant/lingbot-vla-v2",
+      "link": "https://github.com/Robbyant/lingbot-vla-v2",
+      "description": "From Foundation to Application",
+      "language": "Python",
+      "stars": 474,
+      "forks": 27,
+      "created_at": "2026-07-07T16:48:56Z"
+    },
+    {
+      "name": "gostonx/uninstally",
+      "link": "https://github.com/gostonx/uninstally",
+      "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
+      "language": "Swift",
+      "stars": 420,
+      "forks": 14,
+      "created_at": "2026-07-08T17:08:34Z"
+    },
+    {
+      "name": "Raymondhou0917/speak-human-tw",
+      "link": "https://github.com/Raymondhou0917/speak-human-tw",
+      "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+      "language": null,
+      "stars": 393,
+      "forks": 50,
+      "created_at": "2026-07-08T09:23:53Z"
+    },
+    {
+      "name": "Nanako0129/pilotfish",
+      "link": "https://github.com/Nanako0129/pilotfish",
+      "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+      "language": null,
+      "stars": 387,
+      "forks": 28,
+      "created_at": "2026-07-08T10:53:34Z"
+    },
+    {
+      "name": "CoscoAI/luxy-aisre",
+      "link": "https://github.com/CoscoAI/luxy-aisre",
+      "description": "AISRE for Cosco",
+      "language": "Python",
+      "stars": 381,
+      "forks": 12,
+      "created_at": "2026-07-10T05:57:02Z"
+    },
+    {
+      "name": "Doriandarko/texts-to-transformer",
+      "link": "https://github.com/Doriandarko/texts-to-transformer",
+      "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+      "language": "Python",
+      "stars": 368,
+      "forks": 36,
+      "created_at": "2026-07-08T08:12:17Z"
+    },
+    {
+      "name": "cosmtrek/mindwalk",
+      "link": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "language": "Go",
+      "stars": 323,
+      "forks": 11,
+      "created_at": "2026-07-09T11:41:46Z"
+    },
+    {
+      "name": "yetone/kill-ai-slop",
+      "link": "https://github.com/yetone/kill-ai-slop",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "language": "TypeScript",
+      "stars": 317,
+      "forks": 12,
+      "created_at": "2026-07-10T08:59:16Z"
+    },
+    {
+      "name": "WeZZard/jlens-qwen36",
+      "link": "https://github.com/WeZZard/jlens-qwen36",
+      "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX",
+      "language": "Python",
+      "stars": 311,
+      "forks": 20,
+      "created_at": "2026-07-07T18:33:14Z"
+    },
+    {
+      "name": "bkingfilm/lapian-notes",
+      "link": "https://github.com/bkingfilm/lapian-notes",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "language": "TypeScript",
+      "stars": 288,
+      "forks": 36,
+      "created_at": "2026-07-08T06:06:31Z"
+    },
+    {
+      "name": "Liquid4All/antidoom",
+      "link": "https://github.com/Liquid4All/antidoom",
+      "description": null,
+      "language": "Python",
+      "stars": 281,
+      "forks": 24,
+      "created_at": "2026-07-07T10:31:29Z"
+    },
+    {
+      "name": "AlayaLab/AlayaWorld",
+      "link": "https://github.com/AlayaLab/AlayaWorld",
+      "description": "Full-stack open-source interactive long-horizon world model.",
+      "language": null,
+      "stars": 276,
+      "forks": 5,
+      "created_at": "2026-07-07T17:15:20Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI Agent安全、自动化工作流与本地智能体开发。最火方向仍是AI，尤其聚焦于Agent的安全防护、终端控制及多模态视频预训练。推荐关注：1. **Dicklesworthstone/destructive_command_guard**（Rust），它为AI Agent提供关键命令的防护层，解决大模型自主操作时的安全风险，是AI落地基础设施的关键组件；2. **PrefectHQ/prefect**（Python），作为成熟的Workflow编排框架，在数据工程与AI流水线中持续走热，适合构建可靠的自动化任务；3. **Robbyant/lingbot-world-v2**（Python），7天新星项目，探索“无限世界”交互范式，代表AI从对话向沉浸式环境演进的趋势。此外，**home-assistant/core**（Python）的持续热度表明本地化、开源智能家居仍是稳健需求。"
+}
