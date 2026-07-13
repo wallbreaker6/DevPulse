@@ -62,22 +62,26 @@ def load_latest_data():
     return load_data_by_date(dates[0])
 
 def collect_and_save():
-    """自动从 GitHub 同步数据 + 本地采集"""
+    """自动从 GitHub 同步数据"""
     import subprocess
 
-    # 每次访问时自动从 GitHub 拉取最新数据
     try:
+        # 先放弃本地未提交的更改，避免冲突
+        subprocess.run(
+            ["git", "checkout", "--", "data/"],
+            capture_output=True, text=True, timeout=10,
+            cwd=os.path.dirname(os.path.abspath(__file__))
+        )
+        # 再拉取最新数据
         result = subprocess.run(
-            ["git", "pull", "--quiet"],
+            ["git", "pull", "--quiet", "--rebase"],
             capture_output=True, text=True, timeout=15,
             cwd=os.path.dirname(os.path.abspath(__file__))
         )
-        if "Already up to date" not in result.stdout and result.stdout.strip():
-            print(f"已自动同步: {result.stdout.strip()}")
+        if result.stdout.strip():
+            print(f"数据同步: {result.stdout.strip()}")
     except Exception as e:
         print(f"自动同步失败: {e}")
-
-
 def get_all_languages(data):
     languages = set()
     for p in data.get("github_trending", []):
