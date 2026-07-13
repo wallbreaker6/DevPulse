@@ -61,33 +61,21 @@ def load_latest_data():
         return None
     return load_data_by_date(dates[0])
 
-
 def collect_and_save():
-    """自动采集数据（6 小时更新一次）"""
-    ensure_data_dir()
-    today = datetime.now().strftime("%Y-%m-%d")
-    filepath = os.path.join(DATA_DIR, f"devpulse_{today}.json")
+    """自动从 GitHub 同步数据 + 本地采集"""
+    import subprocess
 
-    if os.path.exists(filepath):
-        mtime = os.path.getmtime(filepath)
-        hours_old = (datetime.now().timestamp() - mtime) / 3600
-        if hours_old < 6:
-            return
-
-    print("开始采集数据...")
-    projects = fetch_trending(language="", since="daily")
-    new_repos = fetch_new_repos(language="", days=7, limit=20)
-
-    all_data = {
-        "date": today,
-        "github_trending": projects,
-        "github_new_repos": new_repos,
-        "daily_summary": "AI 趋势日报需要在本地运行 python main.py 生成。",
-    }
-
-    with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(all_data, f, ensure_ascii=False, indent=2)
-    print(f"数据已保存到: {filepath}")
+    # 每次访问时自动从 GitHub 拉取最新数据
+    try:
+        result = subprocess.run(
+            ["git", "pull", "--quiet"],
+            capture_output=True, text=True, timeout=15,
+            cwd=os.path.dirname(os.path.abspath(__file__))
+        )
+        if "Already up to date" not in result.stdout and result.stdout.strip():
+            print(f"已自动同步: {result.stdout.strip()}")
+    except Exception as e:
+        print(f"自动同步失败: {e}")
 
 
 def get_all_languages(data):
