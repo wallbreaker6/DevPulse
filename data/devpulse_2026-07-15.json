@@ -1,0 +1,311 @@
+{
+  "date": "2026-07-15",
+  "github_trending": [
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars_today": "1,106 stars today",
+      "total_stars": "120,858",
+      "ai_analysis": "这是一个收录了100多个可直接运行的AI Agent和RAG应用的项目，覆盖从简单聊天到复杂多智能体系统。它突然爆火是因为当前AI应用层开发正从理论转向落地，开发者急需可直接克隆、修改的实战代码库，而该项目恰好提供了低门槛的“即用型”模板。对开发者而言，它最大的价值是节省从零搭建LLM应用的时间，通过复现和修改这些成熟案例，能快速掌握Agent、RAG等核心技术的工程化实现，并加速个人项目或产品的原型验证。"
+    },
+    {
+      "name": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "1,679 stars today",
+      "total_stars": "170,329",
+      "ai_analysis": "这是一个将个人AI交互经验（Claude对话记录）提炼为可复用Shell脚本的技能库，主打“真实工程师的实战技巧”。最近爆火是因为Matt Pocock（TypeScript/前端圈知名技术作者）的个人品牌效应，加上开发者对AI辅助编程的实用化需求激增——人们厌倦了理论教程，渴望直接可用的、来自一线高手的“AI工作流配置”。对开发者而言，价值在于能快速复制作者与Claude协作的高效模式，节省自己摸索AI工具配置的时间，直接获得经过验证的实用脚本。"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars_today": "473 stars today",
+      "total_stars": "4,428",
+      "ai_analysis": "这是一个用Rust编写的命令行防护工具，核心功能是拦截AI代理或开发者误执行的危险git和shell命令。它最近火爆，很可能是因为AI编程助手普及后，开发者频繁遭遇代理自动执行破坏性操作（如强制推送、删除分支）的痛点被放大。对开发者而言，它相当于一个轻量级的“安全围栏”，能在CI/CD流水线或本地开发中有效防止误操作，特别适合管理敏感仓库或使用自动化agent的团队。"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": "4,276 stars today",
+      "total_stars": "69,249"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "link": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars_today": "109 stars today",
+      "total_stars": "61,893"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "1,015 stars today",
+      "total_stars": "6,189"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "link": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_today": "1,256 stars today",
+      "total_stars": "22,887"
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "link": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars_today": "783 stars today",
+      "total_stars": "51,728"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "link": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars_today": "851 stars today",
+      "total_stars": "13,551"
+    },
+    {
+      "name": "penpot/penpot",
+      "link": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "language": "Clojure",
+      "stars_today": "395 stars today",
+      "total_stars": "56,173"
+    },
+    {
+      "name": "AIEraDev/Clypra",
+      "link": "https://github.com/AIEraDev/Clypra",
+      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "language": "TypeScript",
+      "stars_today": "85 stars today",
+      "total_stars": "2,643"
+    },
+    {
+      "name": "par274/sharpemu",
+      "link": "https://github.com/par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars_today": "332 stars today",
+      "total_stars": "2,151"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "link": "https://github.com/chenyme/grok2api",
+      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "language": "Go",
+      "stars_today": "186 stars today",
+      "total_stars": "5,867"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars_today": "1,851 stars today",
+      "total_stars": "86,438"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "link": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars_today": "112 stars today",
+      "total_stars": "5,273"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "link": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "language": "Python",
+      "stars": 1017,
+      "forks": 204,
+      "created_at": "2026-07-11T09:44:24Z"
+    },
+    {
+      "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "link": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "language": "Python",
+      "stars": 966,
+      "forks": 113,
+      "created_at": "2026-07-09T16:23:29Z"
+    },
+    {
+      "name": "littledivy/mimic",
+      "link": "https://github.com/littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "language": "Python",
+      "stars": 909,
+      "forks": 32,
+      "created_at": "2026-07-13T05:13:00Z"
+    },
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "link": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "language": "TypeScript",
+      "stars": 801,
+      "forks": 148,
+      "created_at": "2026-07-12T10:35:44Z"
+    },
+    {
+      "name": "AlephAITech/WorkBuddyGuide",
+      "link": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "language": "Python",
+      "stars": 695,
+      "forks": 95,
+      "created_at": "2026-07-10T04:13:51Z"
+    },
+    {
+      "name": "x4gKing/Marzban-Panel",
+      "link": "https://github.com/x4gKing/Marzban-Panel",
+      "description": null,
+      "language": "Dockerfile",
+      "stars": 668,
+      "forks": 1169,
+      "created_at": "2026-07-12T22:22:09Z"
+    },
+    {
+      "name": "William-Lu-stack/Flawless",
+      "link": "https://github.com/William-Lu-stack/Flawless",
+      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+      "language": "Python",
+      "stars": 616,
+      "forks": 95,
+      "created_at": "2026-07-10T05:57:02Z"
+    },
+    {
+      "name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "link": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "language": "Python",
+      "stars": 602,
+      "forks": 54,
+      "created_at": "2026-07-12T14:24:33Z"
+    },
+    {
+      "name": "cosmtrek/mindwalk",
+      "link": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "language": "Go",
+      "stars": 580,
+      "forks": 33,
+      "created_at": "2026-07-09T11:41:46Z"
+    },
+    {
+      "name": "x4gKing/Marzban-Node",
+      "link": "https://github.com/x4gKing/Marzban-Node",
+      "description": null,
+      "language": "Dockerfile",
+      "stars": 566,
+      "forks": 1053,
+      "created_at": "2026-07-12T22:22:51Z"
+    },
+    {
+      "name": "pengchujin/jzsub",
+      "link": "https://github.com/pengchujin/jzsub",
+      "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+      "language": "Python",
+      "stars": 548,
+      "forks": 64,
+      "created_at": "2026-07-10T15:10:00Z"
+    },
+    {
+      "name": "yetone/kill-ai-slop",
+      "link": "https://github.com/yetone/kill-ai-slop",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "language": "TypeScript",
+      "stars": 435,
+      "forks": 18,
+      "created_at": "2026-07-10T08:59:16Z"
+    },
+    {
+      "name": "jakubkrehel/skills",
+      "link": "https://github.com/jakubkrehel/skills",
+      "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+      "language": null,
+      "stars": 329,
+      "forks": 8,
+      "created_at": "2026-07-10T08:58:36Z"
+    },
+    {
+      "name": "JexTradesLab/scaling-octo-engine",
+      "link": "https://github.com/JexTradesLab/scaling-octo-engine",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 290,
+      "forks": 344,
+      "created_at": "2026-07-09T17:01:06Z"
+    },
+    {
+      "name": "thatmagicalcat/txm",
+      "link": "https://github.com/thatmagicalcat/txm",
+      "description": "Terminal Math rendering engine",
+      "language": "Rust",
+      "stars": 290,
+      "forks": 19,
+      "created_at": "2026-07-09T03:24:59Z"
+    },
+    {
+      "name": "opencoredev/domain-sdk",
+      "link": "https://github.com/opencoredev/domain-sdk",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "language": "TypeScript",
+      "stars": 277,
+      "forks": 12,
+      "created_at": "2026-07-12T16:03:52Z"
+    },
+    {
+      "name": "Git-creat7/grokRegister-cpa",
+      "link": "https://github.com/Git-creat7/grokRegister-cpa",
+      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "language": "Python",
+      "stars": 267,
+      "forks": 101,
+      "created_at": "2026-07-11T09:46:31Z"
+    },
+    {
+      "name": "Jane-xiaoer/paper-collage-ad-codex",
+      "link": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+      "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+      "language": "JavaScript",
+      "stars": 251,
+      "forks": 33,
+      "created_at": "2026-07-10T05:50:11Z"
+    },
+    {
+      "name": "Intuition-Lab/personal-model",
+      "link": "https://github.com/Intuition-Lab/personal-model",
+      "description": "Build your HUMAN.md.",
+      "language": "Python",
+      "stars": 239,
+      "forks": 21,
+      "created_at": "2026-07-10T16:10:25Z"
+    },
+    {
+      "name": "change-42-yhmm/quota-float",
+      "link": "https://github.com/change-42-yhmm/quota-float",
+      "description": "A plug-in for easy viewing of credit limits",
+      "language": "TypeScript",
+      "stars": 234,
+      "forks": 14,
+      "created_at": "2026-07-09T08:33:45Z"
+    }
+  ],
+  "daily_summary": "今天的技术热点集中在AI应用落地、开发工具优化和开源替代方案三大方向。最火的领域是AI，尤其是AI Agent、RAG应用和交易智能体，同时AI辅助编程工具（如Codex）的插件和技能生态也快速崛起。此外，开源设计工具和系统清理脚本也获得较高关注。\n\n推荐关注以下项目：一是 **Shubhamsaboo/awesome-llm-apps**，它提供了100多个可直接运行的AI Agent和RAG应用，是学习实践AI应用开发的优秀资源库；二是 **virattt/ai-hedge-fund**，展示了AI在金融交易领域的团队化应用，体现了AI Agent协作的潜力；三是 **mattpocock/skills**，提供面向真实工程师的实用技能集合，对提升AI辅助编程效率有直接帮助。"
+}
