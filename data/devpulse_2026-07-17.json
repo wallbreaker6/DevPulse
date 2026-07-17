@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-17",
+  "github_trending": [
+    {
+      "name": "apache/ossie",
+      "link": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars_today": "60 stars today",
+      "total_stars": "916",
+      "ai_analysis": "Apache Ossie 是一个旨在标准化跨分析、AI与BI平台语义元数据交换的Apache孵化项目，提供厂商中立的单一语义数据源。它最近因业界对数据互操作性、元数据治理及AI模型可解释性的需求激增而获得关注，尤其在多工具协作场景下。开发者可借此避免数据孤岛，统一语义层，降低集成成本，并提升数据资产复用效率。"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "3,372 stars today",
+      "total_stars": "10,966",
+      "ai_analysis": "这是一个通过CSS注入让AI编程工具（如Claude Code、Cursor）输出更简洁、人性化代码的“反AI味”风格包。它最近爆火，因为开发者普遍厌倦AI生成的冗余注释、啰嗦命名和模板化结构，该项目精准击中了“让AI代码更像人写”的痛点。对开发者而言，它能显著提升代码可读性，减少审查成本，是优化AI辅助编程体验的实用工具。"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": "3,537 stars today",
+      "total_stars": "74,052",
+      "ai_analysis": "OpenCut 是一款基于 TypeScript 构建的开源视频剪辑工具，旨在成为 CapCut 的替代品。它最近爆火主要因为字节跳动旗下 CapCut 在部分市场受政策限制或功能收费，用户急需免费、本地可控的替代方案，而 OpenCut 恰好填补这一空白。对开发者而言，该项目提供了学习跨平台视频编辑架构、FFmpeg 集成及现代前端技术栈的实战机会，同时其开源生态也利于二次开发与定制。"
+    },
+    {
+      "name": "PostHog/posthog",
+      "link": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars_today": "77 stars today",
+      "total_stars": "35,859"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "link": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "stars_today": "661 stars today",
+      "total_stars": "65,996"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "link": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "stars_today": "196 stars today",
+      "total_stars": "1,527"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "link": "https://github.com/hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars_today": "710 stars today",
+      "total_stars": "15,057"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars_today": "923 stars today",
+      "total_stars": "122,925"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "link": "https://github.com/lobehub/lobehub",
+      "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "language": "TypeScript",
+      "stars_today": "71 stars today",
+      "total_stars": "80,182"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "link": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars_today": "128 stars today",
+      "total_stars": "1,507"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars_today": "656 stars today",
+      "total_stars": "26,890"
+    },
+    {
+      "name": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "2,060 stars today",
+      "total_stars": "174,335"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "link": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars_today": "13 stars today",
+      "total_stars": "9,649"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "link": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars_today": "178 stars today",
+      "total_stars": "4,294"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars_today": "1,107 stars today",
+      "total_stars": "89,123"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "link": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "435 stars today",
+      "total_stars": "526,348"
+    },
+    {
+      "name": "ossu/computer-science",
+      "link": "https://github.com/ossu/computer-science",
+      "description": "🎓 Path to a free self-taught education in Computer Science!",
+      "language": "HTML",
+      "stars_today": "107 stars today",
+      "total_stars": "206,544"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "xai-org/grok-build",
+      "link": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "language": "Rust",
+      "stars": 12526,
+      "forks": 2191,
+      "created_at": "2026-07-14T20:04:23Z"
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "link": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars": 5692,
+      "forks": 658,
+      "created_at": "2026-07-15T12:34:51Z"
+    },
+    {
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "link": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "language": "Python",
+      "stars": 1684,
+      "forks": 328,
+      "created_at": "2026-07-11T09:44:24Z"
+    },
+    {
+      "name": "littledivy/mimic",
+      "link": "https://github.com/littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "language": "Python",
+      "stars": 1105,
+      "forks": 56,
+      "created_at": "2026-07-13T05:13:00Z"
+    },
+    {
+      "name": "pixel-point/aval",
+      "link": "https://github.com/pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "language": "TypeScript",
+      "stars": 1052,
+      "forks": 61,
+      "created_at": "2026-07-13T07:42:51Z"
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "link": "https://github.com/CluvexStudio/Aether",
+      "description": null,
+      "language": "Rust",
+      "stars": 936,
+      "forks": 44,
+      "created_at": "2026-07-14T14:20:44Z"
+    },
+    {
+      "name": "x4gKing/Marzban-Panel",
+      "link": "https://github.com/x4gKing/Marzban-Panel",
+      "description": null,
+      "language": "Dockerfile",
+      "stars": 846,
+      "forks": 1572,
+      "created_at": "2026-07-12T22:22:09Z"
+    },
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "link": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "language": "TypeScript",
+      "stars": 829,
+      "forks": 148,
+      "created_at": "2026-07-12T10:35:44Z"
+    },
+    {
+      "name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "link": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "language": "Python",
+      "stars": 761,
+      "forks": 78,
+      "created_at": "2026-07-12T14:24:33Z"
+    },
+    {
+      "name": "x4gKing/Marzban-Node",
+      "link": "https://github.com/x4gKing/Marzban-Node",
+      "description": null,
+      "language": "Dockerfile",
+      "stars": 728,
+      "forks": 1431,
+      "created_at": "2026-07-12T22:22:51Z"
+    },
+    {
+      "name": "oil-oil/beautify-github-readme",
+      "link": "https://github.com/oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "language": "Python",
+      "stars": 692,
+      "forks": 40,
+      "created_at": "2026-07-13T07:31:56Z"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "link": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 646,
+      "forks": 87,
+      "created_at": "2026-07-16T06:17:00Z"
+    },
+    {
+      "name": "KubeezMedia/kubeez-scroll-world-video",
+      "link": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "language": "JavaScript",
+      "stars": 582,
+      "forks": 1,
+      "created_at": "2026-07-13T23:32:54Z"
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "link": "https://github.com/MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "language": "TypeScript",
+      "stars": 482,
+      "forks": 21,
+      "created_at": "2026-07-14T20:13:18Z"
+    },
+    {
+      "name": "Git-creat7/grokRegister-cpa",
+      "link": "https://github.com/Git-creat7/grokRegister-cpa",
+      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+      "language": "Python",
+      "stars": 339,
+      "forks": 119,
+      "created_at": "2026-07-11T09:46:31Z"
+    },
+    {
+      "name": "QuantumByteOSS/quantumbyte",
+      "link": "https://github.com/QuantumByteOSS/quantumbyte",
+      "description": "Open-source app builder engine — intent to working app",
+      "language": "Python",
+      "stars": 316,
+      "forks": 42,
+      "created_at": "2026-07-14T04:53:39Z"
+    },
+    {
+      "name": "opencoredev/domain-sdk",
+      "link": "https://github.com/opencoredev/domain-sdk",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "language": "TypeScript",
+      "stars": 313,
+      "forks": 13,
+      "created_at": "2026-07-12T16:03:52Z"
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "link": "https://github.com/vshulcz/deja-vu",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "language": "Go",
+      "stars": 303,
+      "forks": 12,
+      "created_at": "2026-07-14T07:45:44Z"
+    },
+    {
+      "name": "TobiasLee/Rebuttal-Skill",
+      "link": "https://github.com/TobiasLee/Rebuttal-Skill",
+      "description": null,
+      "language": null,
+      "stars": 299,
+      "forks": 11,
+      "created_at": "2026-07-14T03:31:47Z"
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "link": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
+      "stars": 293,
+      "forks": 61,
+      "created_at": "2026-07-15T22:17:25Z"
+    }
+  ],
+  "daily_summary": "今天的技术热点集中在AI编程工具、视频编辑开源替代和开发者体验优化上。最火的方向是AI，尤其是围绕编码代理（Coding Agent）和模型应用生态的爆发，同时视频编辑工具的开源化也形成了明显趋势。\n\n推荐关注以下项目：  \n1. **openinterpreter/openinterpreter**（Rust）——这是一个面向开放模型（如Kimi K3）的编码代理，代表了AI编程从闭源走向开源、从单一模型走向多模型适配的演进方向，实用性极强。  \n2. **OpenCut-app/OpenCut**（TypeScript）——作为CapCut的开源替代，它切入视频编辑这一高频需求，开源特性让用户和开发者都能自由定制，有望成为多媒体工具领域的新基建。  \n3. **Shubhamsaboo/awesome-llm-apps**（Python）——汇集了100多个可直接运行的AI Agent和RAG应用，是快速上手和构建AI原生应用的绝佳资源库，适合开发者和产品经理参考。"
+}
