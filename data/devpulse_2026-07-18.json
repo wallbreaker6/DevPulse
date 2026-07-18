@@ -1,0 +1,303 @@
+{
+  "date": "2026-07-18",
+  "github_trending": [
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "link": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "1,068 stars today",
+      "total_stars": "527,405",
+      "ai_analysis": "这是一个通过动手从零复现经典技术（如数据库、Git、Docker等）来学习编程的教程合集。它最近爆火是因为“造轮子”式学习理念持续受到追捧，加上技术社区对底层原理的渴求度上升，大量开发者通过分享和收藏来激励自己系统化学习。对开发者而言，它提供了极佳的实践路线图，能帮你跳出框架使用者的思维局限，深入理解技术本质，从而显著提升架构设计与问题排查能力。"
+    },
+    {
+      "name": "PostHog/posthog",
+      "link": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars_today": "438 stars today",
+      "total_stars": "36,201",
+      "ai_analysis": "PostHog 是一个开源产品分析平台，集成了会话回放、功能开关、A/B 测试和错误追踪等工具，帮助团队构建数据驱动的产品。它最近因 AI 可观测性、MCP 集成以及 Slack/桌面端操控能力而走红，满足了开发者对全栈自托管分析方案的需求。对开发者而言，它提供了隐私友好的替代方案（如替代 Amplitude），支持自部署，并降低了对第三方服务的依赖。"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "link": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer",
+      "language": "TypeScript",
+      "stars_today": "200 stars today",
+      "total_stars": "6,633",
+      "ai_analysis": "这是一个AI/ML学习路径资源集合，涵盖数学、计算机科学和人工智能的核心知识体系。最近因系统化梳理了从基础数学到前沿LLM、强化学习的完整学习路线，且提供可交互的TypeScript实现示例，契合了开发者构建扎实理论功底的需求而走红。对开发者而言，它是一份结构清晰的进阶地图，能帮助高效补齐知识短板，尤其适合想转型AI工程研发的中高级程序员。"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "1,485 stars today",
+      "total_stars": "12,062"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "link": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars_today": "233 stars today",
+      "total_stars": "9,800"
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "link": "https://github.com/anthropics/cwc-workshops",
+      "description": "暂无描述",
+      "language": "TypeScript",
+      "stars_today": "45 stars today",
+      "total_stars": "1,589"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "link": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "stars_today": "278 stars today",
+      "total_stars": "1,716"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "link": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars_today": "11 stars today",
+      "total_stars": "71,541"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_today": "74 stars today",
+      "total_stars": "19,766"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "link": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars_today": "91 stars today",
+      "total_stars": "17,856"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "link": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "stars_today": "431 stars today",
+      "total_stars": "66,383"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "link": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars_today": "280 stars today",
+      "total_stars": "13,322"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "link": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "language": "Python",
+      "stars_today": "531 stars today",
+      "total_stars": "27,371"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": "1,074 stars today",
+      "total_stars": "74,896"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "xai-org/grok-build",
+      "link": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "language": "Rust",
+      "stars": 16559,
+      "forks": 3044,
+      "created_at": "2026-07-14T20:04:23Z"
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "link": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars": 8718,
+      "forks": 929,
+      "created_at": "2026-07-15T12:34:51Z"
+    },
+    {
+      "name": "pixel-point/aval",
+      "link": "https://github.com/pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "language": "TypeScript",
+      "stars": 1164,
+      "forks": 63,
+      "created_at": "2026-07-13T07:42:51Z"
+    },
+    {
+      "name": "littledivy/mimic",
+      "link": "https://github.com/littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "language": "Python",
+      "stars": 1149,
+      "forks": 67,
+      "created_at": "2026-07-13T05:13:00Z"
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "link": "https://github.com/CluvexStudio/Aether",
+      "description": null,
+      "language": "Rust",
+      "stars": 1144,
+      "forks": 65,
+      "created_at": "2026-07-14T14:20:44Z"
+    },
+    {
+      "name": "x4gKing/Marzban-Panel",
+      "link": "https://github.com/x4gKing/Marzban-Panel",
+      "description": null,
+      "language": "Dockerfile",
+      "stars": 914,
+      "forks": 1708,
+      "created_at": "2026-07-12T22:22:09Z"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "link": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 904,
+      "forks": 130,
+      "created_at": "2026-07-16T06:17:00Z"
+    },
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "link": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "language": "TypeScript",
+      "stars": 833,
+      "forks": 149,
+      "created_at": "2026-07-12T10:35:44Z"
+    },
+    {
+      "name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "link": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "language": "Python",
+      "stars": 789,
+      "forks": 81,
+      "created_at": "2026-07-12T14:24:33Z"
+    },
+    {
+      "name": "x4gKing/Marzban-Node",
+      "link": "https://github.com/x4gKing/Marzban-Node",
+      "description": null,
+      "language": "Dockerfile",
+      "stars": 777,
+      "forks": 1561,
+      "created_at": "2026-07-12T22:22:51Z"
+    },
+    {
+      "name": "oil-oil/beautify-github-readme",
+      "link": "https://github.com/oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "language": "Python",
+      "stars": 757,
+      "forks": 44,
+      "created_at": "2026-07-13T07:31:56Z"
+    },
+    {
+      "name": "KubeezMedia/kubeez-scroll-world-video",
+      "link": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "language": "JavaScript",
+      "stars": 646,
+      "forks": 3,
+      "created_at": "2026-07-13T23:32:54Z"
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "link": "https://github.com/MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "language": "TypeScript",
+      "stars": 539,
+      "forks": 25,
+      "created_at": "2026-07-14T20:13:18Z"
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "link": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
+      "stars": 482,
+      "forks": 98,
+      "created_at": "2026-07-15T22:17:25Z"
+    },
+    {
+      "name": "PengZhang64/circuit-framework",
+      "link": "https://github.com/PengZhang64/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "language": "Python",
+      "stars": 479,
+      "forks": 19,
+      "created_at": "2026-07-16T15:02:10Z"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "link": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 431,
+      "forks": 39,
+      "created_at": "2026-07-16T07:06:09Z"
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "link": "https://github.com/vshulcz/deja-vu",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
+      "language": "Go",
+      "stars": 338,
+      "forks": 16,
+      "created_at": "2026-07-14T07:45:44Z"
+    },
+    {
+      "name": "QuantumByteOSS/quantumbyte",
+      "link": "https://github.com/QuantumByteOSS/quantumbyte",
+      "description": "Open-source app builder engine — intent to working app",
+      "language": "Python",
+      "stars": 324,
+      "forks": 44,
+      "created_at": "2026-07-14T04:53:39Z"
+    },
+    {
+      "name": "Shadow-Weave/HMS",
+      "link": "https://github.com/Shadow-Weave/HMS",
+      "description": null,
+      "language": "Python",
+      "stars": 322,
+      "forks": 32,
+      "created_at": "2026-07-12T13:24:42Z"
+    },
+    {
+      "name": "opencoredev/domain-sdk",
+      "link": "https://github.com/opencoredev/domain-sdk",
+      "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+      "language": "TypeScript",
+      "stars": 316,
+      "forks": 13,
+      "created_at": "2026-07-12T16:03:52Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI开发工具与基础设施领域，AI方向最为火热。GitHub Trending中，**PostHog/posthog** 是领先的开源产品分析平台，支持自托管，适合构建数据驱动产品；**github/copilot-sdk** 是GitHub Copilot的多平台SDK，正推动AI编程助手深度集成。近7天最热项目 **xai-org/grok-build**（Rust）是SpaceXAI的编码代理工具，提供全屏终端UI，代表AI编程工具向更底层、更高效的方向演进。此外，**Fei-Away/Codex-Dream-Skin**（JavaScript）作为前端AI应用也获得高星，显示AI与交互界面结合仍是热门。推荐关注 **PostHog**（产品分析+AI）、**grok-build**（AI编程代理前沿实践），以及 **docusealco/docuseal**（开源的DocuSign替代，后端/DevOps方向，支持电子签名合规）。整体趋势：AI从辅助编码向自主代理发展，同时开源替代商业SaaS的文档/分析工具需求旺盛。"
+}
