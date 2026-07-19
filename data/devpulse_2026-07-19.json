@@ -1,0 +1,279 @@
+{
+  "date": "2026-07-19",
+  "github_trending": [
+    {
+      "name": "Robbyant/lingbot-map",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars_today": "831 stars today",
+      "total_stars": "12,982",
+      "ai_analysis": "这是一个用于流式数据实时重建3D场景的前馈基础模型。它最近火了，因为流式3D重建是机器人、自动驾驶和AR/VR的关键技术缺口，项目用纯前馈网络替代传统SLAM或NeRF优化，实现高速度与泛化能力，吸引了大量关注。对开发者而言，可直接用于构建实时感知系统，或作为3D视觉研究的强大基线，极大降低从多视图重建3D场景的门槛。"
+    },
+    {
+      "name": "apache/ossie",
+      "link": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars_today": "47 stars today",
+      "total_stars": "1,281",
+      "ai_analysis": "Apache Ossie 是旨在标准化跨分析、AI 和 BI 平台间语义元数据交换的开源规范，提供厂商中立的单一语义数据源。它近日因AI与BI融合趋势下数据治理需求激增而走红，加之Apache基金会背书吸引关注。对开发者而言，它降低了多平台元数据集成复杂度，避免重复定义，提升数据工程与AI建模的互操作性。"
+    },
+    {
+      "name": "PostHog/posthog",
+      "link": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars_today": "338 stars today",
+      "total_stars": "36,608",
+      "ai_analysis": "PostHog 是一个面向 AI 和产品团队的全栈开源可观测性平台，整合了会话回放、A/B测试、错误追踪与日志分析等功能。它近期爆火得益于“自驱型产品”概念的兴起，以及AI agent开发热潮下对上下文追踪工具的迫切需求。对开发者而言，它提供了从监控到实验的一站式开源替代方案，尤其适合需要深度定制数据采集和快速迭代验证的团队。"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "link": "https://github.com/ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars_today": "123 stars today",
+      "total_stars": "5,043"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "191 stars today",
+      "total_stars": "39,121"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_today": "355 stars today",
+      "total_stars": "20,191"
+    },
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "link": "https://github.com/elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "language": "TypeScript",
+      "stars_today": "69 stars today",
+      "total_stars": "9,520"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "link": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": "161 stars today",
+      "total_stars": "23,342"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "link": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars_today": "203 stars today",
+      "total_stars": "1,263"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "link": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "1,126 stars today",
+      "total_stars": "528,307"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "link": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars_today": "65 stars today",
+      "total_stars": "9,509"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "xai-org/grok-build",
+      "link": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "language": "Rust",
+      "stars": 18901,
+      "forks": 3411,
+      "created_at": "2026-07-14T20:04:23Z"
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "link": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars": 9764,
+      "forks": 1018,
+      "created_at": "2026-07-15T12:34:51Z"
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "link": "https://github.com/CluvexStudio/Aether",
+      "description": null,
+      "language": "Rust",
+      "stars": 1256,
+      "forks": 76,
+      "created_at": "2026-07-14T14:20:44Z"
+    },
+    {
+      "name": "pixel-point/aval",
+      "link": "https://github.com/pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "language": "TypeScript",
+      "stars": 1212,
+      "forks": 65,
+      "created_at": "2026-07-13T07:42:51Z"
+    },
+    {
+      "name": "littledivy/mimic",
+      "link": "https://github.com/littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "language": "Python",
+      "stars": 1176,
+      "forks": 73,
+      "created_at": "2026-07-13T05:13:00Z"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "link": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 1054,
+      "forks": 158,
+      "created_at": "2026-07-16T06:17:00Z"
+    },
+    {
+      "name": "oil-oil/beautify-github-readme",
+      "link": "https://github.com/oil-oil/beautify-github-readme",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "language": "Python",
+      "stars": 818,
+      "forks": 47,
+      "created_at": "2026-07-13T07:31:56Z"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "link": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 697,
+      "forks": 37,
+      "created_at": "2026-07-17T04:58:22Z"
+    },
+    {
+      "name": "KubeezMedia/kubeez-scroll-world-video",
+      "link": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "language": "JavaScript",
+      "stars": 653,
+      "forks": 4,
+      "created_at": "2026-07-13T23:32:54Z"
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "link": "https://github.com/MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "language": "TypeScript",
+      "stars": 597,
+      "forks": 25,
+      "created_at": "2026-07-14T20:13:18Z"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "link": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 558,
+      "forks": 54,
+      "created_at": "2026-07-16T07:06:09Z"
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "link": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
+      "stars": 551,
+      "forks": 116,
+      "created_at": "2026-07-15T22:17:25Z"
+    },
+    {
+      "name": "PengZhang64/circuit-framework",
+      "link": "https://github.com/PengZhang64/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "language": "Python",
+      "stars": 481,
+      "forks": 19,
+      "created_at": "2026-07-16T15:02:10Z"
+    },
+    {
+      "name": "stackblitz/bolt-slides",
+      "link": "https://github.com/stackblitz/bolt-slides",
+      "description": "Use any agent to create stunning, interactive presentations",
+      "language": "TypeScript",
+      "stars": 383,
+      "forks": 54,
+      "created_at": "2026-07-14T18:23:27Z"
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "link": "https://github.com/vshulcz/deja-vu",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
+      "language": "Go",
+      "stars": 365,
+      "forks": 17,
+      "created_at": "2026-07-14T07:45:44Z"
+    },
+    {
+      "name": "pyang5166/gbro-collage-broll",
+      "link": "https://github.com/pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "language": "Python",
+      "stars": 359,
+      "forks": 39,
+      "created_at": "2026-07-15T12:45:47Z"
+    },
+    {
+      "name": "QuantumByteOSS/quantumbyte",
+      "link": "https://github.com/QuantumByteOSS/quantumbyte",
+      "description": "Open-source app builder engine — intent to working app",
+      "language": "Python",
+      "stars": 327,
+      "forks": 45,
+      "created_at": "2026-07-14T04:53:39Z"
+    },
+    {
+      "name": "TobiasLee/Rebuttal-Skill",
+      "link": "https://github.com/TobiasLee/Rebuttal-Skill",
+      "description": null,
+      "language": null,
+      "stars": 311,
+      "forks": 11,
+      "created_at": "2026-07-14T03:31:47Z"
+    },
+    {
+      "name": "Wan-Video/Wan-Dancer",
+      "link": "https://github.com/Wan-Video/Wan-Dancer",
+      "description": null,
+      "language": "Python",
+      "stars": 310,
+      "forks": 25,
+      "created_at": "2026-07-13T08:40:07Z"
+    },
+    {
+      "name": "PromptPartner/agentsmith",
+      "link": "https://github.com/PromptPartner/agentsmith",
+      "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "language": "Shell",
+      "stars": 308,
+      "forks": 16,
+      "created_at": "2026-07-16T11:37:15Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI工程化与本地化部署、开源智能体工具以及开发者体验优化。AI方向最为火热，尤其是低资源推理（如AirLLM单卡运行70B模型）、AI代码代理（如Grok Build）和模型逆向工程（如mimic），显示行业正从“大模型竞赛”转向“高效落地”。前端和后端也有亮点，如交互式视频格式Aval和代码智能图谱工具。\n\n最火方向：AI工程化与智能体（Agent）工具，占据热榜半数以上。\n\n推荐关注项目：\n1. **xai-org/grok-build**（Rust，18901 stars）：SpaceXAI推出的全屏代码代理工具，代表AI辅助编程新范式，值得跟踪其架构与生态。\n2. **lyogavin/airllm**（Jupyter Notebook）：突破性实现70B模型在4GB GPU上推理，极大降低大模型部署门槛，对边缘计算和低成本应用意义重大。\n3. **littledivy/mimic**（Python，1176 stars）：可拦截任意应用并通过Python调用，为自动化测试和AI交互提供了新思路，实用性强。"
+}
