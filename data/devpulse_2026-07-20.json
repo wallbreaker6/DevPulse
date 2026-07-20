@@ -1,0 +1,343 @@
+{
+  "date": "2026-07-20",
+  "github_trending": [
+    {
+      "name": "bojieli/ai-agent-book",
+      "link": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_today": "1,734 stars today",
+      "total_stars": "6,429",
+      "ai_analysis": "这是一本系统讲解AI Agent设计原理与工程实践的开源技术书籍，配套完整PDF和Python代码。它最近爆火主要因AI Agent成为2024年最热门赛道，而该书由华为昇思MindSpore专家李博杰撰写，内容兼具深度与实用性，填补了从理论到落地的系统化教程空白。对开发者而言，它是从零上手构建智能体、理解多智能体协作与工具调用的极佳实操指南。"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_today": "663 stars today",
+      "total_stars": "21,489",
+      "ai_analysis": "这是一个本地优先的代码知识图谱工具，专为MCP和CLI设计，能持久化代码结构，让AI只读取关键上下文。它最近爆火是因为精准解决了AI代码审查时“上下文窗口爆炸”的痛点，尤其在大型仓库中显著降低token消耗。对开发者来说，它能大幅提升AI辅助编程的效率与准确性，减少无用信息干扰，是优化本地AI工作流的实用基础设施。"
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "link": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "stars_today": "360 stars today",
+      "total_stars": "18,432",
+      "ai_analysis": "这是一个面向大模型推理与微调的异构优化框架，通过灵活调度CPU、GPU等不同硬件资源来加速LLM。它近期火爆主要因为业界对降低大模型部署成本的需求激增，尤其KVCache优化在长上下文场景下效果显著，且项目提供了即插即用的抽象层。开发者可借此快速实验混合精度、内存卸载等高级技术，无需从头实现底层算子，大幅降低异构LLM工程落地的门槛。"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "501 stars today",
+      "total_stars": "39,807"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "link": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_today": "610 stars today",
+      "total_stars": "43,471"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "link": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars_today": "595 stars today",
+      "total_stars": "1,944"
+    },
+    {
+      "name": "andrewrabert/jellium-desktop",
+      "link": "https://github.com/andrewrabert/jellium-desktop",
+      "description": "An unofficial desktop client for Jellyfin",
+      "language": "Rust",
+      "stars_today": "43 stars today",
+      "total_stars": "1,310"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "link": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars_today": "39 stars today",
+      "total_stars": "9,977"
+    },
+    {
+      "name": "PostHog/posthog",
+      "link": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "stars_today": "411 stars today",
+      "total_stars": "36,973"
+    },
+    {
+      "name": "microsoft/terminal",
+      "link": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars_today": "59 stars today",
+      "total_stars": "104,208"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars_today": "83 stars today",
+      "total_stars": "36,734"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "link": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": "235 stars today",
+      "total_stars": "8,973"
+    },
+    {
+      "name": "trycua/cua",
+      "link": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars_today": "64 stars today",
+      "total_stars": "20,257"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "link": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars_today": "410 stars today",
+      "total_stars": "9,933"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "link": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "暂无描述",
+      "language": "Batchfile",
+      "stars_today": "106 stars today",
+      "total_stars": "31,040"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "link": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "754 stars today",
+      "total_stars": "529,001"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "link": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": "358 stars today",
+      "total_stars": "23,675"
+    },
+    {
+      "name": "Canner/WrenAI",
+      "link": "https://github.com/Canner/WrenAI",
+      "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "language": "Python",
+      "stars_today": "121 stars today",
+      "total_stars": "16,252"
+    },
+    {
+      "name": "PKUFlyingPig/cs-self-learning",
+      "link": "https://github.com/PKUFlyingPig/cs-self-learning",
+      "description": "计算机自学指南",
+      "language": "HTML",
+      "stars_today": "134 stars today",
+      "total_stars": "74,227"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "xai-org/grok-build",
+      "link": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "language": "Rust",
+      "stars": 20221,
+      "forks": 3678,
+      "created_at": "2026-07-14T20:04:23Z"
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "link": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars": 10481,
+      "forks": 1084,
+      "created_at": "2026-07-15T12:34:51Z"
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "link": "https://github.com/CluvexStudio/Aether",
+      "description": null,
+      "language": "Rust",
+      "stars": 1317,
+      "forks": 78,
+      "created_at": "2026-07-14T14:20:44Z"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "link": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 1162,
+      "forks": 167,
+      "created_at": "2026-07-16T06:17:00Z"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "link": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 828,
+      "forks": 48,
+      "created_at": "2026-07-17T04:58:22Z"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "link": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 767,
+      "forks": 78,
+      "created_at": "2026-07-16T07:06:09Z"
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "link": "https://github.com/MatinSenPai/Aether-GUI",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "language": "TypeScript",
+      "stars": 627,
+      "forks": 28,
+      "created_at": "2026-07-14T20:13:18Z"
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "link": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
+      "stars": 617,
+      "forks": 134,
+      "created_at": "2026-07-15T22:17:25Z"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_flutter",
+      "link": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "language": "Dart",
+      "stars": 594,
+      "forks": 1,
+      "created_at": "2026-07-16T12:25:48Z"
+    },
+    {
+      "name": "lopopolo/harness-engineering",
+      "link": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stars": 587,
+      "forks": 24,
+      "created_at": "2026-07-18T21:42:28Z"
+    },
+    {
+      "name": "hoainho/img2threejs",
+      "link": "https://github.com/hoainho/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "language": "Python",
+      "stars": 522,
+      "forks": 42,
+      "created_at": "2026-07-15T02:58:39Z"
+    },
+    {
+      "name": "PengZhang64/circuit-framework",
+      "link": "https://github.com/PengZhang64/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "language": "Python",
+      "stars": 485,
+      "forks": 19,
+      "created_at": "2026-07-16T15:02:10Z"
+    },
+    {
+      "name": "stackblitz/bolt-slides",
+      "link": "https://github.com/stackblitz/bolt-slides",
+      "description": "Use any agent to create stunning, interactive presentations",
+      "language": "TypeScript",
+      "stars": 452,
+      "forks": 59,
+      "created_at": "2026-07-14T18:23:27Z"
+    },
+    {
+      "name": "pyang5166/gbro-collage-broll",
+      "link": "https://github.com/pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "language": "Python",
+      "stars": 418,
+      "forks": 46,
+      "created_at": "2026-07-15T12:45:47Z"
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "link": "https://github.com/vshulcz/deja-vu",
+      "description": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
+      "language": "Go",
+      "stars": 386,
+      "forks": 20,
+      "created_at": "2026-07-14T07:45:44Z"
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "link": "https://github.com/xiejunjie524/handdraw-story-video",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "language": "Python",
+      "stars": 380,
+      "forks": 64,
+      "created_at": "2026-07-18T06:51:05Z"
+    },
+    {
+      "name": "andyhuo520/MacCheck",
+      "link": "https://github.com/andyhuo520/MacCheck",
+      "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具",
+      "language": "Swift",
+      "stars": 378,
+      "forks": 30,
+      "created_at": "2026-07-14T14:37:23Z"
+    },
+    {
+      "name": "Icex0/wp2shell-poc",
+      "link": "https://github.com/Icex0/wp2shell-poc",
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "language": "Python",
+      "stars": 353,
+      "forks": 79,
+      "created_at": "2026-07-17T20:18:33Z"
+    },
+    {
+      "name": "JustinGamer191/Holo",
+      "link": "https://github.com/JustinGamer191/Holo",
+      "description": null,
+      "language": "Swift",
+      "stars": 352,
+      "forks": 50,
+      "created_at": "2026-07-17T17:48:08Z"
+    },
+    {
+      "name": "MIgHTy-alIeN/Trading-Bot",
+      "link": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "language": "Solidity",
+      "stars": 351,
+      "forks": 193,
+      "created_at": "2026-07-17T09:45:22Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI Agent与本地化工具链的深度融合，以及开源AI语音、视频处理工具的爆发。最火方向依然是AI，尤其是Agent框架、代码智能、多模态应用及基础设施工具（如MCP集成）。\n\n推荐关注以下项目：\n1. **bojieli/ai-agent-book**：系统化理解AI Agent的权威开源书籍，适合开发者深入掌握设计原理与工程实践，是当前Agent热潮的基石资料。\n2. **jamiepine/voicebox**：开源AI语音工作室，支持克隆、听写、生成，代表生成式AI在音频领域的实用化趋势，且TypeScript实现易于集成。\n3. **xai-org/grok-build**：近7天最热项目（20221 stars），SpaceXAI的编码Agent与全屏TUI工具，展示了AI辅助编程的最新范式，Rust实现性能优秀。"
+}
