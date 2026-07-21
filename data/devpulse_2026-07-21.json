@@ -1,0 +1,351 @@
+{
+  "date": "2026-07-21",
+  "github_trending": [
+    {
+      "name": "tirth8205/code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_today": "1,833 stars today",
+      "total_stars": "23,313",
+      "ai_analysis": "这是一个为AI编程工具提供本地优先代码库图谱的项目，通过持久化代码映射让AI只读取关键上下文，大幅降低审查时的token消耗。它最近火了，因为开发者正苦于AI工具在大型仓库中因上下文窗口限制而“失忆”，该项目实测能显著减少冗余代码读取，直击痛点。对开发者而言，它能将AI代码审查和重构的效率提升一个台阶，尤其适合维护复杂仓库的团队。"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "link": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars_today": "568 stars today",
+      "total_stars": "9,685",
+      "ai_analysis": "这是一个用 Rust 构建的智能代码代理工具，旨在作为代码执行与AI之间的“缰绳”（harness），高效调度和封装代码任务。它最近火了，因为Rust的高性能与AI代理热点的结合，加上“最智能”的定位吸引了大量关注，同时其简洁的实现可能解决了当前代理框架臃肿的问题。对开发者而言，它能提供轻量、安全的代码执行环境，方便集成到AI工作流中，减少手动调度的复杂度。"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "language": "TypeScript",
+      "stars_today": "1,107 stars today",
+      "total_stars": "21,942",
+      "ai_analysis": "这是一个聚合了268家AI模型提供商（含50+免费）的统一API网关，支持自动故障切换与RTK+Caveman压缩技术（可节省15-95% token消耗）。最近爆火是因为它完美解决了开发者调用多模型时的高成本与切换痛点，且与Claude Code、Cursor等主流工具深度兼容。对开发者而言，无需逐一对接API即可低成本、高鲁棒地调用500+模型，极大提升AI应用开发效率。"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "823 stars today",
+      "total_stars": "40,592"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "862 stars today",
+      "total_stars": "134,756"
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "link": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "stars_today": "458 stars today",
+      "total_stars": "18,751"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "link": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_today": "821 stars today",
+      "total_stars": "44,218"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "link": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars_today": "234 stars today",
+      "total_stars": "28,812"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars_today": "565 stars today",
+      "total_stars": "14,267"
+    },
+    {
+      "name": "every-app/open-seo",
+      "link": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_today": "939 stars today",
+      "total_stars": "5,900"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "link": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars_today": "410 stars today",
+      "total_stars": "10,261"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars_today": "317 stars today",
+      "total_stars": "37,128"
+    },
+    {
+      "name": "PrefectHQ/fastmcp",
+      "link": "https://github.com/PrefectHQ/fastmcp",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "language": "Python",
+      "stars_today": "96 stars today",
+      "total_stars": "26,556"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "link": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars_today": "689 stars today",
+      "total_stars": "2,582"
+    },
+    {
+      "name": "tokio-rs/topcoat",
+      "link": "https://github.com/tokio-rs/topcoat",
+      "description": "A batteries-included framework for building web apps",
+      "language": "Rust",
+      "stars_today": "371 stars today",
+      "total_stars": "1,582"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "link": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars_today": "240 stars today",
+      "total_stars": "133,793"
+    },
+    {
+      "name": "oblien/openship",
+      "link": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars_today": "1,641 stars today",
+      "total_stars": "4,877"
+    },
+    {
+      "name": "microsoft/Ontology-Playground",
+      "link": "https://github.com/microsoft/Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "stars_today": "464 stars today",
+      "total_stars": "1,754"
+    },
+    {
+      "name": "handy-computer/transcribe.cpp",
+      "link": "https://github.com/handy-computer/transcribe.cpp",
+      "description": "ggml speech-to-text inference for 16+ model families",
+      "language": "C++",
+      "stars_today": "395 stars today",
+      "total_stars": "1,287"
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "link": "https://github.com/moonshine-ai/moonshine",
+      "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "language": "C++",
+      "stars_today": "282 stars today",
+      "total_stars": "9,893"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "link": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "description": "Codex Dream Skin",
+      "language": "JavaScript",
+      "stars": 11094,
+      "forks": 1138,
+      "created_at": "2026-07-15T12:34:51Z"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "link": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 1219,
+      "forks": 174,
+      "created_at": "2026-07-16T06:17:00Z"
+    },
+    {
+      "name": "hoainho/img2threejs",
+      "link": "https://github.com/hoainho/img2threejs",
+      "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+      "language": "Python",
+      "stars": 1038,
+      "forks": 89,
+      "created_at": "2026-07-15T02:58:39Z"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "link": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 883,
+      "forks": 53,
+      "created_at": "2026-07-17T04:58:22Z"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "link": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 871,
+      "forks": 94,
+      "created_at": "2026-07-16T07:06:09Z"
+    },
+    {
+      "name": "lopopolo/harness-engineering",
+      "link": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stars": 792,
+      "forks": 37,
+      "created_at": "2026-07-18T21:42:28Z"
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "link": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
+      "stars": 661,
+      "forks": 143,
+      "created_at": "2026-07-15T22:17:25Z"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_flutter",
+      "link": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "language": "Dart",
+      "stars": 622,
+      "forks": 1,
+      "created_at": "2026-07-16T12:25:48Z"
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "link": "https://github.com/xiejunjie524/handdraw-story-video",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "language": "Python",
+      "stars": 503,
+      "forks": 83,
+      "created_at": "2026-07-18T06:51:05Z"
+    },
+    {
+      "name": "EthanXiang777/circuit-framework",
+      "link": "https://github.com/EthanXiang777/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "language": "Python",
+      "stars": 486,
+      "forks": 19,
+      "created_at": "2026-07-16T15:02:10Z"
+    },
+    {
+      "name": "pyang5166/gbro-collage-broll",
+      "link": "https://github.com/pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "language": "Python",
+      "stars": 477,
+      "forks": 50,
+      "created_at": "2026-07-15T12:45:47Z"
+    },
+    {
+      "name": "MIgHTy-alIeN/Trading-Bot",
+      "link": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "language": "Solidity",
+      "stars": 467,
+      "forks": 285,
+      "created_at": "2026-07-17T09:45:22Z"
+    },
+    {
+      "name": "Icex0/wp2shell-poc",
+      "link": "https://github.com/Icex0/wp2shell-poc",
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "language": "Python",
+      "stars": 422,
+      "forks": 101,
+      "created_at": "2026-07-17T20:18:33Z"
+    },
+    {
+      "name": "JustinGamer191/Holo",
+      "link": "https://github.com/JustinGamer191/Holo",
+      "description": null,
+      "language": "Swift",
+      "stars": 381,
+      "forks": 58,
+      "created_at": "2026-07-17T17:48:08Z"
+    },
+    {
+      "name": "yuwen-cool/yuwen-publish-precheck",
+      "link": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+      "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "language": "Python",
+      "stars": 353,
+      "forks": 32,
+      "created_at": "2026-07-15T13:53:48Z"
+    },
+    {
+      "name": "PromptPartner/agentsmith",
+      "link": "https://github.com/PromptPartner/agentsmith",
+      "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "language": "Shell",
+      "stars": 312,
+      "forks": 17,
+      "created_at": "2026-07-16T11:37:15Z"
+    },
+    {
+      "name": "thesysdev/appless",
+      "link": "https://github.com/thesysdev/appless",
+      "description": "What if your phone had no apps",
+      "language": "TypeScript",
+      "stars": 301,
+      "forks": 43,
+      "created_at": "2026-07-16T07:08:49Z"
+    },
+    {
+      "name": "my-take-dev/inspired-mino-design-skills",
+      "link": "https://github.com/my-take-dev/inspired-mino-design-skills",
+      "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
+      "language": "Shell",
+      "stars": 295,
+      "forks": 9,
+      "created_at": "2026-07-15T00:08:09Z"
+    },
+    {
+      "name": "thebuggeddev/football-stadium",
+      "link": "https://github.com/thebuggeddev/football-stadium",
+      "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
+      "language": "HTML",
+      "stars": 291,
+      "forks": 62,
+      "created_at": "2026-07-17T12:36:15Z"
+    },
+    {
+      "name": "HeiGeAi/heige-codex-skin-studio",
+      "link": "https://github.com/HeiGeAi/heige-codex-skin-studio",
+      "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
+      "language": "JavaScript",
+      "stars": 285,
+      "forks": 46,
+      "created_at": "2026-07-15T10:24:07Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI开发工具链与多模态应用两大方向。AI方向最为火热，覆盖代码智能体、AI记忆平台、语音克隆、3D重建等细分领域，其中本地优先的代码知识图谱（code-review-graph）、开源AI语音工作室（voicebox）和AI记忆平台（cognee）尤为突出。建议重点关注：1）**tirth8205/code-review-graph**，它实现了MCP和CL的本地代码智能图，对提升代码审查效率有实用价值；2）**jamiepine/voicebox**，作为开源AI语音工作室，支持语音克隆与指令式生成，降低语音AI门槛；3）**topoteretes/cognee**，提供开源AI记忆层，为智能体应用赋予长期上下文记忆能力，是构建复杂AI系统的基础组件。"
+}
