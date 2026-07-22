@@ -1,0 +1,359 @@
+{
+  "date": "2026-07-22",
+  "github_trending": [
+    {
+      "name": "koala73/worldmonitor",
+      "link": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": "1,295 stars today",
+      "total_stars": "65,627",
+      "ai_analysis": "一个实时全球情报仪表盘，聚合AI新闻、地缘政治监控与基础设施追踪，提供统一态势感知界面。最近爆火或因全球冲突频发、信息过载背景下，用户对整合多源数据并自动分析的工具需求激增，且TypeScript实现具备良好扩展性。对开发者而言，其模块化架构和AI集成思路可作为构建实时数据看板或情报分析系统的参考范例。"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "link": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_today": "4,624 stars today",
+      "total_stars": "14,763",
+      "ai_analysis": "《深入理解 AI Agent》的开源书籍项目，提供从原理到工程实践的完整资源。最近爆火主要因为 AI Agent 是当前大模型落地核心热点，该书由资深专家撰写、内容系统且配套代码可运行，正好填补了高质量中文实战教材的空白。对开发者价值极高：既能系统学习 Agent 架构、规划、工具调用等核心设计，又能直接复用书中代码快速搭建原型，是入门到进阶的“保姆级”参考。"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_today": "1,925 stars today",
+      "total_stars": "24,604",
+      "ai_analysis": "一个本地优先的代码知识图谱工具，为MCP和CLI提供代码库持久化映射，使AI编码工具只读取相关上下文。最近火爆是因为它解决了AI代码审查中“上下文窗口过大”的痛点，通过图结构精准裁剪冗余信息，实测大幅降低API成本并提升审查精度。对开发者而言，能显著优化大仓库的AI辅助工作流，减少无效token消耗，尤其适合需要频繁进行代码审查或维护遗留系统的团队。"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "未知",
+      "stars_today": "1,866 stars today",
+      "total_stars": "6,931"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "link": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars_today": "291 stars today",
+      "total_stars": "9,173"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "link": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars_today": "843 stars today",
+      "total_stars": "10,346"
+    },
+    {
+      "name": "oblien/openship",
+      "link": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars_today": "1,562 stars today",
+      "total_stars": "6,273"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "link": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars_today": "416 stars today",
+      "total_stars": "37,488"
+    },
+    {
+      "name": "every-app/open-seo",
+      "link": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars_today": "849 stars today",
+      "total_stars": "6,622"
+    },
+    {
+      "name": "tradesdontlie/tradingview-mcp",
+      "link": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars_today": "114 stars today",
+      "total_stars": "4,856"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "link": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_today": "129 stars today",
+      "total_stars": "30,224"
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "link": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars_today": "58 stars today",
+      "total_stars": "37,050"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "link": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars_today": "1,235 stars today",
+      "total_stars": "69,981"
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "link": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars_today": "271 stars today",
+      "total_stars": "37,676"
+    },
+    {
+      "name": "langchain-ai/open_deep_research",
+      "link": "https://github.com/langchain-ai/open_deep_research",
+      "description": "暂无描述",
+      "language": "Python",
+      "stars_today": "23 stars today",
+      "total_stars": "12,247"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars_today": "2,034 stars today",
+      "total_stars": "23,672"
+    },
+    {
+      "name": "agegr/pi-web",
+      "link": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars_today": "298 stars today",
+      "total_stars": "1,741"
+    },
+    {
+      "name": "schollz/croc",
+      "link": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars_today": "361 stars today",
+      "total_stars": "36,827"
+    },
+    {
+      "name": "microsoft/Ontology-Playground",
+      "link": "https://github.com/microsoft/Ontology-Playground",
+      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "language": "TypeScript",
+      "stars_today": "355 stars today",
+      "total_stars": "2,017"
+    },
+    {
+      "name": "dottxt-ai/outlines",
+      "link": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "stars_today": "65 stars today",
+      "total_stars": "14,856"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "link": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars_today": "642 stars today",
+      "total_stars": "3,168"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "lopopolo/harness-engineering",
+      "link": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stars": 1632,
+      "forks": 145,
+      "created_at": "2026-07-18T21:42:28Z"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "link": "https://github.com/tandpfun/wardrobe",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "language": "JavaScript",
+      "stars": 1285,
+      "forks": 186,
+      "created_at": "2026-07-16T06:17:00Z"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "link": "https://github.com/pablostanley/yoinks",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "language": "TypeScript",
+      "stars": 965,
+      "forks": 101,
+      "created_at": "2026-07-16T07:06:09Z"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "link": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 912,
+      "forks": 55,
+      "created_at": "2026-07-17T04:58:22Z"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_flutter",
+      "link": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "language": "Dart",
+      "stars": 778,
+      "forks": 2,
+      "created_at": "2026-07-16T12:25:48Z"
+    },
+    {
+      "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "link": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "language": "Solidity",
+      "stars": 739,
+      "forks": 497,
+      "created_at": "2026-07-17T09:45:22Z"
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "link": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "language": "Swift",
+      "stars": 626,
+      "forks": 35,
+      "created_at": "2026-07-20T15:37:29Z"
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "link": "https://github.com/xiejunjie524/handdraw-story-video",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "language": "Python",
+      "stars": 589,
+      "forks": 91,
+      "created_at": "2026-07-18T06:51:05Z"
+    },
+    {
+      "name": "EthanXiang777/circuit-framework",
+      "link": "https://github.com/EthanXiang777/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "language": "Python",
+      "stars": 487,
+      "forks": 19,
+      "created_at": "2026-07-16T15:02:10Z"
+    },
+    {
+      "name": "smixs/pohuy",
+      "link": "https://github.com/smixs/pohuy",
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "language": null,
+      "stars": 468,
+      "forks": 7,
+      "created_at": "2026-07-17T15:22:53Z"
+    },
+    {
+      "name": "Icex0/wp2shell-poc",
+      "link": "https://github.com/Icex0/wp2shell-poc",
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "language": "Python",
+      "stars": 463,
+      "forks": 107,
+      "created_at": "2026-07-17T20:18:33Z"
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "link": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "language": "TypeScript",
+      "stars": 426,
+      "forks": 31,
+      "created_at": "2026-07-19T11:44:41Z"
+    },
+    {
+      "name": "JustinGamer191/Holo",
+      "link": "https://github.com/JustinGamer191/Holo",
+      "description": null,
+      "language": "Swift",
+      "stars": 408,
+      "forks": 61,
+      "created_at": "2026-07-17T17:48:08Z"
+    },
+    {
+      "name": "mesamirh/MovieBox-Tui",
+      "link": "https://github.com/mesamirh/MovieBox-Tui",
+      "description": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
+      "language": "Rust",
+      "stars": 365,
+      "forks": 26,
+      "created_at": "2026-07-16T07:09:47Z"
+    },
+    {
+      "name": "powerycy/goutoujunshi",
+      "link": "https://github.com/powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "language": "Python",
+      "stars": 347,
+      "forks": 52,
+      "created_at": "2026-07-20T14:58:48Z"
+    },
+    {
+      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "link": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "language": null,
+      "stars": 345,
+      "forks": 71,
+      "created_at": "2026-07-19T06:09:52Z"
+    },
+    {
+      "name": "thesysdev/appless",
+      "link": "https://github.com/thesysdev/appless",
+      "description": "What if your phone had no apps",
+      "language": "TypeScript",
+      "stars": 316,
+      "forks": 45,
+      "created_at": "2026-07-16T07:08:49Z"
+    },
+    {
+      "name": "PromptPartner/agentsmith",
+      "link": "https://github.com/PromptPartner/agentsmith",
+      "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "language": "Shell",
+      "stars": 314,
+      "forks": 18,
+      "created_at": "2026-07-16T11:37:15Z"
+    },
+    {
+      "name": "thebuggeddev/football-stadium",
+      "link": "https://github.com/thebuggeddev/football-stadium",
+      "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
+      "language": "HTML",
+      "stars": 311,
+      "forks": 65,
+      "created_at": "2026-07-17T12:36:15Z"
+    },
+    {
+      "name": "paxlabs-inc/machine-genome",
+      "link": "https://github.com/paxlabs-inc/machine-genome",
+      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "language": "Go",
+      "stars": 284,
+      "forks": 48,
+      "created_at": "2026-07-20T12:41:33Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI Agent开发与工程化落地，以及AI辅助的代码、设计、数据可视化工具。最火的方向是AI Agent，尤其是结合多智能体框架、本地化部署和代码智能分析的项目。推荐关注：1）**bojieli/ai-agent-book**，这是一本系统讲解AI Agent设计原理的开源书籍，配套完整代码和PDF，适合开发者深入学习Agent架构；2）**koala73/worldmonitor**，利用AI驱动的实时全球情报仪表盘，展示了AI在数据聚合与可视化中的实际应用；3）**tradingview-mcp**，将AI与TradingView图表分析结合，代表“AI+金融工具”的实用方向，开发潜力大。整体上，AI Agent、代码智能、自托管平台是今日三大热点。"
+}
