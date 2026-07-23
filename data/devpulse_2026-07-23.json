@@ -1,0 +1,343 @@
+{
+  "date": "2026-07-23",
+  "github_trending": [
+    {
+      "name": "koala73/worldmonitor",
+      "link": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": "4,139 stars today",
+      "total_stars": "69,126",
+      "ai_analysis": "koala73/worldmonitor 是一个基于TypeScript的实时全球情报仪表盘，集成了AI驱动的新闻聚合、地缘政治监控和基础设施追踪。它最近火爆（单日超4000星）可能是因为全球局势动荡，开发者或投资者对实时态势感知工具需求激增，且项目界面统一、技术栈现代，吸引了关注国际动态的技术人群。对开发者而言，该项目提供了学习实时数据聚合、AI集成及地理信息可视化的实战范例，还能作为构建自定义监控系统的可复用框架。"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "741 stars today",
+      "total_stars": "83,885",
+      "ai_analysis": "RuView 利用商用WiFi信号实现非接触式空间感知、生命体征监测与存在检测，无需任何摄像头。近期爆火可能源于隐私敏感场景（如养老、安防）对无视频监控的迫切需求，以及Rust高性能与低资源消耗的契合度。对开发者而言，这是学习无线感知算法与Rust系统编程的极佳实战项目，可快速搭建隐私友好的物联网原型。"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars_today": "1,699 stars today",
+      "total_stars": "8,353",
+      "ai_analysis": "这是一个为AI编程助手设计的技能插件，核心功能是强制代码助手输出简洁、直接、不“埋没”关键信息的回答，特别针对注意力缺陷人群优化。它最近爆火，源于开发者社区对AI冗长回复的普遍厌倦，以及ADHD/专注力话题在技术圈的共鸣，实用且自带社交传播点。对开发者而言，它提供了一种低成本改造AI交互体验的思路，并揭示了“为少数人群做极致体验”可能带来的广泛市场。"
+    },
+    {
+      "name": "schollz/croc",
+      "link": "https://github.com/schollz/croc",
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "stars_today": "739 stars today",
+      "total_stars": "37,655"
+    },
+    {
+      "name": "likec4/likec4",
+      "link": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars_today": "80 stars today",
+      "total_stars": "4,308"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "link": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars_today": "768 stars today",
+      "total_stars": "70,639"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "link": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars_today": "557 stars today",
+      "total_stars": "45,809"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars_today": "1,651 stars today",
+      "total_stars": "25,406"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": "137 stars today",
+      "total_stars": "32,622"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "link": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars_today": "163 stars today",
+      "total_stars": "68,818"
+    },
+    {
+      "name": "oblien/openship",
+      "link": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars_today": "1,302 stars today",
+      "total_stars": "7,338"
+    },
+    {
+      "name": "agegr/pi-web",
+      "link": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars_today": "314 stars today",
+      "total_stars": "2,094"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars_today": "652 stars today",
+      "total_stars": "42,294"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_today": "882 stars today",
+      "total_stars": "25,349"
+    },
+    {
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "link": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "language": "TypeScript",
+      "stars_today": "68 stars today",
+      "total_stars": "10,818"
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "link": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars_today": "420 stars today",
+      "total_stars": "38,033"
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "link": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars_today": "356 stars today",
+      "total_stars": "37,303"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "link": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars_today": "108 stars today",
+      "total_stars": "8,443"
+    },
+    {
+      "name": "dottxt-ai/outlines",
+      "link": "https://github.com/dottxt-ai/outlines",
+      "description": "Structured Outputs",
+      "language": "Python",
+      "stars_today": "364 stars today",
+      "total_stars": "15,119"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "lopopolo/harness-engineering",
+      "link": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stars": 2194,
+      "forks": 221,
+      "created_at": "2026-07-18T21:42:28Z"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "link": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 987,
+      "forks": 65,
+      "created_at": "2026-07-17T04:58:22Z"
+    },
+    {
+      "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "link": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "language": "Solidity",
+      "stars": 920,
+      "forks": 650,
+      "created_at": "2026-07-17T09:45:22Z"
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "link": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "language": "Swift",
+      "stars": 762,
+      "forks": 40,
+      "created_at": "2026-07-20T15:37:29Z"
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "link": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "language": "TypeScript",
+      "stars": 633,
+      "forks": 41,
+      "created_at": "2026-07-21T07:01:53Z"
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "link": "https://github.com/xiejunjie524/handdraw-story-video",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "language": "Python",
+      "stars": 621,
+      "forks": 95,
+      "created_at": "2026-07-18T06:51:05Z"
+    },
+    {
+      "name": "smixs/pohuy",
+      "link": "https://github.com/smixs/pohuy",
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "language": null,
+      "stars": 538,
+      "forks": 9,
+      "created_at": "2026-07-17T15:22:53Z"
+    },
+    {
+      "name": "powerycy/goutoujunshi",
+      "link": "https://github.com/powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "language": "Python",
+      "stars": 532,
+      "forks": 68,
+      "created_at": "2026-07-20T14:58:48Z"
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "link": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "language": "TypeScript",
+      "stars": 529,
+      "forks": 37,
+      "created_at": "2026-07-19T11:44:41Z"
+    },
+    {
+      "name": "0xhype/hyperliquid-tracker",
+      "link": "https://github.com/0xhype/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "language": "TypeScript",
+      "stars": 503,
+      "forks": 0,
+      "created_at": "2026-07-21T14:24:08Z"
+    },
+    {
+      "name": "Icex0/wp2shell-poc",
+      "link": "https://github.com/Icex0/wp2shell-poc",
+      "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+      "language": "Python",
+      "stars": 488,
+      "forks": 113,
+      "created_at": "2026-07-17T20:18:33Z"
+    },
+    {
+      "name": "nyblnet/bento",
+      "link": "https://github.com/nyblnet/bento",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 467,
+      "forks": 28,
+      "created_at": "2026-07-17T16:55:09Z"
+    },
+    {
+      "name": "pireel/pireel",
+      "link": "https://github.com/pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "language": "TypeScript",
+      "stars": 450,
+      "forks": 34,
+      "created_at": "2026-07-20T09:34:24Z"
+    },
+    {
+      "name": "JustinGamer191/Holo",
+      "link": "https://github.com/JustinGamer191/Holo",
+      "description": null,
+      "language": "Swift",
+      "stars": 443,
+      "forks": 63,
+      "created_at": "2026-07-17T17:48:08Z"
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "link": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "language": "JavaScript",
+      "stars": 401,
+      "forks": 50,
+      "created_at": "2026-07-21T08:54:45Z"
+    },
+    {
+      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "link": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "language": null,
+      "stars": 378,
+      "forks": 75,
+      "created_at": "2026-07-19T06:09:52Z"
+    },
+    {
+      "name": "yc-duan/fastctx",
+      "link": "https://github.com/yc-duan/fastctx",
+      "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+      "language": "Rust",
+      "stars": 340,
+      "forks": 11,
+      "created_at": "2026-07-17T03:05:57Z"
+    },
+    {
+      "name": "thebuggeddev/football-stadium",
+      "link": "https://github.com/thebuggeddev/football-stadium",
+      "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
+      "language": "HTML",
+      "stars": 324,
+      "forks": 67,
+      "created_at": "2026-07-17T12:36:15Z"
+    },
+    {
+      "name": "Kritt-ai/open-kritt",
+      "link": "https://github.com/Kritt-ai/open-kritt",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "language": "JavaScript",
+      "stars": 322,
+      "forks": 71,
+      "created_at": "2026-07-20T20:26:24Z"
+    },
+    {
+      "name": "chartup-solana-volume-bot/solanavolumebot",
+      "link": "https://github.com/chartup-solana-volume-bot/solanavolumebot",
+      "description": "Top-rated Solana volume bot and developer tools for DEX liquidity, maker activity, and holder management.",
+      "language": null,
+      "stars": 305,
+      "forks": 0,
+      "created_at": "2026-07-21T23:44:26Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI应用、安全通信和金融科技三大方向。其中AI方向最火，覆盖了AI语音工作室、智能体技能、金融大模型及AI网关等多个细分领域。\n\n推荐关注以下项目：1. **koala73/worldmonitor**（TypeScript），这是一个AI驱动的实时全球情报仪表盘，结合了数据可视化与智能分析，对地缘政治与商业监控有实用价值；2. **schollz/croc**（Go），轻量级安全文件传输工具，端到端加密且跨平台，适合开发者和运维人员日常使用；3. **shiyu-coder/Kronos**（Python），专注金融语言的基础模型，有望在量化分析和自然语言处理交叉领域带来新突破。"
+}
