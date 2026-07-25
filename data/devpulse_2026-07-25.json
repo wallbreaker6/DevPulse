@@ -1,0 +1,319 @@
+{
+  "date": "2026-07-25",
+  "github_trending": [
+    {
+      "name": "block/buzz",
+      "link": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars_today": "3,270 stars today",
+      "total_stars": "10,061",
+      "ai_analysis": "AI 分析失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "link": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars_today": "2,184 stars today",
+      "total_stars": "73,318",
+      "ai_analysis": "AI 分析失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "link": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars_today": "663 stars today",
+      "total_stars": "70,086",
+      "ai_analysis": "AI 分析失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "link": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars_today": "473 stars today",
+      "total_stars": "9,351"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": "499 stars today",
+      "total_stars": "33,501"
+    },
+    {
+      "name": "Automattic/harper",
+      "link": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars_today": "876 stars today",
+      "total_stars": "13,058"
+    },
+    {
+      "name": "likec4/likec4",
+      "link": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars_today": "337 stars today",
+      "total_stars": "5,035"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "link": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars_today": "880 stars today",
+      "total_stars": "2,619"
+    },
+    {
+      "name": "yorukot/superfile",
+      "link": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars_today": "338 stars today",
+      "total_stars": "19,605"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "1,022 stars today",
+      "total_stars": "85,965"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "link": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "stars_today": "201 stars today",
+      "total_stars": "4,306"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "link": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars_today": "409 stars today",
+      "total_stars": "71,416"
+    },
+    {
+      "name": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "2,251 stars today",
+      "total_stars": "186,813"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "link": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars_today": "328 stars today",
+      "total_stars": "45,025"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars_today": "1,841 stars today",
+      "total_stars": "28,889"
+    },
+    {
+      "name": "OtterMind/Chat2DB",
+      "link": "https://github.com/OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars_today": "82 stars today",
+      "total_stars": "26,344"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "andrewyng/openworker",
+      "link": "https://github.com/andrewyng/openworker",
+      "description": null,
+      "language": "Python",
+      "stars": 3450,
+      "forks": 462,
+      "created_at": "2026-07-20T01:52:32Z"
+    },
+    {
+      "name": "Vincentwei1021/video-shotcraft",
+      "link": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "language": "TypeScript",
+      "stars": 1451,
+      "forks": 117,
+      "created_at": "2026-07-19T11:44:41Z"
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "link": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "language": "TypeScript",
+      "stars": 933,
+      "forks": 69,
+      "created_at": "2026-07-21T07:01:53Z"
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "link": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "language": "Swift",
+      "stars": 861,
+      "forks": 45,
+      "created_at": "2026-07-20T15:37:29Z"
+    },
+    {
+      "name": "powerycy/goutoujunshi",
+      "link": "https://github.com/powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "language": "Python",
+      "stars": 805,
+      "forks": 91,
+      "created_at": "2026-07-20T14:58:48Z"
+    },
+    {
+      "name": "pireel/pireel",
+      "link": "https://github.com/pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "language": "TypeScript",
+      "stars": 710,
+      "forks": 56,
+      "created_at": "2026-07-20T09:34:24Z"
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "link": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "language": "JavaScript",
+      "stars": 608,
+      "forks": 69,
+      "created_at": "2026-07-21T08:54:45Z"
+    },
+    {
+      "name": "CatsJuice/sticker-forge",
+      "link": "https://github.com/CatsJuice/sticker-forge",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+      "language": "JavaScript",
+      "stars": 523,
+      "forks": 46,
+      "created_at": "2026-07-20T17:13:15Z"
+    },
+    {
+      "name": "0xhype/hyperliquid-tracker",
+      "link": "https://github.com/0xhype/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "language": "TypeScript",
+      "stars": 509,
+      "forks": 1,
+      "created_at": "2026-07-21T14:24:08Z"
+    },
+    {
+      "name": "Charles-0509/Grok-Register",
+      "link": "https://github.com/Charles-0509/Grok-Register",
+      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "language": "Go",
+      "stars": 431,
+      "forks": 149,
+      "created_at": "2026-07-20T16:35:09Z"
+    },
+    {
+      "name": "slvDev/esp32-ai",
+      "link": "https://github.com/slvDev/esp32-ai",
+      "description": null,
+      "language": "Python",
+      "stars": 427,
+      "forks": 56,
+      "created_at": "2026-07-23T14:53:51Z"
+    },
+    {
+      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "link": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "language": null,
+      "stars": 407,
+      "forks": 84,
+      "created_at": "2026-07-19T06:09:52Z"
+    },
+    {
+      "name": "AdelanSupport/adelan-support",
+      "link": "https://github.com/AdelanSupport/adelan-support",
+      "description": null,
+      "language": "Python",
+      "stars": 389,
+      "forks": 0,
+      "created_at": "2026-07-21T07:28:23Z"
+    },
+    {
+      "name": "AdelanSoulX/PM-Sniper",
+      "link": "https://github.com/AdelanSoulX/PM-Sniper",
+      "description": null,
+      "language": "Python",
+      "stars": 388,
+      "forks": 0,
+      "created_at": "2026-07-20T14:23:19Z"
+    },
+    {
+      "name": "berabuddies/redis-poc",
+      "link": "https://github.com/berabuddies/redis-poc",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+      "language": "Python",
+      "stars": 386,
+      "forks": 100,
+      "created_at": "2026-07-22T22:26:08Z"
+    },
+    {
+      "name": "Kritt-ai/open-kritt",
+      "link": "https://github.com/Kritt-ai/open-kritt",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "language": "JavaScript",
+      "stars": 374,
+      "forks": 78,
+      "created_at": "2026-07-20T20:26:24Z"
+    },
+    {
+      "name": "dacnay816y62-hub/cinema-dna-21x9x3",
+      "link": "https://github.com/dacnay816y62-hub/cinema-dna-21x9x3",
+      "description": "高级感电影画面生成",
+      "language": null,
+      "stars": 320,
+      "forks": 28,
+      "created_at": "2026-07-20T18:46:29Z"
+    },
+    {
+      "name": "lyu0805/OpenBrowser",
+      "link": "https://github.com/lyu0805/OpenBrowser",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "language": "JavaScript",
+      "stars": 308,
+      "forks": 65,
+      "created_at": "2026-07-19T10:41:16Z"
+    },
+    {
+      "name": "melloworchid8rr6g/TG-Polymarket-bot",
+      "link": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
+      "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+      "language": "JavaScript",
+      "stars": 306,
+      "forks": 191,
+      "created_at": "2026-07-24T18:16:29Z"
+    },
+    {
+      "name": "realfishsam/agent-notch",
+      "link": "https://github.com/realfishsam/agent-notch",
+      "description": "The open-source alternative to vibe-island",
+      "language": "Swift",
+      "stars": 266,
+      "forks": 33,
+      "created_at": "2026-07-21T01:33:21Z"
+    }
+  ],
+  "daily_summary": "AI 总结生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+}
