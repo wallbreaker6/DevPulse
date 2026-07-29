@@ -1,0 +1,295 @@
+{
+  "date": "2026-07-29",
+  "github_trending": [
+    {
+      "name": "pascalorg/editor",
+      "link": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars_today": "341 stars today",
+      "total_stars": "18,772",
+      "ai_analysis": "这是一个基于TypeScript构建的3D建筑项目在线创建与分享工具。最近它火了可能是因为低门槛的3D建筑设计需求增长，结合了Web端实时协作与轻量化分享功能，尤其适合非专业用户快速制作建筑可视化方案。对开发者而言，其开源的编辑器架构和3D渲染实现可作为学习WebGL、CAD类工具开发的参考案例，也能直接用于快速搭建建筑展示平台或定制化设计工具。"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "link": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars_today": "180 stars today",
+      "total_stars": "26,080",
+      "ai_analysis": "Jenkins 是持续集成/持续交付（CI/CD）领域的老牌自动化服务器，用 Java 开发。今日获得 180 星，可能源于近期发布的关键版本更新、安全补丁修复，或是社区对 DevOps 工具链稳定性的重新关注。对开发者而言，它是搭建企业级自动化流水线的核心工具，支持海量插件，能显著提升代码构建、测试与部署效率。"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "link": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_today": "797 stars today",
+      "total_stars": "44,797",
+      "ai_analysis": "一个自托管的、类Neuro-sama的AI伴侣项目，支持实时语音聊天和游戏交互。今日暴涨797星，主要因其“二次元Grok”概念精准戳中宅圈与AI玩家需求，结合自托管隐私优势与多平台支持（Web/macOS/Windows）降低了使用门槛。对开发者而言，这是学习实时语音、游戏AI集成（Minecraft/Factorio）及TypeScript全栈实践的优质参考，且开源生态便于二次开发定制。"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "link": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars_today": "62 stars today",
+      "total_stars": "15,696"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "636 stars today",
+      "total_stars": "234,851"
+    },
+    {
+      "name": "hello245m/free-stockdb",
+      "link": "https://github.com/hello245m/free-stockdb",
+      "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "language": "HTML",
+      "stars_today": "50 stars today",
+      "total_stars": "1,325"
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "link": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars_today": "227 stars today",
+      "total_stars": "7,294"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "link": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars_today": "423 stars today",
+      "total_stars": "11,480"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "link": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars_today": "607 stars today",
+      "total_stars": "3,429"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "link": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars_today": "309 stars today",
+      "total_stars": "9,659"
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "link": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "stars_today": "46 stars today",
+      "total_stars": "5,226"
+    },
+    {
+      "name": "yorukot/superfile",
+      "link": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars_today": "662 stars today",
+      "total_stars": "21,504"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "link": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars_today": "988 stars today",
+      "total_stars": "12,132"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "link": "https://github.com/MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "language": null,
+      "stars": 3456,
+      "forks": 283,
+      "created_at": "2026-07-27T08:01:37Z"
+    },
+    {
+      "name": "slvDev/esp32-ai",
+      "link": "https://github.com/slvDev/esp32-ai",
+      "description": null,
+      "language": "Python",
+      "stars": 2066,
+      "forks": 225,
+      "created_at": "2026-07-23T14:53:51Z"
+    },
+    {
+      "name": "mshumer/Claude-of-Duty",
+      "link": "https://github.com/mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "language": "JavaScript",
+      "stars": 1759,
+      "forks": 266,
+      "created_at": "2026-07-25T19:32:36Z"
+    },
+    {
+      "name": "kvcache-ai/AgentENV",
+      "link": "https://github.com/kvcache-ai/AgentENV",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "language": "Rust",
+      "stars": 1443,
+      "forks": 127,
+      "created_at": "2026-07-23T02:48:07Z"
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "link": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "language": "Python",
+      "stars": 991,
+      "forks": 19,
+      "created_at": "2026-07-24T19:52:13Z"
+    },
+    {
+      "name": "VictorTaelin/OptMem",
+      "link": "https://github.com/VictorTaelin/OptMem",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "language": "Python",
+      "stars": 805,
+      "forks": 48,
+      "created_at": "2026-07-25T16:58:43Z"
+    },
+    {
+      "name": "MoonshotAI/MoonEP",
+      "link": "https://github.com/MoonshotAI/MoonEP",
+      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
+      "language": "Python",
+      "stars": 794,
+      "forks": 79,
+      "created_at": "2026-07-24T09:07:21Z"
+    },
+    {
+      "name": "fuadmefleh/Shared-Claude-Chats",
+      "link": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+      "language": "Python",
+      "stars": 675,
+      "forks": 114,
+      "created_at": "2026-07-26T01:14:17Z"
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "link": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 581,
+      "forks": 86,
+      "created_at": "2026-07-26T21:58:28Z"
+    },
+    {
+      "name": "digimata/quill",
+      "link": "https://github.com/digimata/quill",
+      "description": "Ultraminimalist macOS recording + transcription.",
+      "language": "Swift",
+      "stars": 562,
+      "forks": 28,
+      "created_at": "2026-07-24T23:31:27Z"
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "link": "https://github.com/mikehasa/agentacct",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "language": "Python",
+      "stars": 519,
+      "forks": 30,
+      "created_at": "2026-07-24T16:28:06Z"
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "link": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 472,
+      "forks": 68,
+      "created_at": "2026-07-28T14:16:19Z"
+    },
+    {
+      "name": "XYZ-AI-Lab/axrl",
+      "link": "https://github.com/XYZ-AI-Lab/axrl",
+      "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+      "language": "Python",
+      "stars": 445,
+      "forks": 20,
+      "created_at": "2026-07-23T06:07:23Z"
+    },
+    {
+      "name": "RongleCat/grok-app",
+      "link": "https://github.com/RongleCat/grok-app",
+      "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "language": "TypeScript",
+      "stars": 364,
+      "forks": 38,
+      "created_at": "2026-07-23T16:43:40Z"
+    },
+    {
+      "name": "XYZ-AI-Lab/AxisAgentic",
+      "link": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+      "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+      "language": "Python",
+      "stars": 360,
+      "forks": 55,
+      "created_at": "2026-07-23T04:03:31Z"
+    },
+    {
+      "name": "daimon3332/OutlookRegister",
+      "link": "https://github.com/daimon3332/OutlookRegister",
+      "description": "Outlook/Hotmail account batch registration tool.                          Outlook / Hotmail 账号批量注册工具，支持自动获取 OAuth2 refresh_token",
+      "language": "Python",
+      "stars": 326,
+      "forks": 54,
+      "created_at": "2026-07-23T12:38:50Z"
+    },
+    {
+      "name": "deerwork-ai/deer-workflow",
+      "link": "https://github.com/deerwork-ai/deer-workflow",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "language": "TypeScript",
+      "stars": 321,
+      "forks": 23,
+      "created_at": "2026-07-26T04:20:50Z"
+    },
+    {
+      "name": "NikolayS/PGSimCity",
+      "link": "https://github.com/NikolayS/PGSimCity",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "language": "TypeScript",
+      "stars": 320,
+      "forks": 19,
+      "created_at": "2026-07-25T22:15:09Z"
+    },
+    {
+      "name": "sunny-glow/Auto-BenchMax",
+      "link": "https://github.com/sunny-glow/Auto-BenchMax",
+      "description": null,
+      "language": "Python",
+      "stars": 315,
+      "forks": 27,
+      "created_at": "2026-07-23T04:13:21Z"
+    },
+    {
+      "name": "Eversmile12/leaked-llm-prompts",
+      "link": "https://github.com/Eversmile12/leaked-llm-prompts",
+      "description": "collections-of-leaked-prompts",
+      "language": null,
+      "stars": 312,
+      "forks": 241,
+      "created_at": "2026-07-24T18:16:06Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在**AI应用落地**与**开源基础设施**两大方向。AI方向最火，涵盖语音代理（huggingface/speech-to-speech）、模型训练框架（Kimi-K3、MoonEP）及AI写作工具；其次为**DevOps/自动化**（Jenkins更新、ECC性能优化）和**前端3D/可视化**（pascalorg/editor、Claude-of-Duty）。推荐关注：1）**huggingface/speech-to-speech**，它让开发者能本地构建语音AI代理，降低对云端API依赖，是边缘AI的重要实践；2）**pascalorg/editor**，以TypeScript实现3D建筑项目在线协作，反映低代码+三维可视化在工程领域的渗透；3）**kvcache-ai/AgentENV**，一个分布式AI Agent运行平台，解决多智能体协作与性能调度问题，是AI工程化的关键基础设施。"
+}
