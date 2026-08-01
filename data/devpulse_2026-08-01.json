@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-01",
+  "github_trending": [
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "link": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_today": "335 stars today",
+      "total_stars": "10,786",
+      "ai_analysis": "这是一个面向AI编程客户端的逆向工程与渗透测试技能路由包，通过PowerShell实现工具链自动调用和经验库进化。近期爆火源于安全领域对AI辅助渗透测试的需求激增，且其“自举+自进化”机制极具创新性。对开发者而言，它大幅降低了安全测试门槛，能快速获得定向工具链和攻击路径建议，但需注意其“授权”使用边界。"
+    },
+    {
+      "name": "different-ai/openwork",
+      "link": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars_today": "806 stars today",
+      "total_stars": "19,540",
+      "ai_analysis": "这是一个开源替代Claude Cowork的AI编程协作工具，基于TypeScript构建，核心是让AI代理直接操作代码库。它今天暴涨806星，主因是Claude Cowork的封闭生态引发开发者不满，而它提供完全本地化、可定制的替代方案，且与opencode深度集成。对开发者的价值在于能自主掌控AI辅助开发流程，避免数据外泄，同时通过开源社区快速迭代，降低对单一厂商的依赖。"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "658 stars today",
+      "total_stars": "56,248",
+      "ai_analysis": "这是一个基于Claude等AI Agent的“技能包”，能自动抓取Reddit、X、YouTube等平台近30天数据，并生成带引用的总结报告。它爆火是因为精准踩中“AI+实时信息”痛点，且实现方式轻量（纯Python），适合快速集成。对开发者而言，它提供了现成的多源数据聚合与摘要模板，可复用于舆情监控或市场调研，但需注意各平台API的合规限制。"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "link": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars_today": "763 stars today",
+      "total_stars": "11,780"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "link": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars_today": "1,592 stars today",
+      "total_stars": "55,364"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "link": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "stars_today": "7 stars today",
+      "total_stars": "10,146"
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "link": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars_today": "35 stars today",
+      "total_stars": "35,141"
+    },
+    {
+      "name": "agavra/tuicr",
+      "link": "https://github.com/agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
+      "language": "Rust",
+      "stars_today": "335 stars today",
+      "total_stars": "2,164"
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "link": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "stars_today": "194 stars today",
+      "total_stars": "5,120"
+    },
+    {
+      "name": "geo-tp/ESP32-Bit-Pirate",
+      "link": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+      "language": "C++",
+      "stars_today": "83 stars today",
+      "total_stars": "5,032"
+    },
+    {
+      "name": "deepfakes/faceswap",
+      "link": "https://github.com/deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
+      "language": "Python",
+      "stars_today": "93 stars today",
+      "total_stars": "57,003"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "link": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "stars_today": "527 stars today",
+      "total_stars": "14,638"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "link": "https://github.com/MoonshotAI/Kimi-K3",
+      "description": "Open Frontier Intelligence",
+      "language": null,
+      "stars": 7724,
+      "forks": 536,
+      "created_at": "2026-07-27T08:01:37Z"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "link": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 2067,
+      "forks": 241,
+      "created_at": "2026-07-30T18:17:54Z"
+    },
+    {
+      "name": "yc-software/qm",
+      "link": "https://github.com/yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "language": "TypeScript",
+      "stars": 2045,
+      "forks": 187,
+      "created_at": "2026-07-29T20:03:08Z"
+    },
+    {
+      "name": "xikhar/persona",
+      "link": "https://github.com/xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "language": "JavaScript",
+      "stars": 716,
+      "forks": 60,
+      "created_at": "2026-07-28T11:40:19Z"
+    },
+    {
+      "name": "QwenAudio/qwen-audio-agent",
+      "link": "https://github.com/QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "language": "JavaScript",
+      "stars": 614,
+      "forks": 44,
+      "created_at": "2026-07-27T05:04:26Z"
+    },
+    {
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "link": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "language": null,
+      "stars": 572,
+      "forks": 69,
+      "created_at": "2026-07-30T05:39:38Z"
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "link": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 570,
+      "forks": 127,
+      "created_at": "2026-07-28T14:16:19Z"
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "link": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 563,
+      "forks": 80,
+      "created_at": "2026-07-26T21:58:28Z"
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "link": "https://github.com/gavamedia/deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "language": "Python",
+      "stars": 562,
+      "forks": 64,
+      "created_at": "2026-07-28T01:01:23Z"
+    },
+    {
+      "name": "DramaticShape/DramaticShapeVoxelMod",
+      "link": "https://github.com/DramaticShape/DramaticShapeVoxelMod",
+      "description": null,
+      "language": "Lua",
+      "stars": 538,
+      "forks": 28,
+      "created_at": "2026-07-26T21:47:59Z"
+    },
+    {
+      "name": "WilonityDev/WilonityLoader",
+      "link": "https://github.com/WilonityDev/WilonityLoader",
+      "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
+      "language": null,
+      "stars": 532,
+      "forks": 0,
+      "created_at": "2026-07-31T07:53:54Z"
+    },
+    {
+      "name": "talivia-group/talivia",
+      "link": "https://github.com/talivia-group/talivia",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "language": "TypeScript",
+      "stars": 527,
+      "forks": 42,
+      "created_at": "2026-07-29T07:56:49Z"
+    },
+    {
+      "name": "wassgha/rescript",
+      "link": "https://github.com/wassgha/rescript",
+      "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+      "language": "TypeScript",
+      "stars": 473,
+      "forks": 54,
+      "created_at": "2026-07-26T22:43:11Z"
+    },
+    {
+      "name": "Noniv/snowflow_demo",
+      "link": "https://github.com/Noniv/snowflow_demo",
+      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "language": "JavaScript",
+      "stars": 413,
+      "forks": 104,
+      "created_at": "2026-07-28T19:01:58Z"
+    },
+    {
+      "name": "achimala/TheLongSilence",
+      "link": "https://github.com/achimala/TheLongSilence",
+      "description": "A space exploration game built by Claude Opus 5",
+      "language": "JavaScript",
+      "stars": 373,
+      "forks": 51,
+      "created_at": "2026-07-27T08:43:36Z"
+    },
+    {
+      "name": "deerwork-ai/deer-workflow",
+      "link": "https://github.com/deerwork-ai/deer-workflow",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "language": "TypeScript",
+      "stars": 367,
+      "forks": 29,
+      "created_at": "2026-07-26T04:20:50Z"
+    },
+    {
+      "name": "0xwilliamortiz/ratchet",
+      "link": "https://github.com/0xwilliamortiz/ratchet",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "language": "JavaScript",
+      "stars": 361,
+      "forks": 38,
+      "created_at": "2026-07-31T17:54:30Z"
+    },
+    {
+      "name": "ddoemonn/interior",
+      "link": "https://github.com/ddoemonn/interior",
+      "description": "micro-interactions for react, built for the half-second after a click",
+      "language": "TypeScript",
+      "stars": 322,
+      "forks": 10,
+      "created_at": "2026-07-30T18:20:18Z"
+    },
+    {
+      "name": "sqliteai/waste",
+      "link": "https://github.com/sqliteai/waste",
+      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+      "language": "C",
+      "stars": 315,
+      "forks": 32,
+      "created_at": "2026-07-28T20:56:00Z"
+    },
+    {
+      "name": "Packets/tew",
+      "link": "https://github.com/Packets/tew",
+      "description": null,
+      "language": null,
+      "stars": 312,
+      "forks": 46,
+      "created_at": "2026-07-31T13:41:26Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI Agent与开源基础设施两大方向。AI领域，Kimi K3以7724星领跑，主打“开放前沿智能”，且已有项目（如deltafin）支持单设备运行，显示开源大模型正加速向轻量化、本地化落地。同时，实时语音交互成为新热点，xikhar/persona与QwenAudio/qwen-audio-agent均聚焦“让Agent开口说话”，预示多模态交互将成下一阶段竞争焦点。此外，AI教育类项目（microsoft/AI-For-Beginners）持续热门，反映入门学习需求旺盛。\n\n最火方向明确为AI，但具体细分已从纯模型训练转向“Agent工程化”——包括协作工具（openwork、qm）、逆向/渗透辅助（reverse-skill）及代码审查（tuicr），显示出AI正深度嵌入开发者工作流。前端、后端热度相对分散，DevOps未见爆款。\n\n推荐关注：1）**MoonshotAI/Kimi-K3**，作为当前最热模型，其开放权重策略与单设备可跑特性极具落地潜力；2）**github/copilot-sdk**，官方SDK降低集成门槛，是构建Copilot类应用的关键基建；3）**xdash/FDE-the-Guidance-Book**，虽非代码项目，但“前沿部署工程师”指南精准切中AI落地中“工程化人才”缺口，值得产品与技术管理者研读。"
+}
