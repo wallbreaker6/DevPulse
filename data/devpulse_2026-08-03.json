@@ -1,0 +1,311 @@
+{
+  "date": "2026-08-03",
+  "github_trending": [
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "link": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars_today": "2,629 stars today",
+      "total_stars": "59,181",
+      "ai_analysis": "这是微软官方出品的AI入门课程，用12周24节课带零基础开发者系统学习AI核心概念。它最近爆火，一方面因为AI学习需求激增，另一方面微软品牌背书+免费高质量教程极具吸引力。对开发者而言，这是性价比极高的学习路径，能快速建立AI知识框架，并通过Jupyter Notebook动手实践，避免盲目啃论文。"
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "link": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "stars_today": "496 stars today",
+      "total_stars": "6,208",
+      "ai_analysis": "Kaneo 是一款开源的极简项目管理工具，主打“够用即可”的体验，用 TypeScript 构建。它今日暴涨 496 星，或因近期开发者厌倦了 Jira 等臃肿工具，其轻量、自托管特性切中痛点，且 UI 设计现代。对开发者而言，它提供了可二次定制的项目管理后端，适合快速搭建内部流程，同时代码质量高，是学习全栈 TypeScript 架构的优质范例。"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "link": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": "819 stars today",
+      "total_stars": "25,735",
+      "ai_analysis": "AirLLM 通过分层推理和内存卸载，让单张4GB显卡即可运行70B级大模型，本质是极致压缩显存依赖。近期爆火源于LLM本地化需求激增，且对比同等效果方案（如量化）成本极低，契合个人开发者与硬件受限场景。其价值在于降低大模型实验门槛，但需注意推理速度较慢，适合离线或异步任务，对研究算法优化和边缘部署有直接参考意义。"
+    },
+    {
+      "name": "iv-org/invidious",
+      "link": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "stars_today": "305 stars today",
+      "total_stars": "21,998"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "link": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "674 stars today",
+      "total_stars": "534,938"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "link": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars_today": "1,141 stars today",
+      "total_stars": "13,657"
+    },
+    {
+      "name": "different-ai/openwork",
+      "link": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars_today": "280 stars today",
+      "total_stars": "20,357"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "link": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "stars_today": "588 stars today",
+      "total_stars": "114,827"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "659 stars today",
+      "total_stars": "64,767"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars_today": "602 stars today",
+      "total_stars": "11,116"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "206 stars today",
+      "total_stars": "56,902"
+    },
+    {
+      "name": "NomaDamas/k-skill",
+      "link": "https://github.com/NomaDamas/k-skill",
+      "description": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+      "language": "JavaScript",
+      "stars_today": "177 stars today",
+      "total_stars": "6,900"
+    },
+    {
+      "name": "HarbourMasters/Lighthouse",
+      "link": "https://github.com/HarbourMasters/Lighthouse",
+      "description": "暂无描述",
+      "language": "C",
+      "stars_today": "65 stars today",
+      "total_stars": "225"
+    },
+    {
+      "name": "antirez/ds4",
+      "link": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "language": "C",
+      "stars_today": "139 stars today",
+      "total_stars": "20,023"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "link": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars_today": "333 stars today",
+      "total_stars": "29,124"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "yc-software/qm",
+      "link": "https://github.com/yc-software/qm",
+      "description": "Multiplayer agent harness for work",
+      "language": "TypeScript",
+      "stars": 7351,
+      "forks": 771,
+      "created_at": "2026-07-29T20:03:08Z"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "link": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 3704,
+      "forks": 428,
+      "created_at": "2026-07-30T18:17:54Z"
+    },
+    {
+      "name": "trycompai/crm",
+      "link": "https://github.com/trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "language": "TypeScript",
+      "stars": 1861,
+      "forks": 223,
+      "created_at": "2026-07-31T21:38:51Z"
+    },
+    {
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "link": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "language": null,
+      "stars": 1601,
+      "forks": 212,
+      "created_at": "2026-07-30T05:39:38Z"
+    },
+    {
+      "name": "WilonityDev/WilonityLoader",
+      "link": "https://github.com/WilonityDev/WilonityLoader",
+      "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
+      "language": null,
+      "stars": 1215,
+      "forks": 0,
+      "created_at": "2026-07-31T07:53:54Z"
+    },
+    {
+      "name": "sqliteai/waste",
+      "link": "https://github.com/sqliteai/waste",
+      "description": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
+      "language": "C",
+      "stars": 1092,
+      "forks": 92,
+      "created_at": "2026-07-28T20:56:00Z"
+    },
+    {
+      "name": "microsoft/skill-recorder",
+      "link": "https://github.com/microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "language": "TypeScript",
+      "stars": 835,
+      "forks": 90,
+      "created_at": "2026-07-29T18:16:14Z"
+    },
+    {
+      "name": "xikhar/persona",
+      "link": "https://github.com/xikhar/persona",
+      "description": "Bringing real-time voice to life.",
+      "language": "JavaScript",
+      "stars": 794,
+      "forks": 72,
+      "created_at": "2026-07-28T11:40:19Z"
+    },
+    {
+      "name": "DannyMac180/sol-advisor",
+      "link": "https://github.com/DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "language": "Shell",
+      "stars": 686,
+      "forks": 44,
+      "created_at": "2026-08-01T13:56:43Z"
+    },
+    {
+      "name": "talivia-group/talivia",
+      "link": "https://github.com/talivia-group/talivia",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+      "language": "TypeScript",
+      "stars": 652,
+      "forks": 68,
+      "created_at": "2026-07-29T07:56:49Z"
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "link": "https://github.com/gavamedia/deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "language": "Rust",
+      "stars": 623,
+      "forks": 72,
+      "created_at": "2026-07-28T01:01:23Z"
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "link": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 580,
+      "forks": 129,
+      "created_at": "2026-07-28T14:16:19Z"
+    },
+    {
+      "name": "0xwilliamortiz/humanizer-cli",
+      "link": "https://github.com/0xwilliamortiz/humanizer-cli",
+      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "language": "JavaScript",
+      "stars": 541,
+      "forks": 68,
+      "created_at": "2026-08-01T20:36:27Z"
+    },
+    {
+      "name": "Noniv/snowflow_demo",
+      "link": "https://github.com/Noniv/snowflow_demo",
+      "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+      "language": "JavaScript",
+      "stars": 459,
+      "forks": 114,
+      "created_at": "2026-07-28T19:01:58Z"
+    },
+    {
+      "name": "ddoemonn/interior",
+      "link": "https://github.com/ddoemonn/interior",
+      "description": "micro-interactions for react, built for the half-second after a click",
+      "language": "TypeScript",
+      "stars": 429,
+      "forks": 13,
+      "created_at": "2026-07-30T18:20:18Z"
+    },
+    {
+      "name": "0xwilliamortiz/ratchet",
+      "link": "https://github.com/0xwilliamortiz/ratchet",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "language": "JavaScript",
+      "stars": 411,
+      "forks": 84,
+      "created_at": "2026-07-31T17:54:30Z"
+    },
+    {
+      "name": "x4gKing/3x-ui-multi",
+      "link": "https://github.com/x4gKing/3x-ui-multi",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 403,
+      "forks": 683,
+      "created_at": "2026-08-01T12:34:51Z"
+    },
+    {
+      "name": "s1dashu/animated-voiceover",
+      "link": "https://github.com/s1dashu/animated-voiceover",
+      "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+      "language": null,
+      "stars": 391,
+      "forks": 46,
+      "created_at": "2026-07-31T13:32:12Z"
+    },
+    {
+      "name": "lij768423-svg/grok-register-panel",
+      "link": "https://github.com/lij768423-svg/grok-register-panel",
+      "description": "Grok register engine (Camoufox) + live web monitor panel",
+      "language": "Python",
+      "stars": 380,
+      "forks": 117,
+      "created_at": "2026-07-29T09:25:01Z"
+    },
+    {
+      "name": "deedy/qr-data-transfer",
+      "link": "https://github.com/deedy/qr-data-transfer",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 345,
+      "forks": 69,
+      "created_at": "2026-07-31T04:32:13Z"
+    }
+  ],
+  "daily_summary": "今日技术热点聚焦于**AI普及化与开源工具链下沉**，微软双教程（AI/Generative AI for Beginners）持续霸榜，但更值得关注的是**“低成本高性能”**与**“智能体实用化”**两条暗线：AirLLM用4GB显卡跑70B模型，waste项目单机运行2.78万亿参数Kimi K3，均指向推理成本骤降；Agent-Reach、TencentDB-Agent-Memory等则强调给AI装上“眼睛”和“团队记忆”，推动智能体从玩具走向生产力。\n\n最火方向仍是**AI应用层**，但已从“写代码”转向“替人干活”——如qm（多智能体协作）、openwork（开源版Claude Cowork）、agentic CRM，均属此列。TypeScript成为智能体工具链的默认语言，后端与DevOps热度相对平稳。\n\n推荐关注：**microsoft/AI-For-Beginners**（系统化AI入门，适合追踪技术脉络）、**lyogavin/airllm**（硬件受限下的工程突破，代表边缘推理趋势）、**yc-software/qm**（7天7351星，多智能体协作范式或重塑工作流）。建议优先研究qm与airllm，一个面向未来交互，一个解决当下成本痛点。"
+}
