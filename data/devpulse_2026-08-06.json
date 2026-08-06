@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-06",
+  "github_trending": [
+    {
+      "name": "cloudflare/computer",
+      "link": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars_today": "891 stars today",
+      "total_stars": "3,088",
+      "ai_analysis": "Cloudflare推出的“给AI代理一台电脑”项目，本质是让LLM通过TypeScript控制浏览器或虚拟机执行任务。它最近爆火，核心原因是踩中“AI Agent操作真实软件”的刚需，且背靠Cloudflare的全球边缘网络，提供低延迟的云端浏览器环境。对开发者而言，价值在于无需自建沙箱，用几行代码就能让AI自动化网页操作、测试或数据抓取，极大降低了构建自主Agent的门槛。"
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "link": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "stars_today": "326 stars today",
+      "total_stars": "2,178",
+      "ai_analysis": "LoopX是面向长期运行的AI代理团队的轻量级循环工程状态内核，支持跨Codex、Claude Code等代理的持久目标、配额感知自动唤醒与可验证交接。近期爆火或因AI编码代理协作需求激增，其“状态持久化+可验证交接”直击多代理长任务易断裂痛点，且Python实现轻量易集成。对开发者而言，可减少代理团队重复上下文管理，提升复杂任务连续性与成本控制，尤其适合需要多工具协作的自动化流水线。"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars_today": "1,892 stars today",
+      "total_stars": "15,120",
+      "ai_analysis": "腾讯云推出的团队级AI智能体记忆中枢，将对话、文档和代码转化为四种可复用的记忆资产（聊天记忆、技能、LLM知识库、代码图谱），实现跨智能体和框架的治理与共享。近期爆火源于AI Agent开发进入深水区，团队协作中“记忆碎片化”成为刚需痛点，且腾讯云背书带来信任度。对开发者而言，能显著降低Agent上下文管理复杂度，避免重复造轮子，尤其适合多Agent协作和知识密集型应用场景。"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "link": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "stars_today": "303 stars today",
+      "total_stars": "361,577"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "link": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars_today": "1,582 stars today",
+      "total_stars": "11,509"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "link": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars_today": "747 stars today",
+      "total_stars": "31,673"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "226 stars today",
+      "total_stars": "82,006"
+    },
+    {
+      "name": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "931 stars today",
+      "total_stars": "267,335"
+    },
+    {
+      "name": "roboflow/supervision",
+      "link": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars_today": "146 stars today",
+      "total_stars": "48,940"
+    },
+    {
+      "name": "vercel/next.js",
+      "link": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars_today": "68 stars today",
+      "total_stars": "141,564"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "link": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars_today": "408 stars today",
+      "total_stars": "96,873"
+    },
+    {
+      "name": "uber/ADR",
+      "link": "https://github.com/uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "language": "Python",
+      "stars_today": "354 stars today",
+      "total_stars": "1,063"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "link": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": "833 stars today",
+      "total_stars": "29,122"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "trycompai/crm",
+      "link": "https://github.com/trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "language": "TypeScript",
+      "stars": 6320,
+      "forks": 645,
+      "created_at": "2026-07-31T21:38:51Z"
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "link": "https://github.com/firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "language": "Rust",
+      "stars": 5198,
+      "forks": 225,
+      "created_at": "2026-08-03T16:36:14Z"
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "link": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "language": "C",
+      "stars": 2587,
+      "forks": 430,
+      "created_at": "2026-08-01T09:29:38Z"
+    },
+    {
+      "name": "imsai-sh/zhuzhiliao",
+      "link": "https://github.com/imsai-sh/zhuzhiliao",
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "language": "HTML",
+      "stars": 2045,
+      "forks": 265,
+      "created_at": "2026-08-01T17:20:54Z"
+    },
+    {
+      "name": "genspark-ai/genoffice",
+      "link": "https://github.com/genspark-ai/genoffice",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "language": "TypeScript",
+      "stars": 1788,
+      "forks": 287,
+      "created_at": "2026-07-31T09:40:58Z"
+    },
+    {
+      "name": "thebuggeddev/anatomy",
+      "link": "https://github.com/thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "language": "TypeScript",
+      "stars": 1618,
+      "forks": 451,
+      "created_at": "2026-08-02T11:15:16Z"
+    },
+    {
+      "name": "DannyMac180/sol-advisor",
+      "link": "https://github.com/DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "language": "Shell",
+      "stars": 1471,
+      "forks": 106,
+      "created_at": "2026-08-01T13:56:43Z"
+    },
+    {
+      "name": "KKKKhazix/human-writing",
+      "link": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 1106,
+      "forks": 102,
+      "created_at": "2026-08-05T01:19:41Z"
+    },
+    {
+      "name": "Accio-Lab/RealReplicaBench",
+      "link": "https://github.com/Accio-Lab/RealReplicaBench",
+      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "language": "HTML",
+      "stars": 1019,
+      "forks": 69,
+      "created_at": "2026-08-02T05:38:38Z"
+    },
+    {
+      "name": "x4gKing/3x-ui-multi",
+      "link": "https://github.com/x4gKing/3x-ui-multi",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 813,
+      "forks": 2173,
+      "created_at": "2026-08-01T12:34:51Z"
+    },
+    {
+      "name": "guillermolg00/morphicons",
+      "link": "https://github.com/guillermolg00/morphicons",
+      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "language": "TypeScript",
+      "stars": 725,
+      "forks": 12,
+      "created_at": "2026-08-01T08:15:09Z"
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "link": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "language": "Python",
+      "stars": 673,
+      "forks": 192,
+      "created_at": "2026-08-05T07:30:56Z"
+    },
+    {
+      "name": "ben-z/findphone",
+      "link": "https://github.com/ben-z/findphone",
+      "description": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available",
+      "language": "Swift",
+      "stars": 596,
+      "forks": 100,
+      "created_at": "2026-07-31T06:00:20Z"
+    },
+    {
+      "name": "0xwilliamortiz/humanizer-cli",
+      "link": "https://github.com/0xwilliamortiz/humanizer-cli",
+      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "language": "JavaScript",
+      "stars": 578,
+      "forks": 72,
+      "created_at": "2026-08-01T20:36:27Z"
+    },
+    {
+      "name": "brookfacehe2421/flashloan-scalper-bot",
+      "link": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+      "description": "Quick profit scalper using flashloan mechanics",
+      "language": "JavaScript",
+      "stars": 555,
+      "forks": 400,
+      "created_at": "2026-08-01T15:22:27Z"
+    },
+    {
+      "name": "sophiamyang/finger-frame-effect-ai",
+      "link": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 555,
+      "forks": 62,
+      "created_at": "2026-08-02T21:58:43Z"
+    },
+    {
+      "name": "s1dashu/animated-voiceover",
+      "link": "https://github.com/s1dashu/animated-voiceover",
+      "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+      "language": null,
+      "stars": 502,
+      "forks": 67,
+      "created_at": "2026-07-31T13:32:12Z"
+    },
+    {
+      "name": "magicrew/doc7",
+      "link": "https://github.com/magicrew/doc7",
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "language": "Go",
+      "stars": 456,
+      "forks": 9,
+      "created_at": "2026-08-02T14:03:55Z"
+    },
+    {
+      "name": "MarcosSete/awesome-free-ai-course-notes",
+      "link": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+      "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "language": null,
+      "stars": 451,
+      "forks": 30,
+      "created_at": "2026-08-03T11:36:49Z"
+    },
+    {
+      "name": "0xwilliamortiz/ratchet",
+      "link": "https://github.com/0xwilliamortiz/ratchet",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "language": "JavaScript",
+      "stars": 432,
+      "forks": 85,
+      "created_at": "2026-07-31T17:54:30Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI Agent与开发工具链的深度融合。GitHub Trending上，AI编程助手（DeepSeek-Reasonix）、Agent技能框架（superpowers、agent-skills）及云数据库内存中枢（TencentDB-Agent-Memory）占据主导，同时PDF处理（pdf-inspector）与系统设计经典（system-design-primer）持续受关注。\n\n**最火方向**：AI应用开发（含Agent、编程助手、办公套件），其次为前端（Next.js）与Rust工具链。近7天新项目中，Agent原生CRM（trycompai/crm）与AI办公套件（genoffice）印证了AI向业务场景渗透的趋势。\n\n**推荐关注**：\n1. **cloudflare/computer**：将Agent与计算机操作结合，预示“AI操控终端”的实用化方向，适合关注自动化运维或测试的开发者。\n2. **donnemartin/system-design-primer**：虽非新项目，但长期霸榜，是后端架构设计必备参考，适合系统学习分布式与规模化设计。\n3. **huangruiteng/loopx**：轻量级循环工程状态内核，直击长上下文Agent的工程痛点，对构建稳定Agent循环有借鉴价值。\n\n整体看，AI正从“对话”走向“执行”，Agent工程化与多模态工具链将成为下一阶段竞争焦点。"
+}
