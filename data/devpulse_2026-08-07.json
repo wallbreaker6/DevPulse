@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-07",
+  "github_trending": [
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "link": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars_today": "1,057 stars today",
+      "total_stars": "16,492",
+      "ai_analysis": "腾讯云推出的AI Agent团队级记忆中枢，将对话、文档与代码转化为四类可复用资产（聊天记忆、技能、LLM知识库、代码图谱），实现跨框架的治理与共享。近期爆火源于Agent开发中“记忆碎片化”痛点爆发，且企业级多Agent协作需求激增，其标准化资产模型直击生产环境刚需。开发者可借此摆脱重复上下文工程，快速构建具备长期记忆与技能沉淀的Agent系统，尤其适合需要团队协作与知识复用的中大型项目。"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "593 stars today",
+      "total_stars": "82,993",
+      "ai_analysis": "这是一个为AI编程代理提供生产级工程技能集的项目，本质是预置高质量编码规范与工作流给Agent使用。它近期爆火，源于AI编程工具井喷，开发者正苦于Agent输出质量不稳，急需此类“标准化行为准则”来约束和提升效率。对开发者的核心价值在于，能直接复用顶尖工程师的经验，显著减少AI生成代码的返工成本，并让团队协作更规范。"
+    },
+    {
+      "name": "cloudflare/computer",
+      "link": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars_today": "2,802 stars today",
+      "total_stars": "4,860",
+      "ai_analysis": "Cloudflare 推出的开源项目，旨在为 AI 代理提供虚拟计算机环境，让代理能自主操作浏览器、执行任务。今日暴涨 2800+ star，主因是 Cloudflare 品牌背书叠加 AI Agent 赛道爆火，开发者急需可靠的工具让代理“动手干活”。价值在于，它可能成为构建自主 AI 工作流的基础设施，降低开发者搭建代理运行环境的门槛。"
+    },
+    {
+      "name": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "1,873 stars today",
+      "total_stars": "207,188"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "link": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars_today": "138 stars today",
+      "total_stars": "23,148"
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "link": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "stars_today": "847 stars today",
+      "total_stars": "2,910"
+    },
+    {
+      "name": "google/guava",
+      "link": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars_today": "13 stars today",
+      "total_stars": "51,647"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "link": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": "134 stars today",
+      "total_stars": "77,160"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "link": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars_today": "37 stars today",
+      "total_stars": "186,038"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "link": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars_today": "237 stars today",
+      "total_stars": "29,057"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "link": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars_today": "888 stars today",
+      "total_stars": "32,477"
+    },
+    {
+      "name": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "858 stars today",
+      "total_stars": "268,136"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "link": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars_today": "1,190 stars today",
+      "total_stars": "12,511"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "firecrawl/anydoc",
+      "link": "https://github.com/firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "language": "Rust",
+      "stars": 8622,
+      "forks": 406,
+      "created_at": "2026-08-03T16:36:14Z"
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "link": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "language": "C",
+      "stars": 2845,
+      "forks": 473,
+      "created_at": "2026-08-01T09:29:38Z"
+    },
+    {
+      "name": "imsai-sh/zhuzhiliao",
+      "link": "https://github.com/imsai-sh/zhuzhiliao",
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "language": "HTML",
+      "stars": 2302,
+      "forks": 292,
+      "created_at": "2026-08-01T17:20:54Z"
+    },
+    {
+      "name": "thebuggeddev/anatomy",
+      "link": "https://github.com/thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "language": "TypeScript",
+      "stars": 1871,
+      "forks": 534,
+      "created_at": "2026-08-02T11:15:16Z"
+    },
+    {
+      "name": "DannyMac180/sol-advisor",
+      "link": "https://github.com/DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "language": "Shell",
+      "stars": 1709,
+      "forks": 122,
+      "created_at": "2026-08-01T13:56:43Z"
+    },
+    {
+      "name": "KKKKhazix/human-writing",
+      "link": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 1620,
+      "forks": 143,
+      "created_at": "2026-08-05T01:19:41Z"
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "link": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "language": "Python",
+      "stars": 1395,
+      "forks": 361,
+      "created_at": "2026-08-05T07:30:56Z"
+    },
+    {
+      "name": "Accio-org/RealReplicaBench",
+      "link": "https://github.com/Accio-org/RealReplicaBench",
+      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "language": "HTML",
+      "stars": 1036,
+      "forks": 74,
+      "created_at": "2026-08-02T05:38:38Z"
+    },
+    {
+      "name": "ZzzLc0405/photo-abstract-editorial",
+      "link": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "description": null,
+      "language": null,
+      "stars": 1019,
+      "forks": 55,
+      "created_at": "2026-08-04T09:35:31Z"
+    },
+    {
+      "name": "x4gKing/3x-ui-multi",
+      "link": "https://github.com/x4gKing/3x-ui-multi",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 877,
+      "forks": 2403,
+      "created_at": "2026-08-01T12:34:51Z"
+    },
+    {
+      "name": "guillermolg00/morphicons",
+      "link": "https://github.com/guillermolg00/morphicons",
+      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "language": "TypeScript",
+      "stars": 814,
+      "forks": 14,
+      "created_at": "2026-08-01T08:15:09Z"
+    },
+    {
+      "name": "mikiarlo3/awesome-growth-hacking-skills",
+      "link": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "language": "Shell",
+      "stars": 620,
+      "forks": 3,
+      "created_at": "2026-08-04T19:45:15Z"
+    },
+    {
+      "name": "sophiamyang/finger-frame-effect-ai",
+      "link": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 590,
+      "forks": 66,
+      "created_at": "2026-08-02T21:58:43Z"
+    },
+    {
+      "name": "0xwilliamortiz/humanizer-cli",
+      "link": "https://github.com/0xwilliamortiz/humanizer-cli",
+      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "language": "JavaScript",
+      "stars": 582,
+      "forks": 72,
+      "created_at": "2026-08-01T20:36:27Z"
+    },
+    {
+      "name": "brookfacehe2421/flashloan-scalper-bot",
+      "link": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+      "description": "Quick profit scalper using flashloan mechanics",
+      "language": "JavaScript",
+      "stars": 556,
+      "forks": 401,
+      "created_at": "2026-08-01T15:22:27Z"
+    },
+    {
+      "name": "magicrew/doc7",
+      "link": "https://github.com/magicrew/doc7",
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "language": "Go",
+      "stars": 551,
+      "forks": 11,
+      "created_at": "2026-08-02T14:03:55Z"
+    },
+    {
+      "name": "MarcosSete/awesome-free-ai-course-notes",
+      "link": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+      "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "language": null,
+      "stars": 501,
+      "forks": 38,
+      "created_at": "2026-08-03T11:36:49Z"
+    },
+    {
+      "name": "disler/super-simple-software-factory",
+      "link": "https://github.com/disler/super-simple-software-factory",
+      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "language": "Python",
+      "stars": 467,
+      "forks": 112,
+      "created_at": "2026-08-02T17:41:00Z"
+    },
+    {
+      "name": "Zeejay0/gathered-scenes-zine-skill",
+      "link": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+      "description": null,
+      "language": null,
+      "stars": 466,
+      "forks": 29,
+      "created_at": "2026-08-01T15:50:05Z"
+    },
+    {
+      "name": "nfzerox/VirtualMacOniPad",
+      "link": "https://github.com/nfzerox/VirtualMacOniPad",
+      "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.",
+      "language": "Objective-C",
+      "stars": 466,
+      "forks": 21,
+      "created_at": "2026-08-03T10:42:50Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI工程化与Agent基础设施：多项目聚焦“给AI配工具/记忆/技能”，如TencentDB Agent Memory做团队级记忆，cloudflare/computer让Agent操控电脑，agent-skills沉淀工程级编码技能。方向上看，AI应用层（Agent落地）最火，其次为后端认证（authentik）与本地代码智能（code-review-graph）。\n\n近7天爆款项目印证此趋势：anydoc（文档转结构化数据）、kimi-k3-in-c（本地跑大模型推理）、human-writing（让AI写人话）均属AI实用化。推荐关注：1）**cloudflare/computer**——云巨头下场定义Agent交互标准，潜力大；2）**KKKKhazix/human-writing**——解决中文AI写作“机器味”痛点，接地气且开箱即用；3）**firecrawl/anydoc**——文档解析是Agent数据入口，Rust性能佳，生态需求强。整体看，AI正从“能聊”转向“能干”，工具链与记忆层是当前竞争焦点。"
+}
