@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-08",
+  "github_trending": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_today": "2,293 stars today",
+      "total_stars": "6,548",
+      "ai_analysis": "这是一个基于TypeScript构建的自我改进型强化学习智能体（RLM），专攻编码工作流与长时自主任务。它近日爆火，核心在于“自我改进”概念迎合了AI Agent自主迭代的热潮，且2,293颗日增星表明社区对自动化编码的高度渴求。对开发者而言，它提供了开箱即用的自主任务框架，能显著降低构建复杂Agent的门槛，并可能成为未来自动化编程基础设施的关键一环。"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "1,131 stars today",
+      "total_stars": "83,906",
+      "ai_analysis": "这是为AI编程助手（如Claude、Copilot）提供生产级工程技能指令集的项目，本质上是将资深工程师的编码规范、调试流程和代码审查经验转化为可复用的Agent提示词模板。其爆火源于AI编程工具爆发期，开发者急需标准化技能库来提升Agent输出质量。价值在于能直接提升AI生成代码的健壮性和可维护性，尤其适合团队统一AI协作规范，降低人工审查成本。"
+    },
+    {
+      "name": "cloudflare/computer",
+      "link": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars_today": "872 stars today",
+      "total_stars": "5,725",
+      "ai_analysis": "Cloudflare推出的“给Agent一台电脑”项目，本质是让AI智能体在云端浏览器沙箱中操控真实网页，完成点击、填表等交互任务。它爆火源于AI Agent热潮下，开发者急需安全可靠的“环境即服务”方案，且背靠Cloudflare全球边缘网络，延迟极低。对开发者而言，可免去自建浏览器自动化基础设施，直接调用API赋予AI“动手能力”，尤其适合做网页自动化测试、RPA或智能助手，但需注意其商业定价和沙箱隔离强度。"
+    },
+    {
+      "name": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "2,152 stars today",
+      "total_stars": "208,825"
+    },
+    {
+      "name": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "782 stars today",
+      "total_stars": "268,749"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "link": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars_today": "530 stars today",
+      "total_stars": "23,603"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "link": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars_today": "122 stars today",
+      "total_stars": "2,347"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "link": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars_today": "141 stars today",
+      "total_stars": "70,512"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "link": "https://github.com/chenyme/grok2api",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "language": "Go",
+      "stars_today": "55 stars today",
+      "total_stars": "7,141"
+    },
+    {
+      "name": "jdx/mise",
+      "link": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "stars_today": "135 stars today",
+      "total_stars": "32,072"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "link": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars_today": "355 stars today",
+      "total_stars": "186,323"
+    },
+    {
+      "name": "google/guava",
+      "link": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars_today": "152 stars today",
+      "total_stars": "51,763"
+    },
+    {
+      "name": "unclebob/swarm-forge",
+      "link": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "language": "Clojure",
+      "stars_today": "81 stars today",
+      "total_stars": "1,831"
+    },
+    {
+      "name": "denoland/celld",
+      "link": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars_today": "516 stars today",
+      "total_stars": "2,208"
+    },
+    {
+      "name": "K2SOsint/Legendary_OSINT",
+      "link": "https://github.com/K2SOsint/Legendary_OSINT",
+      "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "language": "未知",
+      "stars_today": "109 stars today",
+      "total_stars": "1,432"
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "link": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "stars_today": "234 stars today",
+      "total_stars": "19,752"
+    },
+    {
+      "name": "google/skills",
+      "link": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": "327 stars today",
+      "total_stars": "16,254"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "firecrawl/anydoc",
+      "link": "https://github.com/firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "language": "Rust",
+      "stars": 11037,
+      "forks": 513,
+      "created_at": "2026-08-03T16:36:14Z"
+    },
+    {
+      "name": "thebuggeddev/anatomy",
+      "link": "https://github.com/thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "language": "TypeScript",
+      "stars": 1983,
+      "forks": 568,
+      "created_at": "2026-08-02T11:15:16Z"
+    },
+    {
+      "name": "KKKKhazix/human-writing",
+      "link": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 1875,
+      "forks": 165,
+      "created_at": "2026-08-05T01:19:41Z"
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "link": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "language": null,
+      "stars": 1588,
+      "forks": 972,
+      "created_at": "2026-08-05T07:30:56Z"
+    },
+    {
+      "name": "ZzzLc0405/photo-abstract-editorial",
+      "link": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "description": null,
+      "language": null,
+      "stars": 1493,
+      "forks": 77,
+      "created_at": "2026-08-04T09:35:31Z"
+    },
+    {
+      "name": "Accio-org/RealReplicaBench",
+      "link": "https://github.com/Accio-org/RealReplicaBench",
+      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "language": "HTML",
+      "stars": 1040,
+      "forks": 79,
+      "created_at": "2026-08-02T05:38:38Z"
+    },
+    {
+      "name": "mikiarlo3/awesome-growth-hacking-skills",
+      "link": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "language": "Shell",
+      "stars": 725,
+      "forks": 5,
+      "created_at": "2026-08-04T19:45:15Z"
+    },
+    {
+      "name": "magicrew/doc7",
+      "link": "https://github.com/magicrew/doc7",
+      "description": "Turn documents into AI-ready Markdown with visual understanding",
+      "language": "Go",
+      "stars": 611,
+      "forks": 16,
+      "created_at": "2026-08-02T14:03:55Z"
+    },
+    {
+      "name": "sophiamyang/finger-frame-effect-ai",
+      "link": "https://github.com/sophiamyang/finger-frame-effect-ai",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 604,
+      "forks": 70,
+      "created_at": "2026-08-02T21:58:43Z"
+    },
+    {
+      "name": "0xwilliamortiz/claude-red",
+      "link": "https://github.com/0xwilliamortiz/claude-red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "JavaScript",
+      "stars": 559,
+      "forks": 69,
+      "created_at": "2026-08-05T16:54:36Z"
+    },
+    {
+      "name": "MarcosSete/awesome-free-ai-course-notes",
+      "link": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+      "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "language": null,
+      "stars": 544,
+      "forks": 45,
+      "created_at": "2026-08-03T11:36:49Z"
+    },
+    {
+      "name": "nfzerox/VirtualMacOniPad",
+      "link": "https://github.com/nfzerox/VirtualMacOniPad",
+      "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.",
+      "language": "Objective-C",
+      "stars": 498,
+      "forks": 22,
+      "created_at": "2026-08-03T10:42:50Z"
+    },
+    {
+      "name": "disler/super-simple-software-factory",
+      "link": "https://github.com/disler/super-simple-software-factory",
+      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "language": "Python",
+      "stars": 496,
+      "forks": 120,
+      "created_at": "2026-08-02T17:41:00Z"
+    },
+    {
+      "name": "wumingqi60/lingxi",
+      "link": "https://github.com/wumingqi60/lingxi",
+      "description": "灵犀跨境-开源共建版",
+      "language": "TypeScript",
+      "stars": 449,
+      "forks": 5,
+      "created_at": "2026-08-03T05:46:34Z"
+    },
+    {
+      "name": "leonickson1/Swiftlet",
+      "link": "https://github.com/leonickson1/Swiftlet",
+      "description": null,
+      "language": "Swift",
+      "stars": 446,
+      "forks": 19,
+      "created_at": "2026-08-03T13:03:37Z"
+    },
+    {
+      "name": "zqxwce/vphone-ws",
+      "link": "https://github.com/zqxwce/vphone-ws",
+      "description": "A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window.",
+      "language": "Swift",
+      "stars": 435,
+      "forks": 24,
+      "created_at": "2026-08-03T15:53:30Z"
+    },
+    {
+      "name": "fuxicodex/Fuxi",
+      "link": "https://github.com/fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI developer terminal",
+      "language": null,
+      "stars": 428,
+      "forks": 40,
+      "created_at": "2026-08-04T07:32:11Z"
+    },
+    {
+      "name": "yuhuangerdi/InduSecAgent",
+      "link": "https://github.com/yuhuangerdi/InduSecAgent",
+      "description": null,
+      "language": "Vue",
+      "stars": 422,
+      "forks": 6,
+      "created_at": "2026-08-03T10:17:31Z"
+    },
+    {
+      "name": "SandAI-org/MAGI-2-preview",
+      "link": "https://github.com/SandAI-org/MAGI-2-preview",
+      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
+      "language": "Python",
+      "stars": 418,
+      "forks": 8,
+      "created_at": "2026-08-04T12:47:38Z"
+    },
+    {
+      "name": "criptogus/HermesOffice",
+      "link": "https://github.com/criptogus/HermesOffice",
+      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+      "language": "TypeScript",
+      "stars": 413,
+      "forks": 50,
+      "created_at": "2026-08-04T15:55:03Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI编程智能体（Agent）方向，GitHub Trending上过半项目围绕“AI技能框架”与“自主编码代理”展开，如PrimeAgent、agent-skills及superpowers等，强调让AI更懂工程实践。Cloudflare的computer项目则推动“给Agent一台电脑”的终端操控范式，显示AI正从代码补全走向全流程自动化。\n\n最火方向无疑是AI与开发者工具链的深度结合，特别是TypeScript和Shell生态中的Agent技能封装。后端与DevOps亦有亮点，如authentik（身份认证）和mise（环境管理），但热度不及AI编程。\n\n推荐关注：  \n1. **prime-agent**：自改进RLM编码代理，代表AI自主迭代的前沿探索，值得跟踪其效果边界。  \n2. **superpowers**：结构化Agent技能框架，对工程化落地有参考价值，适合团队实践。  \n3. **human-writing**：中文AI写作优化Skill，解决“AI味”痛点，对内容创作者实用性强。"
+}
