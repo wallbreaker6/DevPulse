@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-09",
+  "github_trending": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_today": "2,483 stars today",
+      "total_stars": "8,962",
+      "ai_analysis": "一个基于TypeScript开发的自改进RLM（强化学习模型）智能体，专注于编码工作流和长时间运行的自主任务。近期爆火主要因为其“自我改进”能力契合AI编程趋势，且单日近2500星显示社区对自主Agent的高度期待。对开发者而言，它提供了可扩展的自动化编码框架，能显著提升复杂任务处理效率，降低人工干预成本，是探索下一代AI驱动开发的重要工具。"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "779 stars today",
+      "total_stars": "84,572",
+      "ai_analysis": "这是一个为AI编程助手提供“生产级工程技能”的指令集与工作流库，旨在让Claude、Copilot等智能体更专业地处理真实项目。它最近爆火，是因为GitHub上“AI写代码”热度极高，而该项目直击痛点——解决AI生成的代码缺乏工程规范、架构思考的问题，相当于给AI“补上”资深工程师的经验。对开发者而言，其价值在于能显著提升AI辅助编码的质量上限，减少人工审查和重构成本，尤其适合追求代码健壮性的中大型项目团队。"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "link": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": "118 stars today",
+      "total_stars": "77,936",
+      "ai_analysis": "这个项目聚合了中国小初高及大学的PDF教材，本质是一个资源索引库。它近期爆火，主要因为开学季刚需，加之“免费获取正版教材”的便利性在社交平台引发病毒式传播，同时Roff语言标签也增加了话题性。对开发者而言，其价值在于数据整理思路和静态托管方案，但需注意版权风险，更适合作为个人学习参考，不宜直接商用。"
+    },
+    {
+      "name": "google/skills",
+      "link": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": "481 stars today",
+      "total_stars": "16,740"
+    },
+    {
+      "name": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "1,359 stars today",
+      "total_stars": "210,025"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "link": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars_today": "467 stars today",
+      "total_stars": "23,976"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": "153 stars today",
+      "total_stars": "96,477"
+    },
+    {
+      "name": "google/guava",
+      "link": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars_today": "93 stars today",
+      "total_stars": "51,852"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "link": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars_today": "48 stars today",
+      "total_stars": "64,989"
+    },
+    {
+      "name": "denoland/celld",
+      "link": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars_today": "432 stars today",
+      "total_stars": "2,577"
+    },
+    {
+      "name": "litu54/DevOps-Interview-Guide",
+      "link": "https://github.com/litu54/DevOps-Interview-Guide",
+      "description": "DevOps Interview Guide",
+      "language": "未知",
+      "stars_today": "68 stars today",
+      "total_stars": "706"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "link": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars_today": "101 stars today",
+      "total_stars": "49,884"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "firecrawl/anydoc",
+      "link": "https://github.com/firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "language": "Rust",
+      "stars": 12129,
+      "forks": 581,
+      "created_at": "2026-08-03T16:36:14Z"
+    },
+    {
+      "name": "KKKKhazix/human-writing",
+      "link": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 1989,
+      "forks": 174,
+      "created_at": "2026-08-05T01:19:41Z"
+    },
+    {
+      "name": "ZzzLc0405/photo-abstract-editorial",
+      "link": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "description": null,
+      "language": null,
+      "stars": 1725,
+      "forks": 87,
+      "created_at": "2026-08-04T09:35:31Z"
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "link": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "language": null,
+      "stars": 1588,
+      "forks": 1114,
+      "created_at": "2026-08-05T07:30:56Z"
+    },
+    {
+      "name": "mikiarlo3/awesome-growth-hacking-skills",
+      "link": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "language": "Shell",
+      "stars": 764,
+      "forks": 11,
+      "created_at": "2026-08-04T19:45:15Z"
+    },
+    {
+      "name": "0xwilliamortiz/claude-red",
+      "link": "https://github.com/0xwilliamortiz/claude-red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "JavaScript",
+      "stars": 681,
+      "forks": 86,
+      "created_at": "2026-08-05T16:54:36Z"
+    },
+    {
+      "name": "google-gemma/gemma-translator",
+      "link": "https://github.com/google-gemma/gemma-translator",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 579,
+      "forks": 77,
+      "created_at": "2026-08-03T18:50:34Z"
+    },
+    {
+      "name": "wumingqi60/lingxi",
+      "link": "https://github.com/wumingqi60/lingxi",
+      "description": "灵犀跨境-开源共建版",
+      "language": "TypeScript",
+      "stars": 567,
+      "forks": 9,
+      "created_at": "2026-08-03T05:46:34Z"
+    },
+    {
+      "name": "MarcosSete/awesome-free-ai-course-notes",
+      "link": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+      "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "language": null,
+      "stars": 560,
+      "forks": 48,
+      "created_at": "2026-08-03T11:36:49Z"
+    },
+    {
+      "name": "xoreaxeaxeax/asm-hall-of-shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "description": "Racing to the bottom of CPU performance",
+      "language": "C",
+      "stars": 549,
+      "forks": 5,
+      "created_at": "2026-08-06T00:08:06Z"
+    },
+    {
+      "name": "yuhuangerdi/InduSecAgent",
+      "link": "https://github.com/yuhuangerdi/InduSecAgent",
+      "description": null,
+      "language": "Vue",
+      "stars": 529,
+      "forks": 9,
+      "created_at": "2026-08-03T10:17:31Z"
+    },
+    {
+      "name": "nfzerox/VirtualMacOniPad",
+      "link": "https://github.com/nfzerox/VirtualMacOniPad",
+      "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.",
+      "language": "Objective-C",
+      "stars": 522,
+      "forks": 24,
+      "created_at": "2026-08-03T10:42:50Z"
+    },
+    {
+      "name": "jd-opensource/JoyAI-Video-Edit",
+      "link": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "language": "Python",
+      "stars": 517,
+      "forks": 22,
+      "created_at": "2026-08-04T08:22:24Z"
+    },
+    {
+      "name": "T8mars/comfyui-minimax-h3-audio-T8",
+      "link": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
+      "description": null,
+      "language": "Python",
+      "stars": 462,
+      "forks": 23,
+      "created_at": "2026-08-05T15:30:15Z"
+    },
+    {
+      "name": "leonickson1/Swiftlet",
+      "link": "https://github.com/leonickson1/Swiftlet",
+      "description": "Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM, including on iPhone.",
+      "language": "Swift",
+      "stars": 460,
+      "forks": 20,
+      "created_at": "2026-08-03T13:03:37Z"
+    },
+    {
+      "name": "zqxwce/vphone-ws",
+      "link": "https://github.com/zqxwce/vphone-ws",
+      "description": "A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window.",
+      "language": "Swift",
+      "stars": 445,
+      "forks": 25,
+      "created_at": "2026-08-03T15:53:30Z"
+    },
+    {
+      "name": "fuxicodex/Fuxi",
+      "link": "https://github.com/fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI developer terminal",
+      "language": null,
+      "stars": 440,
+      "forks": 41,
+      "created_at": "2026-08-04T07:32:11Z"
+    },
+    {
+      "name": "SandAI-org/MAGI-2-preview",
+      "link": "https://github.com/SandAI-org/MAGI-2-preview",
+      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
+      "language": "Python",
+      "stars": 425,
+      "forks": 8,
+      "created_at": "2026-08-04T12:47:38Z"
+    },
+    {
+      "name": "criptogus/HermesOffice",
+      "link": "https://github.com/criptogus/HermesOffice",
+      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+      "language": "TypeScript",
+      "stars": 419,
+      "forks": 52,
+      "created_at": "2026-08-04T15:55:03Z"
+    },
+    {
+      "name": "AMAP-ML/LongHorizon-Harness",
+      "link": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "language": "Python",
+      "stars": 411,
+      "forks": 46,
+      "created_at": "2026-08-04T04:30:58Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在“Agent Skills”生态的爆发。GitHub Trending 上多个核心项目（如 prime-agent、google/skills、mattpocock/skills）均围绕AI代理的技能定义与工程化展开，旨在将AI编码能力从通用对话升级为可复用的生产级工具链。最火方向无疑是AI应用层，特别是AI辅助编程与自动化工作流，同时兼顾了金融多智能体交易（TradingAgents）和文档解析（anydoc）等垂直场景。\n\n推荐关注：1）**PrimeIntellect-ai/prime-agent**，聚焦自我改进的强化学习代理，是探索AI自主迭代代码的前沿尝试；2）**TapXWorld/ChinaTextbook**，虽是Roff老格式，但聚合全学段教材，数据价值极高，适合教育类AI训练；3）**firecrawl/anydoc**，7天斩获1.2万星，解决非结构化文档转Markdown的痛点，是RAG和数据管线的关键基建。整体看，AI正从“能聊”转向“能干活”，技能封装与数据清洗是当前竞争焦点。"
+}
