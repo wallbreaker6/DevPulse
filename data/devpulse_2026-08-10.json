@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-10",
+  "github_trending": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_today": "2,356 stars today",
+      "total_stars": "11,132",
+      "ai_analysis": "这是一个基于TypeScript构建的自我改进强化学习智能体，专攻编码工作流和长时自主任务。它爆火源于“自我改进”概念切中AI编程痛点，且今日2356星显示社区对自动化代码生成与执行的高需求。对开发者而言，它能显著降低复杂任务自动化门槛，尤其适合需要持续迭代和自主决策的工程场景，是探索下一代AI辅助开发的重要工具。"
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "link": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars_today": "96 stars today",
+      "total_stars": "2,995",
+      "ai_analysis": "这个项目将知识图谱与RAG结合，专为大型多语言代码库（monorepo）设计，实现AI驱动的代码查询、理解与编辑。最近爆火或因AI编程助手（如Copilot）在复杂仓库中检索上下文的能力不足，而图谱结构能精准捕获代码依赖关系，显著提升回答准确率。对开发者而言，它解决了跨模块调试和重构时的“找代码”痛点，尤其适合大型团队或微服务架构，能大幅降低理解历史代码的认知负担。"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "858 stars today",
+      "total_stars": "140,695",
+      "ai_analysis": "一个用Shell脚本打造的“AI代理机构”，集成了从前端开发到社区运营等各类虚拟专家。它爆火源于“AI智能体”概念的热潮，且用极简Shell实现降低了使用门槛，配合幽默的定位（如“奇思妙想注入器”）极具传播性。对开发者而言，它是学习如何用脚本编排多代理工作流的轻量级参考，能快速搭建自动化“团队”原型。"
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "link": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "language": "Go",
+      "stars_today": "210 stars today",
+      "total_stars": "20,676"
+    },
+    {
+      "name": "google-deepmind/weathernext",
+      "link": "https://github.com/google-deepmind/weathernext",
+      "description": "暂无描述",
+      "language": "Python",
+      "stars_today": "86 stars today",
+      "total_stars": "7,092"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "680 stars today",
+      "total_stars": "85,146"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars_today": "306 stars today",
+      "total_stars": "61,198"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "link": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars_today": "310 stars today",
+      "total_stars": "24,279"
+    },
+    {
+      "name": "google/skills",
+      "link": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": "528 stars today",
+      "total_stars": "17,237"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "link": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars_today": "365 stars today",
+      "total_stars": "125,528"
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "link": "https://github.com/harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "stars_today": "47 stars today",
+      "total_stars": "829"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "description": "暂无描述",
+      "language": "TypeScript",
+      "stars_today": "163 stars today",
+      "total_stars": "17,665"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "KKKKhazix/human-writing",
+      "link": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 2097,
+      "forks": 186,
+      "created_at": "2026-08-05T01:19:41Z"
+    },
+    {
+      "name": "ZzzLc0405/photo-abstract-editorial",
+      "link": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+      "description": null,
+      "language": null,
+      "stars": 1958,
+      "forks": 98,
+      "created_at": "2026-08-04T09:35:31Z"
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "link": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "language": null,
+      "stars": 1608,
+      "forks": 1155,
+      "created_at": "2026-08-05T07:30:56Z"
+    },
+    {
+      "name": "ShawnPana/phone-harness",
+      "link": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "language": "Python",
+      "stars": 861,
+      "forks": 69,
+      "created_at": "2026-08-07T22:28:53Z"
+    },
+    {
+      "name": "mikiarlo3/awesome-growth-hacking-skills",
+      "link": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "language": "Shell",
+      "stars": 795,
+      "forks": 14,
+      "created_at": "2026-08-04T19:45:15Z"
+    },
+    {
+      "name": "0xwilliamortiz/claude-red",
+      "link": "https://github.com/0xwilliamortiz/claude-red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "JavaScript",
+      "stars": 706,
+      "forks": 89,
+      "created_at": "2026-08-05T16:54:36Z"
+    },
+    {
+      "name": "xoreaxeaxeax/asm-hall-of-shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "description": "Racing to the bottom of CPU performance",
+      "language": "C",
+      "stars": 660,
+      "forks": 6,
+      "created_at": "2026-08-06T00:08:06Z"
+    },
+    {
+      "name": "jd-opensource/JoyAI-Video-Edit",
+      "link": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "language": "Python",
+      "stars": 608,
+      "forks": 25,
+      "created_at": "2026-08-04T08:22:24Z"
+    },
+    {
+      "name": "MengTo/kage",
+      "link": "https://github.com/MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stars": 586,
+      "forks": 104,
+      "created_at": "2026-08-08T07:05:07Z"
+    },
+    {
+      "name": "oil-oil/oil-motion",
+      "link": "https://github.com/oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stars": 584,
+      "forks": 58,
+      "created_at": "2026-08-07T12:36:33Z"
+    },
+    {
+      "name": "T8mars/comfyui-minimax-h3-audio-T8",
+      "link": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
+      "description": null,
+      "language": "Python",
+      "stars": 543,
+      "forks": 28,
+      "created_at": "2026-08-05T15:30:15Z"
+    },
+    {
+      "name": "AMAP-ML/LongHorizon-Harness",
+      "link": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "language": "Python",
+      "stars": 507,
+      "forks": 62,
+      "created_at": "2026-08-04T04:30:58Z"
+    },
+    {
+      "name": "eternityspring/shuohao-skills",
+      "link": "https://github.com/eternityspring/shuohao-skills",
+      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "language": "JavaScript",
+      "stars": 504,
+      "forks": 58,
+      "created_at": "2026-08-06T10:38:49Z"
+    },
+    {
+      "name": "fuxicodex/Fuxi",
+      "link": "https://github.com/fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI developer terminal",
+      "language": null,
+      "stars": 451,
+      "forks": 42,
+      "created_at": "2026-08-04T07:32:11Z"
+    },
+    {
+      "name": "huangserva/ComfyUI_MiniMaxH3_Director",
+      "link": "https://github.com/huangserva/ComfyUI_MiniMaxH3_Director",
+      "description": "ComfyUI MiniMax H3 Director workflow",
+      "language": null,
+      "stars": 450,
+      "forks": 48,
+      "created_at": "2026-08-04T10:39:02Z"
+    },
+    {
+      "name": "SandAI-org/MAGI-2-preview",
+      "link": "https://github.com/SandAI-org/MAGI-2-preview",
+      "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
+      "language": "Python",
+      "stars": 430,
+      "forks": 9,
+      "created_at": "2026-08-04T12:47:38Z"
+    },
+    {
+      "name": "criptogus/HermesOffice",
+      "link": "https://github.com/criptogus/HermesOffice",
+      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+      "language": "TypeScript",
+      "stars": 425,
+      "forks": 52,
+      "created_at": "2026-08-04T15:55:03Z"
+    },
+    {
+      "name": "sowarma/wp2shell-PoC",
+      "link": "https://github.com/sowarma/wp2shell-PoC",
+      "description": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
+      "language": "Python",
+      "stars": 351,
+      "forks": 22,
+      "created_at": "2026-08-05T12:48:03Z"
+    },
+    {
+      "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "link": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "description": null,
+      "language": "Python",
+      "stars": 348,
+      "forks": 23,
+      "created_at": "2026-08-06T06:43:28Z"
+    },
+    {
+      "name": "Sateezg/codex-bridge",
+      "link": "https://github.com/Sateezg/codex-bridge",
+      "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+      "language": "Shell",
+      "stars": 340,
+      "forks": 2,
+      "created_at": "2026-08-09T06:57:08Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI Agent与工程化落地的深度融合。GitHub Trending上，AI编程助手（如prime-agent）、代码知识库RAG（code-graph-rag）及Agent技能库（agent-skills、google/skills）占据半壁江山，显示行业正从“对话式AI”转向“可执行、可自优化的生产级Agent”。最火方向毫无悬念是AI，且细分为“Agent开发框架”与“LLM应用层工具”，前后端与DevOps相对平静，仅身份认证（authentik）值得留意。\n\n推荐关注三个项目：一是**prime-agent**，代表“自我改进RLM Agent”前沿方向，直接瞄准编码工作流自动化，是观察AI自主迭代能力的窗口；二是**human-writing**（7天最热），精准解决AI中文写作“机器味”痛点，开箱即用，商业与创作场景价值高；三是**code-graph-rag**，针对大型代码仓库的检索增强生成，是提升企业级代码理解效率的关键基建，尤其适合复杂工程团队。整体趋势表明，AI正快速从“辅助生成”迈向“独立执行复杂任务”阶段。"
+}
