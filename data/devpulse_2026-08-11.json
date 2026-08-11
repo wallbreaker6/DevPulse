@@ -1,0 +1,319 @@
+{
+  "date": "2026-08-11",
+  "github_trending": [
+    {
+      "name": "semantica-agi/semantica",
+      "link": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars_today": "970 stars today",
+      "total_stars": "4,110",
+      "ai_analysis": "这是一个以图数据库为核心、面向可问责AI的上下文基础设施，用Python构建。它爆火的原因在于精准踩中AI安全与可解释性痛点，通过知识图谱为模型提供可追溯的决策依据，契合了业界对“白盒AI”的迫切需求。对开发者而言，其价值在于能快速构建具备完整上下文管理和审计能力的智能体应用，且图原生架构天然适合处理复杂关系数据，是通往企业级AI落地的捷径。"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "1,349 stars today",
+      "total_stars": "141,837",
+      "ai_analysis": "这是一个基于Shell脚本的AI代理集群项目，通过命令行调用多个具备人格化设定的专业AI助手，覆盖前端开发、社区运营、创意生成等场景。其爆火源于“AI代理即服务”的极简封装——用Shell脚本降低使用门槛，配合“角色扮演+可交付成果”的叙事引发开发者猎奇心理。对开发者的核心价值在于提供可快速定制的多代理工作流模板，尤其适合个人开发者低成本搭建自动化协作系统，但需注意其依赖外部API的稳定性与长期维护风险。"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "link": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars_today": "259 stars today",
+      "total_stars": "61,033",
+      "ai_analysis": "多平台社交媒体数据爬虫，统一抓取小红书、抖音等主流内容与评论。近期爆火或因AI训练数据需求激增及平台内容分析热潮，且其开箱即用特性降低了采集门槛。对开发者而言，它是研究反爬策略、构建数据集及进行舆情分析的实用工具，但需警惕法律与平台风控风险。"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "659 stars today",
+      "total_stars": "85,746"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "link": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": "198 stars today",
+      "total_stars": "76,497"
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_today": "2,642 stars today",
+      "total_stars": "13,084"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "link": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars_today": "56 stars today",
+      "total_stars": "65,257"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "154 stars today",
+      "total_stars": "89,373"
+    },
+    {
+      "name": "danielmiessler/LifeOS",
+      "link": "https://github.com/danielmiessler/LifeOS",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "language": "TypeScript",
+      "stars_today": "315 stars today",
+      "total_stars": "17,920"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "link": "https://github.com/firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars_today": "835 stars today",
+      "total_stars": "165,085"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": "177 stars today",
+      "total_stars": "97,223"
+    },
+    {
+      "name": "google-deepmind/weathernext",
+      "link": "https://github.com/google-deepmind/weathernext",
+      "description": "暂无描述",
+      "language": "Python",
+      "stars_today": "325 stars today",
+      "total_stars": "7,355"
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "link": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars_today": "682 stars today",
+      "total_stars": "3,534"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "description": "暂无描述",
+      "language": "TypeScript",
+      "stars_today": "389 stars today",
+      "total_stars": "18,031"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "link": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars_today": "922 stars today",
+      "total_stars": "126,327"
+    },
+    {
+      "name": "opa334/Dopamine",
+      "link": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "language": "C",
+      "stars_today": "111 stars today",
+      "total_stars": "6,026"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "KKKKhazix/human-writing",
+      "link": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stars": 2276,
+      "forks": 199,
+      "created_at": "2026-08-05T01:19:41Z"
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "link": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "language": null,
+      "stars": 1607,
+      "forks": 1182,
+      "created_at": "2026-08-05T07:30:56Z"
+    },
+    {
+      "name": "ShawnPana/phone-harness",
+      "link": "https://github.com/ShawnPana/phone-harness",
+      "description": "let your agent control your phone",
+      "language": "Python",
+      "stars": 1319,
+      "forks": 103,
+      "created_at": "2026-08-07T22:28:53Z"
+    },
+    {
+      "name": "oil-oil/oil-motion",
+      "link": "https://github.com/oil-oil/oil-motion",
+      "description": "Create smooth, responsive interactive web animations.",
+      "language": "Python",
+      "stars": 1202,
+      "forks": 102,
+      "created_at": "2026-08-07T12:36:33Z"
+    },
+    {
+      "name": "MengTo/kage",
+      "link": "https://github.com/MengTo/kage",
+      "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "language": "HTML",
+      "stars": 774,
+      "forks": 136,
+      "created_at": "2026-08-08T07:05:07Z"
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "link": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 742,
+      "forks": 551,
+      "created_at": "2026-08-10T09:06:43Z"
+    },
+    {
+      "name": "xoreaxeaxeax/asm-hall-of-shame",
+      "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "description": "Racing to the bottom of CPU performance",
+      "language": "C",
+      "stars": 730,
+      "forks": 10,
+      "created_at": "2026-08-06T00:08:06Z"
+    },
+    {
+      "name": "eternityspring/shuohao-skills",
+      "link": "https://github.com/eternityspring/shuohao-skills",
+      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "language": "JavaScript",
+      "stars": 648,
+      "forks": 77,
+      "created_at": "2026-08-06T10:38:49Z"
+    },
+    {
+      "name": "T8mars/comfyui-minimax-h3-audio-T8",
+      "link": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
+      "description": null,
+      "language": "Python",
+      "stars": 586,
+      "forks": 30,
+      "created_at": "2026-08-05T15:30:15Z"
+    },
+    {
+      "name": "sv-number/mcp-server",
+      "link": "https://github.com/sv-number/mcp-server",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "language": "JavaScript",
+      "stars": 549,
+      "forks": 0,
+      "created_at": "2026-08-07T11:13:26Z"
+    },
+    {
+      "name": "Appllama/top-welcome-screens",
+      "link": "https://github.com/Appllama/top-welcome-screens",
+      "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
+      "language": "TypeScript",
+      "stars": 420,
+      "forks": 39,
+      "created_at": "2026-08-08T12:44:52Z"
+    },
+    {
+      "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "link": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "description": null,
+      "language": "Python",
+      "stars": 372,
+      "forks": 24,
+      "created_at": "2026-08-06T06:43:28Z"
+    },
+    {
+      "name": "mewamew/my_ai_town",
+      "link": "https://github.com/mewamew/my_ai_town",
+      "description": "我的AI小镇",
+      "language": "GDScript",
+      "stars": 364,
+      "forks": 67,
+      "created_at": "2026-08-07T07:10:40Z"
+    },
+    {
+      "name": "Sateezg/codex-bridge",
+      "link": "https://github.com/Sateezg/codex-bridge",
+      "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+      "language": "Shell",
+      "stars": 357,
+      "forks": 3,
+      "created_at": "2026-08-09T06:57:08Z"
+    },
+    {
+      "name": "sowarma/wp2shell-PoC",
+      "link": "https://github.com/sowarma/wp2shell-PoC",
+      "description": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
+      "language": "Python",
+      "stars": 351,
+      "forks": 22,
+      "created_at": "2026-08-05T12:48:03Z"
+    },
+    {
+      "name": "jmarshall23/Quake_4_Alpha",
+      "link": "https://github.com/jmarshall23/Quake_4_Alpha",
+      "description": "Quake 4 alpha released for preservation purposes only. ",
+      "language": "C++",
+      "stars": 329,
+      "forks": 43,
+      "created_at": "2026-08-06T21:35:08Z"
+    },
+    {
+      "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+      "link": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+      "description": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins",
+      "language": "Python",
+      "stars": 327,
+      "forks": 23,
+      "created_at": "2026-08-07T01:18:37Z"
+    },
+    {
+      "name": "tanishqkancharla/calldiff",
+      "link": "https://github.com/tanishqkancharla/calldiff",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "language": "TypeScript",
+      "stars": 296,
+      "forks": 14,
+      "created_at": "2026-08-07T22:46:51Z"
+    },
+    {
+      "name": "pengchujin/tower",
+      "link": "https://github.com/pengchujin/tower",
+      "description": "塔台 — 原生 SwiftUI iOS App，在本机管理机场订阅与自有节点，生成 Surge / Clash / Shadowrocket / Loon / Quantumult X 配置",
+      "language": "Swift",
+      "stars": 285,
+      "forks": 16,
+      "created_at": "2026-08-05T06:05:38Z"
+    },
+    {
+      "name": "robonuggets/gauntlet-loop",
+      "link": "https://github.com/robonuggets/gauntlet-loop",
+      "description": "Turn any goal into a short prompt that makes your agent set a real quality bar, run builder and critic pairs, compare blind, and loop until it wins.",
+      "language": null,
+      "stars": 265,
+      "forks": 32,
+      "created_at": "2026-08-05T05:28:08Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI Agent基础设施与内容自动化两大方向。GitHub Trending上，AI Agent管理、上下文处理（如semantica、paperclip）及浏览器自动化（Ladybird）占据主流，同时小红书、抖音等平台爬虫项目（MediaCrawler）热度不减。近7天新项目中，AI写作拟人化（human-writing）、AI生成可编辑PPT（open-kimi-ppt-skill）及手机控制Agent（phone-harness）表现亮眼。\n\n**最火方向**：AI Agent及其工具链（含MCP、Skills、RLM自改进），覆盖开发、办公、内容创作全场景，前端与后端技术更多作为支撑。\n\n**推荐关注**：\n1. **human-writing**——解决AI中文写作“机器味”痛点，实用性强，适合内容从业者。\n2. **MediaCrawler**——多平台数据采集需求旺盛，对舆情分析、市场研究价值高。\n3. **prime-agent**——自改进编码Agent，代表AI辅助开发的前沿方向，值得开发者跟踪。"
+}
