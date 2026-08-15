@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-15",
+  "github_trending": [
+    {
+      "name": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars_today": "3,646 stars today",
+      "total_stars": "17,247",
+      "ai_analysis": "这是一个为 Claude Code 提供 29 种编辑级图表模板的 HTML+SVG 代码库，强调自包含、无阴影且拒绝 Mermaid 默认风格。它爆火源于精准踩中开发者对 AI 生成图表“丑且同质化”的痛点，用高质量手写 SVG 树立了审美标杆。对开发者而言，它既是可直接复用的图表代码库，也是学习如何为 LLM 设计结构化、可渲染输出范式的绝佳案例。"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "link": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars_today": "662 stars today",
+      "total_stars": "5,604",
+      "ai_analysis": "这是一个面向极低资源设备的14MB基础模型推理框架，主打手机、穿戴设备和机器人端侧运行。它爆火的核心原因在于“轻量级+基础模型”的稀缺组合，直击当前端侧AI部署的算力与内存痛点，且Python实现降低了使用门槛，配合今日662星的爆发式增长，可能源于演示效果惊艳或社区KOL推荐。对开发者的价值在于，无需深厚底层优化知识即可将小型Transformer部署到嵌入式环境，极大加速了智能硬件原型验证和产品落地，是边缘计算领域值得关注的新工具。"
+    },
+    {
+      "name": "megadose/holehe",
+      "link": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars_today": "427 stars today",
+      "total_stars": "12,849",
+      "ai_analysis": "holehe 是一款利用各大平台“忘记密码”功能探测邮箱注册情况的 OSINT 工具。它近期爆火源于隐私泄露事件频发，用户急于自查邮箱暴露面，且其纯 API 调用、无需浏览器模拟，效率极高。对开发者而言，它是学习反爬对抗、HTTP 状态机解析的绝佳案例，也可直接集成进安全审计流程，快速评估企业员工邮箱的账号暴露风险。"
+    },
+    {
+      "name": "macro-inc/macro",
+      "link": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars_today": "436 stars today",
+      "total_stars": "3,034"
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "link": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars_today": "293 stars today",
+      "total_stars": "20,946"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "link": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "stars_today": "165 stars today",
+      "total_stars": "10,366"
+    },
+    {
+      "name": "holaboss-ai/holaOS",
+      "link": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "language": "TypeScript",
+      "stars_today": "769 stars today",
+      "total_stars": "7,290"
+    },
+    {
+      "name": "github/spec-kit",
+      "link": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars_today": "1,160 stars today",
+      "total_stars": "128,517"
+    },
+    {
+      "name": "lightningpixel/modly",
+      "link": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "language": "TypeScript",
+      "stars_today": "579 stars today",
+      "total_stars": "5,937"
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "link": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "stars_today": "473 stars today",
+      "total_stars": "88,382"
+    },
+    {
+      "name": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_today": "41 stars today",
+      "total_stars": "2,810"
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-agent",
+      "link": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+      "description": "暂无描述",
+      "language": "未知",
+      "stars_today": "222 stars today",
+      "total_stars": "5,704"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "link": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars_today": "1,181 stars today",
+      "total_stars": "7,525"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "link": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars_today": "143 stars today",
+      "total_stars": "120,629"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": "255 stars today",
+      "total_stars": "83,161"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "link": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars_today": "501 stars today",
+      "total_stars": "71,505"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "link": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars_today": "132 stars today",
+      "total_stars": "39,079"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "link": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 95793,
+      "forks": 8882,
+      "created_at": "2026-08-13T11:56:32Z"
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "link": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "language": "Python",
+      "stars": 8181,
+      "forks": 854,
+      "created_at": "2026-08-11T16:32:38Z"
+    },
+    {
+      "name": "zhu1090093659/dsh-web-ui",
+      "link": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "language": "TypeScript",
+      "stars": 1947,
+      "forks": 97,
+      "created_at": "2026-08-12T05:15:20Z"
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "link": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "language": "TypeScript",
+      "stars": 1912,
+      "forks": 103,
+      "created_at": "2026-08-13T16:30:50Z"
+    },
+    {
+      "name": "antirez/h3.c",
+      "link": "https://github.com/antirez/h3.c",
+      "description": "MiniMax H3 inference engine for Mac computers",
+      "language": "C",
+      "stars": 1851,
+      "forks": 122,
+      "created_at": "2026-08-09T09:12:47Z"
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "link": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 1710,
+      "forks": 1225,
+      "created_at": "2026-08-10T09:06:43Z"
+    },
+    {
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stars": 1571,
+      "forks": 127,
+      "created_at": "2026-08-13T13:50:42Z"
+    },
+    {
+      "name": "cordiverse/paper",
+      "link": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": null,
+      "stars": 1317,
+      "forks": 46,
+      "created_at": "2026-08-13T09:53:33Z"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "link": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 1125,
+      "forks": 246,
+      "created_at": "2026-08-13T13:55:31Z"
+    },
+    {
+      "name": "gvzdv/claudish-to-english",
+      "link": "https://github.com/gvzdv/claudish-to-english",
+      "description": null,
+      "language": "Shell",
+      "stars": 1097,
+      "forks": 72,
+      "created_at": "2026-08-10T18:32:23Z"
+    },
+    {
+      "name": "Leutenegger/book-to-skill",
+      "link": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 1072,
+      "forks": 135,
+      "created_at": "2026-08-13T13:15:23Z"
+    },
+    {
+      "name": "SaladDay/pi-from-scratch",
+      "link": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "language": "TypeScript",
+      "stars": 979,
+      "forks": 64,
+      "created_at": "2026-08-09T12:15:30Z"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 917,
+      "forks": 166,
+      "created_at": "2026-08-11T18:58:55Z"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-TUI",
+      "link": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "language": "TypeScript",
+      "stars": 903,
+      "forks": 38,
+      "created_at": "2026-08-13T12:49:31Z"
+    },
+    {
+      "name": "sohaibdevv/youtube-music",
+      "link": "https://github.com/sohaibdevv/youtube-music",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "language": "TypeScript",
+      "stars": 857,
+      "forks": 0,
+      "created_at": "2026-08-11T18:17:18Z"
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "link": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stars": 733,
+      "forks": 10,
+      "created_at": "2026-08-12T13:48:50Z"
+    },
+    {
+      "name": "Hisn00w/ASu-skills",
+      "link": "https://github.com/Hisn00w/ASu-skills",
+      "description": "简历包装",
+      "language": "HTML",
+      "stars": 715,
+      "forks": 59,
+      "created_at": "2026-08-12T07:12:05Z"
+    },
+    {
+      "name": "shadcn-ui/chatbot-template",
+      "link": "https://github.com/shadcn-ui/chatbot-template",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "language": "TypeScript",
+      "stars": 676,
+      "forks": 61,
+      "created_at": "2026-08-11T11:53:02Z"
+    },
+    {
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "link": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "language": "TypeScript",
+      "stars": 600,
+      "forks": 22,
+      "created_at": "2026-08-13T13:02:14Z"
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "link": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "language": "HTML",
+      "stars": 593,
+      "forks": 52,
+      "created_at": "2026-08-14T03:14:33Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI Agent生态与AI基础设施两大方向。GitHub Trending上，AI相关项目占据半壁江山，涵盖从底层推理（cactus-compute/needle的14MB微型模型）到应用层（holaOS的AI Agent工作区、ego-lite的AI浏览器）的完整链条。最火方向无疑是AI，特别是围绕“DeepSeek Harness”衍生的插件生态（近7天狂揽近10万star）和RAG（检索增强生成）领域（ragflow）表现抢眼。前端与后端传统方向热度相对平淡。\n\n推荐关注：\n1. **deepseek-ai/deepseek-harness**：以“万物皆插件”理念构建的AI工具链，近7天近10万star印证其爆发力，是理解当前AI Agent生态演进的绝佳样本。\n2. **cactus-compute/needle**：将14MB基础模型跑在手机等微设备上，代表了AI向端侧下沉的明确趋势，极具前瞻性。\n3. **infiniflow/ragflow**：作为领先的开源RAG引擎，它直接服务于企业级知识库与检索增强应用，是AI落地生产环境的关键基础设施。"
+}
