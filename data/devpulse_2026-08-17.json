@@ -1,0 +1,247 @@
+{
+  "date": "2026-08-17",
+  "github_trending": [
+    {
+      "name": "cordiverse/cordis",
+      "link": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars_today": "720 stars today",
+      "total_stars": "4,718",
+      "ai_analysis": "这是一个面向时空智能体的元框架，主打“可组合性”，让开发者像拼乐高一样构建复杂时空应用。它突然爆火，很可能因为踩中了AI Agent与地理空间数据融合的风口，且TypeScript生态对前端开发者极友好。对开发者而言，它大幅降低了时空计算与多智能体协作的门槛，是探索下一代具身智能或数字孪生应用的高效起点。"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "link": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_today": "270 stars today",
+      "total_stars": "25,381",
+      "ai_analysis": "Omarchy 是 Basecamp 推出的“开箱即用”Linux 发行版，主打美观、现代且高度定制化的桌面体验。它最近爆火，源于 Basecamp 的品牌效应、对传统 Linux 复杂配置的反叛，以及“开发者审美”驱动的极简设计，契合了厌倦 DIY 的用户需求。对开发者而言，它提供了开箱即用的开发环境，省去大量配置时间，但因其“固执己见”的特性，更适合追求高效一致体验的团队或个人，而非喜欢深度定制的极客。"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "link": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars_today": "572 stars today",
+      "total_stars": "72,578",
+      "ai_analysis": "这是一个本地化大模型与扩散模型的训练/推理UI工具，支持Qwen3.8、DeepSeek-V4等最新模型。今日爆火源于其“一键运行”极简体验，大幅降低本地部署门槛，且紧跟前沿模型版本迭代。对开发者核心价值在于免去繁琐环境配置，快速验证模型效果，并支持LoRA微调，极大提升原型开发与实验效率。"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": "150 stars today",
+      "total_stars": "83,892"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "link": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars_today": "1,588 stars today",
+      "total_stars": "461,753"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "link": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars_today": "452 stars today",
+      "total_stars": "40,030"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "link": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars_today": "443 stars today",
+      "total_stars": "6,567"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "link": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 131789,
+      "forks": 13205,
+      "created_at": "2026-08-13T11:56:32Z"
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "link": "https://github.com/guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "language": "Python",
+      "stars": 11497,
+      "forks": 1208,
+      "created_at": "2026-08-11T16:32:38Z"
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "link": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "language": "TypeScript",
+      "stars": 8962,
+      "forks": 376,
+      "created_at": "2026-08-13T16:30:50Z"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "link": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 5162,
+      "forks": 877,
+      "created_at": "2026-08-13T13:55:31Z"
+    },
+    {
+      "name": "zhu1090093659/dsh-web-ui",
+      "link": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "language": "TypeScript",
+      "stars": 3434,
+      "forks": 204,
+      "created_at": "2026-08-12T05:15:20Z"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "link": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3031,
+      "forks": 95,
+      "created_at": "2026-08-14T14:06:39Z"
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "link": "https://github.com/yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "language": "PowerShell",
+      "stars": 2820,
+      "forks": 67,
+      "created_at": "2026-08-14T21:20:55Z"
+    },
+    {
+      "name": "cordiverse/paper",
+      "link": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": null,
+      "stars": 1875,
+      "forks": 75,
+      "created_at": "2026-08-13T09:53:33Z"
+    },
+    {
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stars": 1729,
+      "forks": 138,
+      "created_at": "2026-08-13T13:50:42Z"
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "link": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stars": 1666,
+      "forks": 26,
+      "created_at": "2026-08-12T13:48:50Z"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-TUI",
+      "link": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "language": "TypeScript",
+      "stars": 1547,
+      "forks": 66,
+      "created_at": "2026-08-13T12:49:31Z"
+    },
+    {
+      "name": "Leutenegger/book-to-skill",
+      "link": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 1153,
+      "forks": 142,
+      "created_at": "2026-08-13T13:15:23Z"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 1113,
+      "forks": 202,
+      "created_at": "2026-08-11T18:58:55Z"
+    },
+    {
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "link": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "language": "TypeScript",
+      "stars": 1093,
+      "forks": 39,
+      "created_at": "2026-08-13T13:02:14Z"
+    },
+    {
+      "name": "Hisn00w/ASu-skills",
+      "link": "https://github.com/Hisn00w/ASu-skills",
+      "description": "简历包装",
+      "language": "HTML",
+      "stars": 896,
+      "forks": 73,
+      "created_at": "2026-08-12T07:12:05Z"
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "link": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "language": "HTML",
+      "stars": 867,
+      "forks": 82,
+      "created_at": "2026-08-14T03:14:33Z"
+    },
+    {
+      "name": "sohaibdevv/youtube-music",
+      "link": "https://github.com/sohaibdevv/youtube-music",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "language": "TypeScript",
+      "stars": 856,
+      "forks": 0,
+      "created_at": "2026-08-11T18:17:18Z"
+    },
+    {
+      "name": "vercel-labs/eve-software-factory-template",
+      "link": "https://github.com/vercel-labs/eve-software-factory-template",
+      "description": "Meet Foreman, an eve Software Factory.",
+      "language": "TypeScript",
+      "stars": 834,
+      "forks": 54,
+      "created_at": "2026-08-12T12:34:43Z"
+    },
+    {
+      "name": "shadcn-ui/chatbot-template",
+      "link": "https://github.com/shadcn-ui/chatbot-template",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "language": "TypeScript",
+      "stars": 703,
+      "forks": 65,
+      "created_at": "2026-08-11T11:53:02Z"
+    },
+    {
+      "name": "shadcn-labs/pdfcn",
+      "link": "https://github.com/shadcn-labs/pdfcn",
+      "description": "Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.",
+      "language": "TypeScript",
+      "stars": 639,
+      "forks": 30,
+      "created_at": "2026-08-11T11:55:41Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI应用生态与开发工具链的爆发式增长。最火方向是AI基础设施与插件化生态，尤其是DeepSeek Harness（DSH）衍生出大量周边项目，占据近7天新项目榜单半壁江山，涵盖桌面端、插件集合、路由套件等，显示AI模型正从单点工具向可组合平台演进。同时，开源替代商业软件（如OpenCut对标CapCut）、端侧小模型（needle仅14MB）和Linux定制化（omarchy）也备受关注。\n\n推荐关注：1）**deepseek-ai/deepseek-harness**——以“万物皆插件”理念构建AI工作流，7天13万星标印证其生态爆发力，是理解下一代AI应用架构的钥匙；2）**cordiverse/cordis**——时空组合性元框架，将编程范式与空间计算结合，可能重塑交互应用开发；3）**public-apis**——持续维护的免费API集合，对快速原型验证和全栈开发极具实用价值。整体趋势显示，AI技术正快速下沉为开发基础设施，而围绕其的工具链和生态扩展成为当前创新最密集地带。"
+}
