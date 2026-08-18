@@ -1,0 +1,279 @@
+{
+  "date": "2026-08-18",
+  "github_trending": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars_today": "1,189 stars today",
+      "total_stars": "106,024",
+      "ai_analysis": "该项目通过AI大模型与自动化流水线，仅凭主题或关键词即可批量生成含配音、字幕的高清短视频，大幅降低内容创作门槛。近期爆火源于短视频行业爆发式需求，叠加AI生成技术成熟及开源免费特性，精准击中自媒体创业者的痛点。对开发者而言，其模块化架构和API设计提供了完整的AI工作流参考模板，便于二次开发或集成至商业产品，具有极高学习与复用价值。"
+    },
+    {
+      "name": "usestrix/strix",
+      "link": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars_today": "598 stars today",
+      "total_stars": "54,172",
+      "ai_analysis": "开源AI渗透测试工具，通过自动化扫描与修复建议帮助开发者定位应用漏洞。近期爆火或因AI安全赛道热度飙升，叠加“免费替代商业渗透工具”的噱头，且GitHub今日598星显示社区强需求。对开发者而言，可低成本集成至CI/CD流程，快速识别OWASP Top10风险，但需注意AI误报率及生产环境合规性，适合作为辅助审计而非完全替代人工测试。"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "link": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars_today": "120 stars today",
+      "total_stars": "25,916",
+      "ai_analysis": "这是一个用 Rust 构建的、具备确定性事件驱动架构的生产级交易引擎，主打低延迟和高性能。它最近爆火，核心原因是加密货币和量化交易圈对高性能、内存安全型基础设施的需求激增，且 Rust 在金融领域的生态正快速成熟，该项目恰好填补了空白。对开发者而言，其价值在于能直接用于构建高频交易系统，同时借鉴其严谨的架构设计来提升自身系统的并发处理能力和数据一致性。"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_today": "207 stars today",
+      "total_stars": "2,057"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "198 stars today",
+      "total_stars": "28,429"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "link": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars_today": "198 stars today",
+      "total_stars": "32,269"
+    },
+    {
+      "name": "santifer/career-ops",
+      "link": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars_today": "218 stars today",
+      "total_stars": "64,642"
+    },
+    {
+      "name": "jundot/omlx",
+      "link": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars_today": "78 stars today",
+      "total_stars": "18,989"
+    },
+    {
+      "name": "immich-app/immich",
+      "link": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars_today": "175 stars today",
+      "total_stars": "111,156"
+    },
+    {
+      "name": "cordiverse/cordis",
+      "link": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars_today": "957 stars today",
+      "total_stars": "5,584"
+    },
+    {
+      "name": "agalwood/Motrix",
+      "link": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars_today": "344 stars today",
+      "total_stars": "53,078"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "link": "https://github.com/deepseek-ai/deepseek-harness",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "language": "TypeScript",
+      "stars": 150100,
+      "forks": 15396,
+      "created_at": "2026-08-13T11:56:32Z"
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "link": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "language": "TypeScript",
+      "stars": 11679,
+      "forks": 525,
+      "created_at": "2026-08-13T16:30:50Z"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "link": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "language": "Python",
+      "stars": 7590,
+      "forks": 1088,
+      "created_at": "2026-08-13T13:55:31Z"
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "link": "https://github.com/yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "language": "PowerShell",
+      "stars": 5372,
+      "forks": 90,
+      "created_at": "2026-08-14T21:20:55Z"
+    },
+    {
+      "name": "zhu1090093659/dsh-web-ui",
+      "link": "https://github.com/zhu1090093659/dsh-web-ui",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "language": "TypeScript",
+      "stars": 4108,
+      "forks": 252,
+      "created_at": "2026-08-12T05:15:20Z"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "link": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3424,
+      "forks": 103,
+      "created_at": "2026-08-14T14:06:39Z"
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "link": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stars": 2372,
+      "forks": 40,
+      "created_at": "2026-08-12T13:48:50Z"
+    },
+    {
+      "name": "cordiverse/paper",
+      "link": "https://github.com/cordiverse/paper",
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "language": null,
+      "stars": 2114,
+      "forks": 84,
+      "created_at": "2026-08-13T09:53:33Z"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-TUI",
+      "link": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "language": "TypeScript",
+      "stars": 1814,
+      "forks": 79,
+      "created_at": "2026-08-13T12:49:31Z"
+    },
+    {
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "language": "C",
+      "stars": 1778,
+      "forks": 144,
+      "created_at": "2026-08-13T13:50:42Z"
+    },
+    {
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "link": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "language": "TypeScript",
+      "stars": 1253,
+      "forks": 41,
+      "created_at": "2026-08-13T13:02:14Z"
+    },
+    {
+      "name": "yetone/cumora",
+      "link": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "language": "TypeScript",
+      "stars": 1199,
+      "forks": 134,
+      "created_at": "2026-08-17T09:13:52Z"
+    },
+    {
+      "name": "Leutenegger/book-to-skill",
+      "link": "https://github.com/Leutenegger/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 1176,
+      "forks": 142,
+      "created_at": "2026-08-13T13:15:23Z"
+    },
+    {
+      "name": "Hisn00w/ASu-skills",
+      "link": "https://github.com/Hisn00w/ASu-skills",
+      "description": "简历包装",
+      "language": "HTML",
+      "stars": 1139,
+      "forks": 90,
+      "created_at": "2026-08-12T07:12:05Z"
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "link": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "language": "HTML",
+      "stars": 959,
+      "forks": 88,
+      "created_at": "2026-08-14T03:14:33Z"
+    },
+    {
+      "name": "vercel-labs/eve-software-factory-template",
+      "link": "https://github.com/vercel-labs/eve-software-factory-template",
+      "description": "Meet Foreman, an eve Software Factory.",
+      "language": "TypeScript",
+      "stars": 883,
+      "forks": 58,
+      "created_at": "2026-08-12T12:34:43Z"
+    },
+    {
+      "name": "dsh-market/dsh-market",
+      "link": "https://github.com/dsh-market/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "language": "TypeScript",
+      "stars": 829,
+      "forks": 58,
+      "created_at": "2026-08-14T04:58:15Z"
+    },
+    {
+      "name": "dataelement/dsh-desktop",
+      "link": "https://github.com/dataelement/dsh-desktop",
+      "description": "DeepSeek Harness Desktop",
+      "language": "TypeScript",
+      "stars": 778,
+      "forks": 70,
+      "created_at": "2026-08-13T13:45:50Z"
+    },
+    {
+      "name": "elie222/rakazo",
+      "link": "https://github.com/elie222/rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "language": "TypeScript",
+      "stars": 776,
+      "forks": 100,
+      "created_at": "2026-08-13T06:28:56Z"
+    },
+    {
+      "name": "ZSvirt/zsvirt",
+      "link": "https://github.com/ZSvirt/zsvirt",
+      "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+      "language": "Java",
+      "stars": 754,
+      "forks": 94,
+      "created_at": "2026-08-14T06:47:26Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI应用层与AI基础设施的深度融合。最火的方向无疑是AI，但已从单纯的大模型训练转向“AI+工具链”生态，具体表现为AI视频生成、AI安全测试、AI编程辅助及模型推理服务化。后端与DevOps方向的Rust项目（如交易引擎、推理服务器）也因高性能需求持续活跃。\n\n推荐关注以下项目：**harry0703/MoneyPrinterTurbo**，它降低了AI视频创作门槛，是AIGC落地应用的典型代表，商业价值直观；**usestrix/strix**，开源AI渗透测试工具，直击AI安全这一新兴刚需领域，技术壁垒高；**akitaonrails/ai-memory**，解决AI代理长期记忆痛点，是构建复杂Agent应用的关键拼图，具备底层创新潜力。这三个项目分别代表了AI内容生产、安全防御和记忆增强三大核心趋势。"
+}
