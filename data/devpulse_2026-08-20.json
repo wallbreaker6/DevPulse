@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-20",
+  "github_trending": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars_today": "2,221 stars today",
+      "total_stars": "110,653",
+      "ai_analysis": "该项目通过AI大模型和自动化工作流，将主题或关键词一键转化为高清短视频，实现从文案、配音到剪辑的全流程自动化。近期爆火主要源于短视频创作需求激增，且项目大幅降低了内容生产成本，契合了当下AIGC内容变现的热潮。对开发者而言，其价值在于提供了完整的自动化流水线参考，包括LLM调用、视频合成及多模态集成，是学习如何将AI能力产品化的绝佳实战案例。"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "link": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars_today": "804 stars today",
+      "total_stars": "30,182",
+      "ai_analysis": "OpenViking是火山引擎开源的“自进化上下文数据库”，为AI Agent统一管理记忆、知识RAG与技能调用。它今日暴涨804星，主因是直击LLM应用三大痛点：长对话记忆丢失、RAG检索割裂、工具调用碎片化。其“自进化”机制（根据交互自动更新知识库）极具差异化，对开发者而言，可大幅降低构建复杂Agent的工程成本，尤其适合需要持久化记忆和动态知识更新的生产级应用。"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "link": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_today": "795 stars today",
+      "total_stars": "2,690",
+      "ai_analysis": "这是一个用TypeScript构建的本地多智能体编排工具，类似轻量级AutoGen。它爆火源于契合当前AI Agent开发热潮，且“本地运行”直击数据隐私痛点，795日增星说明社区对简化多智能体协作框架的强烈需求。对开发者而言，它提供了低门槛的Agent间消息传递与任务分配原型，适合快速验证多角色协作逻辑，但需注意其生态尚早期，生产级稳定性待观察。"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "766 stars today",
+      "total_stars": "29,839"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "link": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars_today": "80 stars today",
+      "total_stars": "26,444"
+    },
+    {
+      "name": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars_today": "1,894 stars today",
+      "total_stars": "223,800"
+    },
+    {
+      "name": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "557 stars today",
+      "total_stars": "274,269"
+    },
+    {
+      "name": "jundot/omlx",
+      "link": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars_today": "472 stars today",
+      "total_stars": "19,836"
+    },
+    {
+      "name": "santifer/career-ops",
+      "link": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars_today": "198 stars today",
+      "total_stars": "65,789"
+    },
+    {
+      "name": "immich-app/immich",
+      "link": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars_today": "128 stars today",
+      "total_stars": "111,874"
+    },
+    {
+      "name": "amadeusprotocol/node",
+      "link": "https://github.com/amadeusprotocol/node",
+      "description": "暂无描述",
+      "language": "Rust",
+      "stars_today": "1,397 stars today",
+      "total_stars": "4,544"
+    },
+    {
+      "name": "marceloprates/prettymaps",
+      "link": "https://github.com/marceloprates/prettymaps",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "language": "Python",
+      "stars_today": "63 stars today",
+      "total_stars": "13,117"
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "link": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "暂无描述",
+      "language": "TypeScript",
+      "stars_today": "430 stars today",
+      "total_stars": "16,224"
+    }
+  ],
+  "github_new_repos": [
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "link": "https://github.com/yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "language": "PowerShell",
+      "stars": 6299,
+      "forks": 112,
+      "created_at": "2026-08-14T21:20:55Z"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "link": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stars": 3637,
+      "forks": 109,
+      "created_at": "2026-08-14T14:06:39Z"
+    },
+    {
+      "name": "yetone/cumora",
+      "link": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "language": "TypeScript",
+      "stars": 2684,
+      "forks": 307,
+      "created_at": "2026-08-17T09:13:52Z"
+    },
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "link": "https://github.com/s1dashu/ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "language": null,
+      "stars": 2090,
+      "forks": 94,
+      "created_at": "2026-08-18T13:59:23Z"
+    },
+    {
+      "name": "dsh-market/dsh-market",
+      "link": "https://github.com/dsh-market/dsh-market",
+      "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "language": "TypeScript",
+      "stars": 1253,
+      "forks": 77,
+      "created_at": "2026-08-14T04:58:15Z"
+    },
+    {
+      "name": "cinderline/northcinder",
+      "link": "https://github.com/cinderline/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "language": "JavaScript",
+      "stars": 1193,
+      "forks": 4,
+      "created_at": "2026-08-17T11:42:31Z"
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "link": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "language": "HTML",
+      "stars": 1073,
+      "forks": 96,
+      "created_at": "2026-08-14T03:14:33Z"
+    },
+    {
+      "name": "ZSvirt/zsvirt",
+      "link": "https://github.com/ZSvirt/zsvirt",
+      "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+      "language": "Java",
+      "stars": 1068,
+      "forks": 143,
+      "created_at": "2026-08-14T06:47:26Z"
+    },
+    {
+      "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "link": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+      "description": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro).",
+      "language": null,
+      "stars": 1018,
+      "forks": 66,
+      "created_at": "2026-08-16T11:38:42Z"
+    },
+    {
+      "name": "zouyuxuan122/Deepseek-Harness-EAC",
+      "link": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "language": "JavaScript",
+      "stars": 960,
+      "forks": 29,
+      "created_at": "2026-08-14T16:29:54Z"
+    },
+    {
+      "name": "Leutenegger/watermarks-remover",
+      "link": "https://github.com/Leutenegger/watermarks-remover",
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "language": "Python",
+      "stars": 912,
+      "forks": 94,
+      "created_at": "2026-08-19T15:20:24Z"
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "link": "https://github.com/wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "language": "Python",
+      "stars": 607,
+      "forks": 10,
+      "created_at": "2026-08-18T04:08:11Z"
+    },
+    {
+      "name": "hairyf/deepseek-harness-desktop",
+      "link": "https://github.com/hairyf/deepseek-harness-desktop",
+      "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+      "language": "Rust",
+      "stars": 602,
+      "forks": 36,
+      "created_at": "2026-08-14T02:36:29Z"
+    },
+    {
+      "name": "SigmanticAI/apex-inference-chip",
+      "link": "https://github.com/SigmanticAI/apex-inference-chip",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "language": "Python",
+      "stars": 576,
+      "forks": 1,
+      "created_at": "2026-08-17T04:25:26Z"
+    },
+    {
+      "name": "Alain00/blobatar",
+      "link": "https://github.com/Alain00/blobatar",
+      "description": null,
+      "language": "TypeScript",
+      "stars": 574,
+      "forks": 37,
+      "created_at": "2026-08-15T11:51:19Z"
+    },
+    {
+      "name": "jeremy-prt/bloub",
+      "link": "https://github.com/jeremy-prt/bloub",
+      "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+      "language": "TypeScript",
+      "stars": 533,
+      "forks": 58,
+      "created_at": "2026-08-15T13:21:23Z"
+    },
+    {
+      "name": "browser-use/macos-harness",
+      "link": "https://github.com/browser-use/macos-harness",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "language": "Python",
+      "stars": 526,
+      "forks": 36,
+      "created_at": "2026-08-17T00:22:20Z"
+    },
+    {
+      "name": "DenisSergeevitch/desktop-fly",
+      "link": "https://github.com/DenisSergeevitch/desktop-fly",
+      "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
+      "language": "Swift",
+      "stars": 515,
+      "forks": 30,
+      "created_at": "2026-08-18T17:29:17Z"
+    },
+    {
+      "name": "SheberDavid/v4-flash-godmode-opencode-go",
+      "link": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "language": "JavaScript",
+      "stars": 497,
+      "forks": 12,
+      "created_at": "2026-08-15T06:10:13Z"
+    },
+    {
+      "name": "pg83/solo",
+      "link": "https://github.com/pg83/solo",
+      "description": "Portable Linux binaries, solved",
+      "language": "C++",
+      "stars": 490,
+      "forks": 11,
+      "created_at": "2026-08-14T13:56:51Z"
+    }
+  ],
+  "daily_summary": "今日技术热点集中在AI Agent生态的爆发式落地，尤其是“技能化”与“自动化”成为关键词。GitHub Trending上，AI驱动的短视频生成（MoneyPrinterTurbo）、面向AI代理的网络安全技能库（Anthropic-Cybersecurity-Skills）、以及本地多代理框架（munder-difflin）热度最高，显示从“对话”走向“执行”的明确趋势。方向最火的是AI，特别是Agent工具链与基础设施（如OpenViking的上下文数据库、nautilus_trader的量化交易引擎），同时前端与DevOps相对平淡，但TypeScript在Agent UI和插件市场（cumora、dsh-market）中表现活跃。\n\n推荐关注：1）**MoneyPrinterTurbo**——将大模型与工作流结合，一键生成短视频，是AIGC落地的高效范本；2）**Anthropic-Cybersecurity-Skills**——结构化技能库让Agent具备专业安全能力，代表垂直领域Agent化的方向；3）**immich**——自托管照片管理，虽非AI但社区活跃，体现个人数据主权需求，长期价值高。"
+}
